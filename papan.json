@@ -16,7 +16,7 @@
    "hadiah_didapat": null,
    "jadwal_mulai_utc": "2026-11-21T23:59:00Z",
    "judul": "Make the best stealth game",
-   "kelonggaran_menit": -1475,
+   "kelonggaran_menit": -1533,
    "langkah_berikutnya": null,
    "langkah_terakhir_selesai": "V1 'Tidelock' disubmit manual 22 Nov 05:20Z (sistem lama)",
    "menunggu_apa": null,
@@ -55,7 +55,7 @@
    "hadiah_didapat": null,
    "jadwal_mulai_utc": "2026-11-22T09:44:00Z",
    "judul": "Make the best heist game",
-   "kelonggaran_menit": -755,
+   "kelonggaran_menit": -813,
    "langkah_berikutnya": "— (tunggu hasil V2; round 2 cutoff 11:59Z sudah lewat, hasil belum terbaca; round 3 dinilai 14:59Z sudah lewat, hasil belum terbaca; final 17:59Z)",
    "langkah_terakhir_selesai": "V2 SUBMITTED 11:13:03Z (01a202f5, repo stormlight-ledger-heist-v2, commit 4383b28; platform passed checks; masuk round 2, cutoff 11:59Z)",
    "menunggu_apa": null,
@@ -94,7 +94,7 @@
    "hadiah_didapat": null,
    "jadwal_mulai_utc": "2026-11-22T02:42:00Z",
    "judul": "Read broken CSV files faster, 21 November 2026",
-   "kelonggaran_menit": -352,
+   "kelonggaran_menit": -410,
    "langkah_berikutnya": "— (tunggu hasil V2)",
    "langkah_terakhir_selesai": "V2 SUBMITTED 12:00:50Z (01a20321, commit 7671b1c; platform passed checks; claim AF-DB3NR-EBMB7-GRQQ5-C31CT)",
    "menunggu_apa": null,
@@ -133,7 +133,7 @@
    "hadiah_didapat": null,
    "jadwal_mulai_utc": "2026-11-22T13:00:00Z",
    "judul": "Build the best Sokoban solver, 21 November 2026",
-   "kelonggaran_menit": 86,
+   "kelonggaran_menit": 28,
    "langkah_berikutnya": "— (tunggu hasil V2)",
    "langkah_terakhir_selesai": "V2 SUBMITTED 13:43:02Z (01a2037e, commit 80e9317; platform passed checks; claim AF-NV87Z-5JFKS-CYCGK-61662)",
    "menunggu_apa": null,
@@ -174,7 +174,7 @@
    "hadiah_didapat": null,
    "jadwal_mulai_utc": null,
    "judul": "Clip GTA 6 for the most YouTube views",
-   "kelonggaran_menit": -64,
+   "kelonggaran_menit": -122,
    "langkah_berikutnya": null,
    "langkah_terakhir_selesai": null,
    "menunggu_apa": null,
@@ -215,7 +215,7 @@
    "hadiah_didapat": null,
    "jadwal_mulai_utc": "2026-11-22T00:00:00Z",
    "judul": "Sum up 21 November's world news in one image",
-   "kelonggaran_menit": -34,
+   "kelonggaran_menit": -92,
    "langkah_berikutnya": "— (tunggu hasil V3; hasil due 7 Des 2026)",
    "langkah_terakhir_selesai": "V3 SUBMITTED 13:58:50Z (01a2038d, commit 5ce9fc4, claim AF-PDC65-8J83G-6E3M9-6ZM4W; platform passed checks; Gate 2 13:31Z SUBMIT, Gas Kavi 20:58 WIB)",
    "menunggu_apa": null,
@@ -256,7 +256,7 @@
    "hadiah_didapat": null,
    "jadwal_mulai_utc": null,
    "judul": "Post a GTA 6 meme on X",
-   "kelonggaran_menit": 716,
+   "kelonggaran_menit": 658,
    "langkah_berikutnya": null,
    "langkah_terakhir_selesai": null,
    "menunggu_apa": null,
@@ -295,7 +295,7 @@
    "hadiah_didapat": null,
    "jadwal_mulai_utc": "2026-11-23T00:00:00Z",
    "judul": "Sum up 22 November's world news in one image",
-   "kelonggaran_menit": 1406,
+   "kelonggaran_menit": 1348,
    "langkah_berikutnya": "BUILDER",
    "langkah_terakhir_selesai": null,
    "menunggu_apa": null,
@@ -323,7 +323,7 @@
   {
    "blocker": [],
    "buka_utc": "2026-11-17T15:00:00Z",
-   "catatan": "v2 TER-GRADE live 08:24Z: rank #6.431, judge 983.063 — gerbang V3 terpenuhi, menunggu giliran. STRICT RECORDING (overlay-transkrip-ketat, mode rekam). V3 manual (butuh jalankan-gta6-01-v3.txt; belum ada). Hasil due 10 Des 2026.",
+   "catatan": "V3 OTOMATIS per perintah Kavi 23 Nov 05:00 WIB (KHUSUS 23 Nov 2026 saja; revert dijadwalkan 24 Nov 00:05 WIB). v2 TER-GRADE live 08:24Z: rank #6.431, judge 983.063 — gerbang V3 terpenuhi.",
    "duel_a": {
     "n": 0,
     "putusan": null,
@@ -334,8 +334,8 @@
    "hadiah_didapat": null,
    "jadwal_mulai_utc": "2026-11-21T03:00:00Z",
    "judul": "Make GTA 6",
-   "kelonggaran_menit": 1886,
-   "langkah_berikutnya": "BUILDER",
+   "kelonggaran_menit": 1828,
+   "langkah_berikutnya": "BUILDER V3 (OTOMATIS 23 Nov — tanpa file inbox, tanpa Gate 2; pekerja mengambil saat giliran)",
    "langkah_terakhir_selesai": null,
    "menunggu_apa": null,
    "menunggu_sejak_utc": null,
@@ -364,22 +364,22 @@
     "kit check --transcripts FAIL thinking_reproduces 9,4% (36/380); rebundle kit 36 memberi angka IDENTIK"
    ],
    "buka_utc": "2026-11-10T17:00:00Z",
-   "catatan": "V4 'Pinnacle IV' kandidat siap (repo tiny-chess-v4, commit 9d4b97d; trial-0 6-0-0 spare 805, gauntlet 8-0-0 spare 950, trial-1 6-0-0 spare 569); v3 live #343/15.516. TERBUKTI 15:52Z: rebundle kit 36 memberi angka IDENTIK (36/380, 9,4%) — kit 32 tidak salah hitung; penyebabnya cara src.py ditulis di sesi builder (hanya 36 baris terlacak authored). Tenggat 24 Nov 17:00Z; batas selesai 24 Nov 16:00Z. BLOKIR 14:41Z + 15:13Z: pemeriksaan risiko eksekusi saat membaca isi bundle lama — rantai rebundle kit 36 + kit check + submit butuh satu tap eksplisit Kavi di sesi live (sudah dipakai 22:46 WIB, rantai selesai 15:52Z).",
+   "catatan": "MINTA APPROVAL sejak 07:56Z TERSELESAIKAN oleh keputusan Kavi (c) 04:54 WIB; status kembali MENUNGGU. Kit check FAIL thinking_reproduces 9,4% (36/380) dikonfirmasi ulang dengan rebundle kit 36 (angka IDENTIK); hipotesis kit-32-salah-hitung gugur.",
    "duel_a": {
     "n": 20,
     "putusan": "TIDAK DITOLAK (v4 20-0-0 vs v3 18-0-2)",
     "win_rate": 1.0
    },
-   "file_inbox": "catatan-tiny-chess-01-V4.txt",
+   "file_inbox": null,
    "hadiah": "$500.00",
    "hadiah_didapat": null,
-   "jadwal_mulai_utc": "2026-11-11T05:00:00Z",
+   "jadwal_mulai_utc": "2026-11-23T17:00:00Z",
    "judul": "Build the strongest chess engine in 4 KB of Python",
-   "kelonggaran_menit": 1946,
-   "langkah_berikutnya": null,
-   "langkah_terakhir_selesai": "CROSSCHECK V4 (ulang) 07:45Z — GO; bundle 07:53Z (764.166 byte, 5 sesi); kit check --transcripts FAIL thinking_reproduces 9,4% (36/380) — SUBMIT DIBLOKIR; BLOKIR 14:41Z (pekerja) + 15:13Z (sesi live, Gas Kavi 22:13 WIB): pemeriksaan risiko eksekusi saat membaca bundle lama; REBUNDLE kit 36 SELESAI 15:52Z (sesi live, Gas Kavi 22:46 WIB) — bundle baru 799.808 byte sha256 f3c907b9 (5 sesi, run record lengkap); kit check FAIL thinking_reproduces 9,4% (36/380) IDENTIK kit 32, hipotesis kit-32-salah-hitung GUGUR; kunci dikosongkan",
-   "menunggu_apa": "Keputusan Kavi: (b) submit apa adanya atau (c) tulis ulang src.py segar di sesi baru",
-   "menunggu_sejak_utc": "2026-11-22T07:56:00Z",
+   "kelonggaran_menit": 1888,
+   "langkah_berikutnya": "BUILDER (rewrite src.py segar dari src-v4-lama.py) 24 Nov 00:00 WIB",
+   "langkah_terakhir_selesai": "REWRITE DIJEDA 05:01 WIB (perintah Kavi: khusus jam 12 malam; builder dihentikan; src.py parsial dipindah ke src-v4-parsial-0501.py; src.py lama dicadangkan ke src-v4-lama.py). Kavi pilih opsi (c) 23 Nov 04:54 WIB + AUTO-GAS PENUH; REBUNDLE kit 36 selesai 15:52Z, kit check FAIL identik 36/380 (9,4%)",
+   "menunggu_apa": "Jadwal rewrite 24 Nov 00:00 WIB (keputusan (c) Kavi sudah ada 04:54 WIB — bukan lagi menunggu keputusan)",
+   "menunggu_sejak_utc": null,
    "mulai_dikerjakan_utc": "2026-11-22T04:32:00Z",
    "mulai_terakhir_utc": "2026-11-24T06:00:00Z",
    "peringkat": 343,
@@ -388,7 +388,7 @@
    "selesai_dikerjakan_utc": null,
    "skor": null,
    "slug": "tiny-chess-01",
-   "status": "MINTA APPROVAL",
+   "status": "MENUNGGU",
    "submit_status": "DIBLOKIR (V4, 07:55Z — gerbang transkrip gagal, tidak makan kuota)",
    "submit_utc": null,
    "tautan": "https://make.fun/bounty/tiny-chess-01",
@@ -414,7 +414,7 @@
    "hadiah_didapat": null,
    "jadwal_mulai_utc": "2026-11-23T14:00:00Z",
    "judul": "Build mend, one patch tool for every AI edit format",
-   "kelonggaran_menit": 2186,
+   "kelonggaran_menit": 2128,
    "langkah_berikutnya": "BUILDER",
    "langkah_terakhir_selesai": null,
    "menunggu_apa": null,
@@ -453,7 +453,7 @@
    "hadiah_didapat": null,
    "jadwal_mulai_utc": "2026-11-23T16:00:00Z",
    "judul": "Build a tiny stack virtual machine, 22 November 2026",
-   "kelonggaran_menit": 2606,
+   "kelonggaran_menit": 2548,
    "langkah_berikutnya": "BUILDER",
    "langkah_terakhir_selesai": null,
    "menunggu_apa": null,
@@ -483,40 +483,40 @@
     "v4 'radar-5' DITOLAK server — rebuild segar butuh Gas baru Kavi"
    ],
    "buka_utc": "2026-11-14T10:00:00Z",
-   "catatan": "v3 'radar-4' berdiri (#2.898); v4 'radar-5' DITOLAK server 21 Nov (run record); can_submit TRUE. Hasil due 28 Des 2026.",
+   "catatan": "V4 DITUTUP 23 Nov 04:57 WIB (AUTO-GAS PENUH); v3 final. Bila Kavi minta v4 dibangun ulang, buka lagi sebelum tenggat 14 Des 2026.",
    "duel_a": {
     "n": 0,
     "putusan": null,
     "win_rate": null
    },
-   "file_inbox": "catatan-token-radar-01-V4.txt",
+   "file_inbox": null,
    "hadiah": "$1325.00",
    "hadiah_didapat": null,
    "jadwal_mulai_utc": "2026-11-14T22:00:00Z",
    "judul": "Build the best token launch radar",
-   "kelonggaran_menit": 30326,
-   "langkah_berikutnya": "BUILDER",
-   "langkah_terakhir_selesai": null,
-   "menunggu_apa": "Gas baru Kavi untuk rebuild segar v4 (bukan status MINTA APPROVAL — keputusan diketahui menunggu)",
+   "kelonggaran_menit": 30268,
+   "langkah_berikutnya": null,
+   "langkah_terakhir_selesai": "v3 'radar-4' berdiri (01a1e52e, repo token-radar-v3; #3.431/16.859 live 04:55 WIB, judge 909.237); V4 DITUTUP 23 Nov 04:57 WIB (AUTO-GAS PENUH: rekomendasi Zet terima v3 sebagai final)",
+   "menunggu_apa": null,
    "menunggu_sejak_utc": null,
    "mulai_dikerjakan_utc": null,
    "mulai_terakhir_utc": "2026-12-13T23:00:00Z",
-   "peringkat": 2898,
+   "peringkat": 3431,
    "prioritas": false,
    "putaran": null,
    "selesai_dikerjakan_utc": null,
-   "skor": null,
+   "skor": "909.237 (judge)",
    "slug": "token-radar-01",
-   "status": "MENUNGGU",
+   "status": "SELESAI",
    "submit_status": null,
    "submit_utc": null,
    "tautan": "https://make.fun/bounty/token-radar-01",
    "tempat_dibayar": 10,
    "tenggat_utc": "2026-12-14T10:00:00Z",
    "tipe_baru": false,
-   "total_peserta": 14781,
+   "total_peserta": 16859,
    "type_card": "metrik-grader.txt",
-   "versi": 4,
+   "versi": 3,
    "vonis_crosscheck": null
   },
   {
@@ -736,7 +736,7 @@
    "hadiah_didapat": null,
    "jadwal_mulai_utc": "2026-11-23T20:00:00Z",
    "judul": "Build a static site faster, 22 November 2026",
-   "kelonggaran_menit": 2546,
+   "kelonggaran_menit": 2488,
    "langkah_berikutnya": "BUILDER",
    "langkah_terakhir_selesai": "Dibuka 20:00Z; penemuan 21:00Z pindahkan ke MENUNGGU (entry 1.732; deadline, hadiah $100, GRATIS terverifikasi ulang dari API)",
    "menunggu_apa": null,
@@ -777,7 +777,7 @@
    "hadiah_didapat": null,
    "jadwal_mulai_utc": "2026-11-22T16:00:00Z",
    "judul": "Make the AI judge feel held",
-   "kelonggaran_menit": -274,
+   "kelonggaran_menit": -332,
    "langkah_berikutnya": null,
    "langkah_terakhir_selesai": "BUILDER V1 selesai 17:21Z (repo feel-held-v1 commit 0d6aac1, gerbang G1-G10 LOLOS); CROSSCHECK V1 FIX_FIRST 17:30Z (ENV-1, replikasi dua-run belum jalan)",
    "menunggu_apa": null,
@@ -803,9 +803,11 @@
    "vonis_crosscheck": "FIX_FIRST (ENV-1, 17:30Z)"
   },
   {
-   "blocker": [],
+   "blocker": [
+    "Grade run server GAGAL run_completes (exit 1, EPERM chmod root /output) — diperbaiki commit 1712c98; submit ulang dibuka setelah crosscheck ulang GO 22:30Z"
+   ],
    "buka_utc": "2026-11-22T18:26:00Z",
-   "catatan": "Buka 23 Nov 01:26 WIB (18:26Z); penemuan 18:58Z pindahkan ke MENUNGGU (entry 1.124; deadline 2026-11-23T06:26Z, hadiah $50, GRATIS, kuota 10/hari 20 total — terverifikasi ulang dari API); jadwal V1 titik tengah 2026-11-23T00:26Z / 23 Nov 07:26 WIB (RENTANG 12 jam); V2: 1/4 sisa setelah V1 submit; MULAI TERAKHIR 21:56Z, kelonggaran 22m; PENGAMAN MEMICU dan pekerja 21:31Z mengambilnya (peristiwa.md 21:32:47Z) — kini DIPROSES, BUILDER berjalan, kunci dipegang v12-pekerja.",
+   "catatan": "V1 'Monsoon Market' SUBMITTED 22:16:50Z (01a20555, claim AF-M02EB-HWH5V-NH71X-3X003; kit check 14 passed 0 failed, reproduces 99,3%) tetapi grade run server GAGAL run_completes (exit 1 EPERM chmod root /output); IMPROVE putaran 2 selesai 22:26Z (commit 1712c98, repro grader exit 0); CROSSCHECK ulang putaran 2 GO 22:30Z; submit ulang dibuka. Cutoff ronde 2 00:26Z; tenggat 06:26Z.",
    "duel_a": {
     "n": 0,
     "putusan": null,
@@ -816,22 +818,22 @@
    "hadiah_didapat": null,
    "jadwal_mulai_utc": "2026-11-23T00:26:00Z",
    "judul": "Make the best card game",
-   "kelonggaran_menit": 22,
-   "langkah_berikutnya": "BUILDER (berjalan sejak 21:31Z; MODE OTOMATIS, SUBMIT OTOMATIS)",
-   "langkah_terakhir_selesai": "Diambil pekerja 21:31Z (pengaman OTOMASI-MUSE butir 49: sisa ke batas selesai 05:26Z = 7j55m < jam minimum 8j; MULAI TERAKHIR 21:56Z, 25m lagi saat diambil) — BUILDER dibuka; kunci dipegang v12-pekerja",
+   "kelonggaran_menit": -36,
+   "langkah_berikutnya": "SUBMIT ulang (runner; cek blind slot tepat sebelum submit)",
+   "langkah_terakhir_selesai": "CROSSCHECK ulang putaran 2 GO 22:30Z (repro kondisi grader exit 0, kontrol kode lama exit 1 EPERM; HEAD 1712c98; kuota live 22:28Z can_submit TRUE, hari 9, hard 39)",
    "menunggu_apa": null,
    "menunggu_sejak_utc": null,
    "mulai_dikerjakan_utc": "2026-11-22T21:31:00Z",
    "mulai_terakhir_utc": "2026-11-22T21:56:00Z",
    "peringkat": null,
    "prioritas": false,
-   "putaran": null,
+   "putaran": 2,
    "selesai_dikerjakan_utc": null,
    "skor": null,
    "slug": "best-card-game-20261122-1826",
    "status": "DIPROSES",
-   "submit_status": null,
-   "submit_utc": null,
+   "submit_status": "submitted 22:16:50Z (01a20555) — grade run server GAGAL run_completes (exit 1 EPERM); perbaikan commit 1712c98, submit ulang menunggu crosscheck ulang GO 22:30Z",
+   "submit_utc": "2026-11-22T22:16:50Z",
    "tautan": "https://make.fun/bounty/best-card-game-20261122-1826",
    "tempat_dibayar": 10,
    "tenggat_utc": "2026-11-23T06:26:00Z",
@@ -839,7 +841,7 @@
    "total_peserta": null,
    "type_card": "game-2d.txt",
    "versi": 1,
-   "vonis_crosscheck": null
+   "vonis_crosscheck": "GO (CROSSCHECK ulang putaran 2, 22:30Z)"
   },
   {
    "blocker": [
@@ -857,7 +859,7 @@
    "hadiah_didapat": null,
    "jadwal_mulai_utc": null,
    "judul": "The picture that tastes of one ingredient",
-   "kelonggaran_menit": -167,
+   "kelonggaran_menit": -225,
    "langkah_berikutnya": null,
    "langkah_terakhir_selesai": null,
    "menunggu_apa": null,
@@ -885,7 +887,7 @@
   {
    "blocker": [],
    "buka_utc": "2026-11-22T21:38:00Z",
-   "catatan": "Buka 23 Nov 04:38 WIB; jendela 3 jam — V1 kemungkinan mulai segera saat buka (pengaman); OVERLAY overlay-transkrip-ketat (rekaman tersegel, mode rekam); hadiah $50; GRATIS; kuota 20/hari, 40 total.",
+   "catatan": "CELAH: buka 21:38Z (54m lalu) tetapi penemuan 22:00Z tidak tercatat di peristiwa.md — masih BELUM DIBUKA di antrean. Jendela 3 jam, tenggat 00:38Z; MULAI TERAKHIR 21:38Z sudah lewat — begitu ditemukan, pengaman harus langsung memulai V1.",
    "duel_a": {
     "n": 0,
     "putusan": null,
@@ -1082,53 +1084,53 @@
    "vonis_crosscheck": null
   }
  ],
- "dibuat_pada_utc": "2026-11-22T21:34:00Z",
+ "dibuat_pada_utc": "2026-11-22T22:32:00Z",
  "kunci": {
-  "langkah_terakhir": "BUILDER dibuka pekerja 21:31Z (pengaman memicu; MODE OTOMATIS, SUBMIT OTOMATIS); peristiwa.md 21:32:47Z",
+  "langkah_terakhir": "CROSSCHECK ulang putaran 2 selesai 22:30Z — vonis GO; submit ulang dibuka",
   "sejak_utc": "2026-11-22T21:31:00Z",
   "slug": "best-card-game-20261122-1826",
   "terpakai": true
  },
  "peristiwa_terakhir": [
   {
-   "pesan": "pekerja: jalan 20:11Z — kunci kosong (0 byte, terverifikasi ulang), inbox kosong (tidak ada file keputusan baru; inbox/done/ berisi 4 file yang sudah diproses). Tidak ada kandidat MENUNGGU yang bisa diambil: gta6-01 V3 manual (butuh jalankan-gta6-01-v3.txt, belum ada), token-radar-01 v4 butuh Gas baru Kavi (belum ada), news-image-20261122 jadwal 23 Nov 00:00Z, best-card-game-20261122-1826 jadwal 23 Nov 00:26Z, hidden-spec-cli-01 jadwal 23 Nov 14:00Z, dan tiny-stack-vm-01 jadwal 23 Nov 16:00Z belum lewat. tiny-chess V4 tetap MINTA APPROVAL (satu-satunya yang menunggu keputusan Kavi). BELUM DIBUKA: site-generator-speed-01-run-20261122 buka 20:00Z (11m lalu) — masih BELUM DIBUKA di antrean, menunggu jalan penemuan 21:00Z; pekerja tidak mengambil BELUM DIBUKA; the-picture-that-tastes-of-one-20261122-2047 buka 20:47Z (36m lagi). make-the-ai-judge-feel-held-20261122-1600 tenggat 20:00Z sudah lewat 11m — sudah SELESAI (TERLAMBAT) sejak 19:01Z, tidak ada tindakan. gta6-clipper-01 MULAI TERAKHIR 20:30Z tinggal 19m — sudah SELESAI (DILEWATI), tidak ada tindakan. Kandidat berikutnya: news-image-20261122 V1 23 Nov 00:00Z / 07:00 WIB. Kunci tetap kosong; berhenti.",
-   "waktu_utc": "2026-11-22T20:11:00Z"
-  },
-  {
-   "pesan": "pekerja: jalan 20:21Z — kunci kosong (0 byte, terverifikasi ulang), inbox kosong (tidak ada file keputusan baru; inbox/done/ berisi 4 file yang sudah diproses). Tidak ada kandidat MENUNGGU yang bisa diambil: gta6-01 V3 manual (butuh jalankan-gta6-01-v3.txt, belum ada), token-radar-01 v4 butuh Gas baru Kavi (belum ada), news-image-20261122 jadwal 23 Nov 00:00Z, best-card-game-20261122-1826 jadwal 23 Nov 00:26Z, hidden-spec-cli-01 jadwal 23 Nov 14:00Z, dan tiny-stack-vm-01 jadwal 23 Nov 16:00Z belum lewat. tiny-chess V4 tetap MINTA APPROVAL (satu-satunya yang menunggu keputusan Kavi). BELUM DIBUKA: site-generator-speed-01-run-20261122 buka 20:00Z (21m lalu) — masih BELUM DIBUKA di antrean, menunggu jalan penemuan 21:00Z; pekerja tidak mengambil BELUM DIBUKA; the-picture-that-tastes-of-one-20261122-2047 buka 20:47Z (26m lagi). make-the-ai-judge-feel-held-20261122-1600 tenggat 20:00Z sudah lewat 21m — sudah SELESAI (TERLAMBAT) sejak 19:01Z, tidak ada tindakan. gta6-clipper-01 MULAI TERAKHIR 20:30Z tinggal 9m — sudah SELESAI (DILEWATI), tidak ada tindakan. Kandidat berikutnya: news-image-20261122 V1 23 Nov 00:00Z / 07:00 WIB. Kunci tetap kosong; berhenti.",
-   "waktu_utc": "2026-11-22T20:21:00Z"
-  },
-  {
-   "pesan": "pekerja: jalan 20:31Z — kunci kosong (0 byte, terverifikasi ulang), inbox kosong (tidak ada file keputusan baru; inbox/done/ berisi 4 file yang sudah diproses). Tidak ada kandidat MENUNGGU yang bisa diambil: gta6-01 V3 manual (butuh jalankan-gta6-01-v3.txt, belum ada), token-radar-01 v4 butuh Gas baru Kavi (belum ada), news-image-20261122 jadwal 23 Nov 00:00Z, best-card-game-20261122-1826 jadwal 23 Nov 00:26Z, hidden-spec-cli-01 jadwal 23 Nov 14:00Z, dan tiny-stack-vm-01 jadwal 23 Nov 16:00Z belum lewat. tiny-chess V4 tetap MINTA APPROVAL (satu-satunya yang menunggu keputusan Kavi). BELUM DIBUKA: site-generator-speed-01-run-20261122 buka 20:00Z (31m lalu) — masih BELUM DIBUKA di antrean, menunggu jalan penemuan 21:00Z; pekerja tidak mengambil BELUM DIBUKA; the-picture-that-tastes-of-one-20261122-2047 buka 20:47Z (16m lagi). make-the-ai-judge-feel-held-20261122-1600 tenggat 20:00Z sudah lewat 31m — sudah SELESAI (TERLAMBAT) sejak 19:01Z, tidak ada tindakan. gta6-clipper-01 MULAI TERAKHIR 20:30Z baru lewat 1m — sudah SELESAI (DILEWATI), tidak ada tindakan. Kandidat berikutnya: news-image-20261122 V1 23 Nov 00:00Z / 07:00 WIB. Kunci tetap kosong; berhenti.",
-   "waktu_utc": "2026-11-22T20:31:00Z"
-  },
-  {
-   "pesan": "pekerja: jalan 20:41Z — kunci kosong (0 byte, terverifikasi ulang), inbox kosong (tidak ada file keputusan baru; inbox/done/ berisi 4 file yang sudah diproses). Tidak ada kandidat MENUNGGU yang bisa diambil: gta6-01 V3 manual (butuh jalankan-gta6-01-v3.txt, belum ada), token-radar-01 v4 butuh Gas baru Kavi (belum ada), news-image-20261122 jadwal 23 Nov 00:00Z, best-card-game-20261122-1826 jadwal 23 Nov 00:26Z, hidden-spec-cli-01 jadwal 23 Nov 14:00Z, dan tiny-stack-vm-01 jadwal 23 Nov 16:00Z belum lewat. tiny-chess V4 tetap MINTA APPROVAL (satu-satunya yang menunggu keputusan Kavi). BELUM DIBUKA: site-generator-speed-01-run-20261122 buka 20:00Z (41m lalu) — masih BELUM DIBUKA di antrean, menunggu jalan penemuan 21:00Z; pekerja tidak mengambil BELUM DIBUKA; the-picture-that-tastes-of-one-20261122-2047 buka 20:47Z (6m lagi). make-the-ai-judge-feel-held-20261122-1600 tenggat 20:00Z sudah lewat 41m — sudah SELESAI (TERLAMBAT) sejak 19:01Z, tidak ada tindakan. gta6-clipper-01 MULAI TERAKHIR 20:30Z lewat 11m — sudah SELESAI (DILEWATI), tidak ada tindakan. Kandidat berikutnya: news-image-20261122 V1 23 Nov 00:00Z / 07:00 WIB. Kunci tetap kosong; berhenti.",
-   "waktu_utc": "2026-11-22T20:41:00Z"
-  },
-  {
-   "pesan": "pekerja: jalan 20:51Z — kunci kosong (0 byte, terverifikasi ulang), inbox kosong (tidak ada file keputusan baru; inbox/done/ berisi 4 file yang sudah diproses). Tidak ada kandidat MENUNGGU yang bisa diambil: gta6-01 V3 manual (butuh jalankan-gta6-01-v3.txt, belum ada), token-radar-01 v4 butuh Gas baru Kavi (belum ada), news-image-20261122 jadwal 23 Nov 00:00Z, best-card-game-20261122-1826 jadwal 23 Nov 00:26Z, hidden-spec-cli-01 jadwal 23 Nov 14:00Z, dan tiny-stack-vm-01 jadwal 23 Nov 16:00Z belum lewat. tiny-chess V4 tetap MINTA APPROVAL (satu-satunya yang menunggu keputusan Kavi). BELUM DIBUKA: site-generator-speed-01-run-20261122 buka 20:00Z (51m lalu) — masih BELUM DIBUKA di antrean, menunggu jalan penemuan 21:00Z; pekerja tidak mengambil BELUM DIBUKA; the-picture-that-tastes-of-one-20261122-2047 buka 20:47Z (4m lalu) — masih BELUM DIBUKA di antrean, menunggu jalan penemuan 21:00Z. make-the-ai-judge-feel-held-20261122-1600 tenggat 20:00Z sudah lewat 51m — sudah SELESAI (TERLAMBAT) sejak 19:01Z, tidak ada tindakan. gta6-clipper-01 MULAI TERAKHIR 20:30Z lewat 21m — sudah SELESAI (DILEWATI), tidak ada tindakan. Kandidat berikutnya: news-image-20261122 V1 23 Nov 00:00Z / 07:00 WIB. Kunci tetap kosong; berhenti.",
-   "waktu_utc": "2026-11-22T20:51:00Z"
-  },
-  {
-   "pesan": "penemuan: jalan 21:00Z — kunci kosong (0 byte). API competitions?status=open: 23 bounty terbuka, semuanya sudah ada di antrean.md (tidak ada bounty baru). site-generator-speed-01-run-20261122 BELUM DIBUKA → MENUNGGU: sudah buka 20:00Z (1j lalu, entry 1.732; deadline 2026-11-24T20:00Z, hadiah $100, GRATIS — terverifikasi ulang dari API); jadwal V1 titik tengah 2026-11-23T20:00Z / 24 Nov 03:00 WIB (RENTANG 2 hari; pengaman tidak memicu); V2: 1/4 sisa setelah V1 submit; MULAI TERAKHIR 2026-11-24T16:00Z, kelonggaran 43j; type-card metrik-grader.txt (router.md sudah ada sejak 14:02Z). the-picture-that-tastes-of-one-20261122-2047 BELUM DIBUKA → SELESAI (DILEWATI per pengaman jadwal: buka 20:47Z, jendela hanya 1 jam; sisa 47m sampai tenggat 21:47Z, cadangan tenggat 20:47Z sudah lewat 13m, sisa < jam minimum 2j; MULAI TERAKHIR 18:47Z terlewat 2j13m; entry 173; hadiah $20, GRATIS). 4 bounty BELUM DIBUKA lain masih belum buka (terdekat the-plan-make-fun-will-carry-20261122-2138 buka 21:38Z). tiny-chess V4 tetap MINTA APPROVAL. status.md diperbarui; competitions-open-now.json diperbarui. Kunci tetap kosong; berhenti.",
-   "waktu_utc": "2026-11-22T21:00:00Z"
-  },
-  {
-   "pesan": "pekerja: jalan 21:01Z — kunci kosong (0 byte, terverifikasi ulang), inbox kosong (tidak ada file keputusan baru; inbox/done/ berisi 4 file yang sudah diproses). Tidak ada kandidat MENUNGGU yang bisa diambil: gta6-01 V3 manual (butuh jalankan-gta6-01-v3.txt, belum ada), token-radar-01 v4 butuh Gas baru Kavi (belum ada), news-image-20261122 jadwal 23 Nov 00:00Z, best-card-game-20261122-1826 jadwal 23 Nov 00:26Z, hidden-spec-cli-01 jadwal 23 Nov 14:00Z, tiny-stack-vm-01 jadwal 23 Nov 16:00Z, dan site-generator-speed-01-run-20261122 jadwal 23 Nov 20:00Z belum lewat. tiny-chess V4 tetap MINTA APPROVAL (satu-satunya yang menunggu keputusan Kavi). BELUM DIBUKA (4): news-image-20261123 buka 23 Nov 00:00Z; the-plan-make-fun-will-carry-20261122-2138 buka 21:38Z (37m lagi); make-the-ai-judge-feel-curious-20261122-2311 buka 23:11Z; the-joke-about-the-demo-20261123-0112 buka 23 Nov 01:12Z — pekerja tidak mengambil BELUM DIBUKA. Kandidat berikutnya: news-image-20261122 V1 23 Nov 00:00Z / 07:00 WIB. Kunci tetap kosong; berhenti.",
-   "waktu_utc": "2026-11-22T21:01:00Z"
-  },
-  {
-   "pesan": "pekerja: jalan 21:11Z — kunci kosong (0 byte, terverifikasi ulang), inbox kosong (tidak ada file keputusan baru; inbox/done/ berisi 4 file yang sudah diproses). Tidak ada kandidat MENUNGGU yang bisa diambil: gta6-01 V3 manual (butuh jalankan-gta6-01-v3.txt, belum ada), token-radar-01 v4 butuh Gas baru Kavi (belum ada), news-image-20261122 jadwal 23 Nov 00:00Z, best-card-game-20261122-1826 jadwal 23 Nov 00:26Z, hidden-spec-cli-01 jadwal 23 Nov 14:00Z, tiny-stack-vm-01 jadwal 23 Nov 16:00Z, dan site-generator-speed-01-run-20261122 jadwal 23 Nov 20:00Z belum lewat. tiny-chess V4 tetap MINTA APPROVAL (satu-satunya yang menunggu keputusan Kavi). BELUM DIBUKA (4): news-image-20261123 buka 23 Nov 00:00Z; the-plan-make-fun-will-carry-20261122-2138 buka 21:38Z (27m lagi); make-the-ai-judge-feel-curious-20261122-2311 buka 23:11Z; the-joke-about-the-demo-20261123-0112 buka 23 Nov 01:12Z — pekerja tidak mengambil BELUM DIBUKA. Kandidat berikutnya: news-image-20261122 V1 23 Nov 00:00Z / 07:00 WIB. Kunci tetap kosong; berhenti.",
-   "waktu_utc": "2026-11-22T21:11:00Z"
-  },
-  {
-   "pesan": "pekerja: jalan 21:21Z — kunci kosong (0 byte, terverifikasi ulang), inbox kosong (tidak ada file keputusan baru; inbox/done/ berisi 4 file yang sudah diproses). Tidak ada kandidat MENUNGGU yang bisa diambil: gta6-01 V3 manual (butuh jalankan-gta6-01-v3.txt, belum ada), token-radar-01 v4 butuh Gas baru Kavi (belum ada), news-image-20261122 jadwal 23 Nov 00:00Z, best-card-game-20261122-1826 jadwal 23 Nov 00:26Z, hidden-spec-cli-01 jadwal 23 Nov 14:00Z, tiny-stack-vm-01 jadwal 23 Nov 16:00Z, dan site-generator-speed-01-run-20261122 jadwal 23 Nov 20:00Z belum lewat. PERHATIAN PENGAMAN: best-card-game-20261122-1826 sisa sampai cadangan tenggat (05:26Z) tinggal 8j05m vs jam minimum 8j — pengaman BELUM memicu (selisih 5m); pada jalan 21:31Z sisa 7j55m < 8j → pengaman MEMICU, bounty ini WAJIB diambil (mulai segera), meski jadwal titik tengah 00:26Z belum lewat; MULAI TERAKHIR 21:56Z tinggal 35m. tiny-chess V4 tetap MINTA APPROVAL (satu-satunya yang menunggu keputusan Kavi). BELUM DIBUKA (4): news-image-20261123 buka 23 Nov 00:00Z; the-plan-make-fun-will-carry-20261122-2138 buka 21:38Z (17m lagi); make-the-ai-judge-feel-curious-20261122-2311 buka 23:11Z; the-joke-about-the-demo-20261123-0112 buka 23 Nov 01:12Z — pekerja tidak mengambil BELUM DIBUKA. Kandidat berikutnya: best-card-game-20261122-1826 (pengaman 21:31Z) lalu news-image-20261122 V1 23 Nov 00:00Z / 07:00 WIB. Kunci tetap kosong; berhenti.",
-   "waktu_utc": "2026-11-22T21:21:00Z"
-  },
-  {
-   "pesan": "pekerja: PENGAMAN MEMICU — best-card-game-20261122-1826 diambil 21:31Z (sisa ke batas selesai 05:26Z = 7j55m < jam minimum 8j; MULAI TERAKHIR 21:56Z, 25m lagi; jadwal titik tengah 00:26Z dilewati pengaman OTOMASI-MUSE butir 49). Kunci dipegang v12-pekerja 21:31Z. Langkah BUILDER dibuka (MODE OTOMATIS, SUBMIT OTOMATIS — SUBMIT_MODE auto). tiny-chess V4 tetap MINTA APPROVAL. Kandidat berikutnya: news-image-20261122 V1 23 Nov 00:00Z.",
+   "pesan": "PENGAMAN MEMICU — best-card-game-20261122-1826 diambil 21:31Z (sisa ke batas selesai 05:26Z = 7j55m < jam minimum 8j); kunci dipegang v12-pekerja.",
    "waktu_utc": "2026-11-22T21:32:47Z"
+  },
+  {
+   "pesan": "BUILDER best-card-game V1 selesai 21:51Z — \"Monsoon Market\", commit ac0337b, gerbang 12/12 LULUS.",
+   "waktu_utc": "2026-11-22T21:52:04Z"
+  },
+  {
+   "pesan": "CROSSCHECK V1 best-card-game selesai 22:00Z — vonis FIX_FIRST (5 blocker murah v13).",
+   "waktu_utc": "2026-11-22T22:00:55Z"
+  },
+  {
+   "pesan": "IMPROVE putaran 1 best-card-game selesai 22:04Z — B1–B5 tertutup, commit d2023ef.",
+   "waktu_utc": "2026-11-22T22:05:34Z"
+  },
+  {
+   "pesan": "CROSSCHECK ulang V1 best-card-game selesai 22:09Z — vonis GO.",
+   "waktu_utc": "2026-11-22T22:10:17Z"
+  },
+  {
+   "pesan": "SUBMIT V1 best-card-game TERKONFIRMASI 22:16:50Z (01a20555) — NAMUN grade run server GAGAL run_completes FAIL exit 1 (EPERM chmod root /output); putaran perbaikan 2 dibuka.",
+   "waktu_utc": "2026-11-22T22:22:07Z"
+  },
+  {
+   "pesan": "IMPROVE putaran 2 (TERAKHIR) best-card-game selesai 22:26Z — chmod root diperbaiki, commit 1712c98; repro kondisi grader exit 0.",
+   "waktu_utc": "2026-11-22T22:26:17Z"
+  },
+  {
+   "pesan": "CROSSCHECK ulang putaran 2 best-card-game selesai 22:30Z — vonis GO; submit ulang dibuka (kuota live 22:28Z can_submit TRUE, hari 9, hard 39).",
+   "waktu_utc": "2026-11-22T22:30:47Z"
+  },
+  {
+   "pesan": "Kavi pilih opsi (c) tiny-chess V4 04:54 WIB + AUTO-GAS PENUH; rewrite dijadwalkan 24 Nov 00:00 WIB; builder dihentikan 05:01 WIB.",
+   "waktu_utc": "2026-11-22T21:54:00Z"
+  },
+  {
+   "pesan": "token-radar-01 V4 DITUTUP 04:57 WIB (AUTO-GAS PENUH); v3 final #3.431/16.859, judge 909.237. gta6-01 V3 OTOMATIS (perintah 05:00 WIB, khusus 23 Nov).",
+   "waktu_utc": "2026-11-22T21:57:00Z"
   }
  ],
  "versi_kontrak": 1
