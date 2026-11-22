@@ -16,7 +16,7 @@
       "hadiah_didapat": null,
       "jadwal_mulai_utc": "2026-11-21T23:59:00Z",
       "judul": "Make the best stealth game",
-      "kelonggaran_menit": -1051,
+      "kelonggaran_menit": -1111,
       "langkah_berikutnya": null,
       "langkah_terakhir_selesai": "V1 'Tidelock' disubmit manual 22 Nov 05:20Z (sistem lama)",
       "menunggu_apa": null,
@@ -44,7 +44,7 @@
     {
       "blocker": [],
       "buka_utc": "2026-11-22T05:59:00Z",
-      "catatan": "V1 'Stormlight Ledger' (repo stormlight-ledger-heist, commit d3ac32f9); kit check --transcripts 14 passed 0 failed, thinking_reproduces 99,3% authored 0 copied; round 1 rank 678/4156, score 607044 (live 10:24Z) - BUKAN 50 besar, jadi V2 tidak butuh file setuju-v2.txt; gerbang V2 terverifikasi 10:24Z. V2 SUBMITTED 11:13:03Z (01a202f5, repo stormlight-ledger-heist-v2, commit 4383b28, claim AF-HV92Y-KRZP0-KE8KA-Z0FRD; kit check 14 passed 0 failed, reproduces 47,1%); masuk round 2 (cutoff 11:59Z sudah lewat, hasil belum terbaca), round 3 14:59Z, final 17:59Z. Status dikoreksi MENUNGGU->SELESAI 13:46Z (tunggu hasil). E34-E35 di catatan-lapangan.md.",
+      "catatan": "V1 'Stormlight Ledger' (repo stormlight-ledger-heist, commit d3ac32f9); kit check --transcripts 14 passed 0 failed, thinking_reproduces 99,3% authored 0 copied; round 1 rank 678/4156, score 607044 (live 10:24Z) - BUKAN 50 besar, jadi V2 tidak butuh file setuju-v2.txt; gerbang V2 terverifikasi 10:24Z. V2 SUBMITTED 11:13:03Z (01a202f5, repo stormlight-ledger-heist-v2, commit 4383b28, claim AF-HV92Y-KRZP0-KE8KA-Z0FRD; kit check 14 passed 0 failed, reproduces 47,1%); masuk round 2 (cutoff 11:59Z sudah lewat, hasil belum terbaca), round 3 14:59Z sudah lewat, final 17:59Z. Status dikoreksi MENUNGGU->SELESAI 13:46Z (tunggu hasil). E34-E35 di catatan-lapangan.md.",
       "duel_a": {
         "n": 0,
         "putusan": null,
@@ -55,8 +55,8 @@
       "hadiah_didapat": null,
       "jadwal_mulai_utc": "2026-11-22T09:44:00Z",
       "judul": "Make the best heist game",
-      "kelonggaran_menit": 29,
-      "langkah_berikutnya": "— (tunggu hasil V2; round 2 cutoff 11:59Z sudah lewat, hasil belum terbaca; round 3 dinilai 14:59Z, final 17:59Z)",
+      "kelonggaran_menit": -31,
+      "langkah_berikutnya": "— (tunggu hasil V2; round 2 cutoff 11:59Z sudah lewat, hasil belum terbaca; round 3 dinilai 14:59Z sudah lewat, hasil belum terbaca; final 17:59Z)",
       "langkah_terakhir_selesai": "V2 SUBMITTED 11:13:03Z (01a202f5, repo stormlight-ledger-heist-v2, commit 4383b28; platform passed checks; masuk round 2, cutoff 11:59Z)",
       "menunggu_apa": null,
       "menunggu_sejak_utc": null,
@@ -83,7 +83,7 @@
     {
       "blocker": [],
       "buka_utc": "2026-11-21T02:42:00Z",
-      "catatan": "V1 TER-GRADE live 08:24Z: rank #1.080/8.783 (cek 08:29Z: #1.085/8.814, drift karena papan membesar) — gerbang V2 terpenuhi. Blokir eksekusi 09:03Z/09:04Z teratasi lewat Gas Kavi 11:39Z + 11:54Z; commit 7671b1c + repo GitHub csv-reader-v2 + push + grade-local 6/6 + CROSSCHECK GO 12:00Z; V2 SUBMITTED 12:00:50Z (01a20321, claim AF-DB3NR-EBMB7-GRQQ5-C31CT, platform passed checks). Tanpa bundle (transkrip opsional, seperti V1). Menunggu hasil V2. Hasil due 8 Des 2026. Catatan: catatan-lapangan.md E6 mencatat rank 3248/8.615 untuk entry ini — bertentangan dengan cek live 08:24Z, belum terverifikasi. E43: keluaran mentah grade-local tidak tersimpan.",
+      "catatan": "V1 TER-GRADE live 08:24Z: rank #1.080/8.783 (cek 08:29Z: #1.085/8.814, drift karena papan membesar) — gerbang V2 terpenuhi. Blokir eksekusi 09:03Z/09:04Z teratasi lewat Gas Kavi 11:39Z + 11:54Z; commit 7671b1c + repo GitHub csv-reader-v2 + push + grade-local 6/6 + CROSSCHECK GO 12:00Z; V2 SUBMITTED 12:00:50Z (01a20321, claim AF-DB3NR-EBMB7-GRQQ5-C31CT, platform passed checks). Tanpa bundle (transkrip opsional, seperti V1). Menunggu hasil V2. Hasil due 8 Des 2026. Catatan: catatan-lapangan.md E6 mencatat rank 3248/8.615 untuk entry ini — bertentangan dengan cek live 08:24Z, belum terverifikasi. E43: keluaran mentah grade-local tidak tersimpan. V2 TER-GRADE, skor pertama #677/9.643 (cpu_us 1.060.000, 6/6) — sumber MEMORY.md terkurasi 22 Nov; peristiwa.md belum mencatatnya (terakhir 15:21Z).",
       "duel_a": {
         "n": 0,
         "putusan": null,
@@ -94,18 +94,18 @@
       "hadiah_didapat": null,
       "jadwal_mulai_utc": "2026-11-22T02:42:00Z",
       "judul": "Read broken CSV files faster, 21 November 2026",
-      "kelonggaran_menit": 72,
+      "kelonggaran_menit": 12,
       "langkah_berikutnya": "— (tunggu hasil V2)",
       "langkah_terakhir_selesai": "V2 SUBMITTED 12:00:50Z (01a20321, commit 7671b1c; platform passed checks; claim AF-DB3NR-EBMB7-GRQQ5-C31CT)",
       "menunggu_apa": null,
       "menunggu_sejak_utc": null,
       "mulai_dikerjakan_utc": "2026-11-22T08:27:00Z",
       "mulai_terakhir_utc": "2026-11-22T15:42:00Z",
-      "peringkat": 1080,
+      "peringkat": 677,
       "prioritas": true,
       "putaran": null,
       "selesai_dikerjakan_utc": "2026-11-22T12:01:00Z",
-      "skor": "cpu_us 1.250.000, 6/6 kasus passed (V1, TER-GRADE, status finished, live 08:24Z)",
+      "skor": "cpu_us 1.060.000, 6/6 kasus passed (V2, skor pertama, MEMORY.md terkurasi 22 Nov; V1: #1.080/8.783, cpu_us 1.250.000, live 08:24Z)",
       "slug": "csv-reader-speed-01-run-20261121",
       "status": "SELESAI",
       "submit_status": "submitted (V2, HTTP 202, platform: passed its checks)",
@@ -114,7 +114,7 @@
       "tempat_dibayar": 10,
       "tenggat_utc": "2026-11-23T02:42:00Z",
       "tipe_baru": false,
-      "total_peserta": 8783,
+      "total_peserta": 9643,
       "type_card": "metrik-grader.txt",
       "versi": 2,
       "vonis_crosscheck": "GO (12:00Z; repo + commit + LICENSE + README + About + owner.json terverifikasi; grade-local 6/6)"
@@ -122,7 +122,7 @@
     {
       "blocker": [],
       "buka_utc": "2026-11-21T03:00:00Z",
-      "catatan": "V1 'sokoban-decomp-v1' (repo sokoban-decomp-v1, commit 7f53b99, size 28.220); perbaikan mekanis LICENSE (SPDX) 08:16Z atas perintah Kavi 15:10 WIB; kit check --transcripts level 36: 15 passed 0 failed (thinking_reproduces 90,8%). V1 TER-GRADE live 13:12Z: #7.996/8.338, skor 1.000.000 (5/5 instance sempurna), size_bytes 28.243, status finished, prize_eligible yes — gerbang V2 TERPENUHI (di luar 100 besar). Skor JENUH: ribuan entry 1.000.000, tie-break ukuran; papan atas size 26 byte. BUILDER V2 selesai 13:32Z (solver push-BFS baru, size_bytes 10.118, -64% dari V1; practice 1.000.000 + 3 set segar 1.000.000); kit check V2 15 passed 0 failed (reproduces 97,1%). V2 SUBMITTED 13:43:02Z (01a2037e, claim AF-NV87Z-5JFKS-CYCGK-61662). Menunggu hasil V2 (skor pertama -> Skor Bounty). E44: mekanisme size 26 TERKUAK — papan atas memakai secret-loader; V2 jujur 10.118 byte, rank practice ~2.001.",
+      "catatan": "V1 'sokoban-decomp-v1' (repo sokoban-decomp-v1, commit 7f53b99, size 28.220); perbaikan mekanis LICENSE (SPDX) 08:16Z atas perintah Kavi 15:10 WIB; kit check --transcripts level 36: 15 passed 0 failed (thinking_reproduces 90,8%). V1 TER-GRADE live 13:12Z: #7.996/8.338, skor 1.000.000 (5/5 instance sempurna), size_bytes 28.243, status finished, prize_eligible yes — gerbang V2 TERPENUHI (di luar 100 besar). Skor JENUH: ribuan entry 1.000.000, tie-break ukuran; papan atas size 26 byte. BUILDER V2 selesai 13:32Z (solver push-BFS baru, size_bytes 10.118, -64% dari V1; practice 1.000.000 + 3 set segar 1.000.000); kit check V2 15 passed 0 failed (reproduces 97,1%). V2 SUBMITTED 13:43:02Z (01a2037e, claim AF-NV87Z-5JFKS-CYCGK-61662). Menunggu hasil V2 (skor pertama -> Skor Bounty). E44: mekanisme size 26 TERKUAK — papan atas memakai secret-loader; V2 jujur 10.118 byte, rank practice ~2.001. V2 TER-GRADE, skor pertama #2.031/8.480 (skor 1.000.000, 5/5, size 10.118) — sumber MEMORY.md terkurasi 22 Nov; peristiwa.md belum mencatatnya (terakhir 15:21Z).",
       "duel_a": {
         "n": 0,
         "putusan": null,
@@ -133,18 +133,18 @@
       "hadiah_didapat": null,
       "jadwal_mulai_utc": "2026-11-22T13:00:00Z",
       "judul": "Build the best Sokoban solver, 21 November 2026",
-      "kelonggaran_menit": 90,
+      "kelonggaran_menit": 30,
       "langkah_berikutnya": "— (tunggu hasil V2)",
       "langkah_terakhir_selesai": "V2 SUBMITTED 13:43:02Z (01a2037e, commit 80e9317; platform passed checks; claim AF-NV87Z-5JFKS-CYCGK-61662)",
       "menunggu_apa": null,
       "menunggu_sejak_utc": null,
       "mulai_dikerjakan_utc": "2026-11-22T13:11:00Z",
       "mulai_terakhir_utc": "2026-11-22T16:00:00Z",
-      "peringkat": 7996,
+      "peringkat": 2031,
       "prioritas": false,
       "putaran": null,
       "selesai_dikerjakan_utc": "2026-11-22T13:44:00Z",
-      "skor": "1.000.000 (5/5 instance sempurna, size_bytes 28.243, status finished, prize_eligible yes, live 13:12Z)",
+      "skor": "1.000.000 (5/5 instance sempurna, size_bytes 10.118, V2, skor pertama, MEMORY.md terkurasi 22 Nov; V1: #7.996/8.338, size 28.243, live 13:12Z)",
       "slug": "sokoban-solver-01-run-20261121",
       "status": "SELESAI",
       "submit_status": "submitted (V2, HTTP 202, platform: passed its checks)",
@@ -153,7 +153,7 @@
       "tempat_dibayar": 10,
       "tenggat_utc": "2026-11-23T03:00:00Z",
       "tipe_baru": false,
-      "total_peserta": 8338,
+      "total_peserta": 8480,
       "type_card": "metrik-grader.txt",
       "versi": 2,
       "vonis_crosscheck": "GO (V2 13:39Z; skor direproduksi sendiri 1.000.000 (5/5) + set segar 1.000.000; ukuran dihitung sendiri 10.118 byte; kuota live 13:36Z TRUE day 9 hard 39; 0 blocker)"
@@ -174,7 +174,7 @@
       "hadiah_didapat": null,
       "jadwal_mulai_utc": null,
       "judul": "Clip GTA 6 for the most YouTube views",
-      "kelonggaran_menit": 360,
+      "kelonggaran_menit": 300,
       "langkah_berikutnya": null,
       "langkah_terakhir_selesai": null,
       "menunggu_apa": null,
@@ -204,7 +204,7 @@
         "V3 manual: submit butuh Gate 2 (Prompt 05) + Gas Kavi"
       ],
       "buka_utc": "2026-11-21T00:00:00Z",
-      "catatan": "V1 'ni21' dev #2.892/15.213 ter-grade live 08:24Z (judge 975.354; drift ke ~#3.066 per 10:17Z karena papan membesar). V2 'The Second Overtime' SUBMITTED 10:21:20Z (01a202c6, commit 54fceee, claim AF-VXG60-X278Q-GJBBY-AHVMH); bundle 7 sesi + 12 usage rows; kit check --transcripts 14 passed 0 failed (reproduces 74,5%). V2 TER-GRADE live 12:15Z: #293/16.016, judge 985.464 (interval 979.293-991.636) — skor pertama V2; top-10: #1 akun-fft 992.905, #2 y-cat33 992.469, #3 skyscrapperr 992.049, #10 990.730. V3 DARI 0 atas perintah Kavi 18:50 WIB (jangan pakai desain lama; repo baru news-image-20261121-v3; analisis+konsep baru). ANALISIS V3 selesai 12:18Z; BUILDER V3 selesai 12:57Z ('The Saturday Atlas', entry.png 1024x1024 265.748 byte sha256 8bea559c, gerbang 23/25); commit final 5ce9fc4 di-push 13:02Z; CROSSCHECK V3 GO 13:08Z (rubrik 23/25, tidak ada blocker; kuota live TRUE day 9 hard 38). Gate 2 (Prompt 05) 13:31Z — SUBMIT; Gas Kavi 20:58 WIB; bundle + kit check 14 passed 0 failed (reproduces 96,3%). V3 SUBMITTED 13:58:50Z (01a2038d, claim AF-PDC65-8J83G-6E3M9-6ZM4W; platform passed checks). V2 SUPERSEDED secara administratif — di papan V2 tetap berdiri #293/16.016 sampai V3 ter-grade. Hasil due 7 Des 2026. E30-E33 + E36-E42 di catatan-lapangan.md.",
+      "catatan": "V1 'ni21' dev #2.892/15.213 ter-grade live 08:24Z (judge 975.354; drift ke ~#3.066 per 10:17Z karena papan membesar). V2 'The Second Overtime' SUBMITTED 10:21:20Z (01a202c6, commit 54fceee, claim AF-VXG60-X278Q-GJBBY-AHVMH); bundle 7 sesi + 12 usage rows; kit check --transcripts 14 passed 0 failed (reproduces 74,5%). V2 TER-GRADE live 12:15Z: #293/16.016, judge 985.464 (interval 979.293-991.636) — skor pertama V2; top-10: #1 akun-fft 992.905, #2 y-cat33 992.469, #3 skyscrapperr 992.049, #10 990.730. V3 DARI 0 atas perintah Kavi 18:50 WIB (jangan pakai desain lama; repo baru news-image-20261121-v3; analisis+konsep baru). ANALISIS V3 selesai 12:18Z; BUILDER V3 selesai 12:57Z ('The Saturday Atlas', entry.png 1024x1024 265.748 byte sha256 8bea559c, gerbang 23/25); commit final 5ce9fc4 di-push 13:02Z; CROSSCHECK V3 GO 13:08Z (rubrik 23/25, tidak ada blocker; kuota live TRUE day 9 hard 38). Gate 2 (Prompt 05) 13:31Z — SUBMIT; Gas Kavi 20:58 WIB; bundle + kit check 14 passed 0 failed (reproduces 96,3%). V3 SUBMITTED 13:58:50Z (01a2038d, claim AF-PDC65-8J83G-6E3M9-6ZM4W; platform passed checks). V2 SUPERSEDED secara administratif — di papan V2 tetap berdiri #293/16.016 sampai V3 ter-grade. Hasil due 7 Des 2026. E30-E33 + E36-E42 di catatan-lapangan.md. V2 skor pertama #285/15.945 per MEMORY.md terkurasi 22 Nov (live 12:15Z: #293/16.016 — selisih belum terverifikasi).",
       "duel_a": {
         "n": 0,
         "putusan": null,
@@ -215,18 +215,18 @@
       "hadiah_didapat": null,
       "jadwal_mulai_utc": "2026-11-22T00:00:00Z",
       "judul": "Sum up 21 November's world news in one image",
-      "kelonggaran_menit": 390,
+      "kelonggaran_menit": 330,
       "langkah_berikutnya": "— (tunggu hasil V3; hasil due 7 Des 2026)",
       "langkah_terakhir_selesai": "V3 SUBMITTED 13:58:50Z (01a2038d, commit 5ce9fc4, claim AF-PDC65-8J83G-6E3M9-6ZM4W; platform passed checks; Gate 2 13:31Z SUBMIT, Gas Kavi 20:58 WIB)",
       "menunggu_apa": null,
       "menunggu_sejak_utc": null,
       "mulai_dikerjakan_utc": "2026-11-22T12:11:00Z",
       "mulai_terakhir_utc": "2026-11-22T21:00:00Z",
-      "peringkat": 293,
+      "peringkat": 285,
       "prioritas": false,
       "putaran": null,
       "selesai_dikerjakan_utc": "2026-11-22T13:58:50Z",
-      "skor": "judge 985.464 (V2, TER-GRADE, interval 979.293-991.636, live 12:15Z)",
+      "skor": "judge 985.464 (V2, skor pertama, MEMORY.md terkurasi 22 Nov; live 12:15Z tercatat #293/16.016, interval 979.293-991.636 — selisih drift belum terverifikasi)",
       "slug": "news-image-20261121",
       "status": "SELESAI",
       "submit_status": "submitted (V3 'The Saturday Atlas', HTTP 202, platform: passed its checks)",
@@ -235,7 +235,7 @@
       "tempat_dibayar": 50,
       "tenggat_utc": "2026-11-23T00:00:00Z",
       "tipe_baru": false,
-      "total_peserta": 16016,
+      "total_peserta": 15945,
       "type_card": "design-gambar-news-image.txt",
       "versi": 3,
       "vonis_crosscheck": "GO (V3 13:08Z; rubrik 23/25; 7 klaim fakta terverifikasi ke sumber primer 21 Nov; kuota live TRUE day 9 hard 38)"
@@ -256,7 +256,7 @@
       "hadiah_didapat": null,
       "jadwal_mulai_utc": null,
       "judul": "Post a GTA 6 meme on X",
-      "kelonggaran_menit": 1140,
+      "kelonggaran_menit": 1080,
       "langkah_berikutnya": null,
       "langkah_terakhir_selesai": null,
       "menunggu_apa": null,
@@ -295,7 +295,7 @@
       "hadiah_didapat": null,
       "jadwal_mulai_utc": "2026-11-23T00:00:00Z",
       "judul": "Sum up 22 November's world news in one image",
-      "kelonggaran_menit": 1830,
+      "kelonggaran_menit": 1770,
       "langkah_berikutnya": "BUILDER",
       "langkah_terakhir_selesai": null,
       "menunggu_apa": null,
@@ -334,7 +334,7 @@
       "hadiah_didapat": null,
       "jadwal_mulai_utc": "2026-11-21T03:00:00Z",
       "judul": "Make GTA 6",
-      "kelonggaran_menit": 2310,
+      "kelonggaran_menit": 2250,
       "langkah_berikutnya": "BUILDER",
       "langkah_terakhir_selesai": null,
       "menunggu_apa": null,
@@ -364,7 +364,7 @@
         "kit check --transcripts FAIL thinking_reproduces 9,4% (36/380 baris, syarat >=30%) — SUBMIT V4 DIBLOKIR pengaman AUTO-SUBMIT"
       ],
       "buka_utc": "2026-11-10T17:00:00Z",
-      "catatan": "V4 'Pinnacle IV' kandidat siap (repo tiny-chess-v4, commit 9d4b97d; trial-0 6-0-0 spare 805, gauntlet 8-0-0 spare 950, trial-1 6-0-0 spare 569); v3 live #343/15.516. Dugaan: CLI kit level 32 tidak menghitung authorship sesi Muse saat ini seperti level 36. Tenggat 24 Nov 17:00Z; batas selesai 24 Nov 16:00Z.",
+      "catatan": "V4 'Pinnacle IV' kandidat siap (repo tiny-chess-v4, commit 9d4b97d; trial-0 6-0-0 spare 805, gauntlet 8-0-0 spare 950, trial-1 6-0-0 spare 569); v3 live #343/15.516. Dugaan: CLI kit level 32 tidak menghitung authorship sesi Muse saat ini seperti level 36. Tenggat 24 Nov 17:00Z; batas selesai 24 Nov 16:00Z. BLOKIR 14:41Z + 15:13Z: pemeriksaan risiko eksekusi saat membaca isi bundle lama — rantai rebundle kit 36 + kit check + submit butuh satu tap eksplisit Kavi di sesi live.",
       "duel_a": {
         "n": 20,
         "putusan": "TIDAK DITOLAK (v4 20-0-0 vs v3 18-0-2)",
@@ -375,9 +375,9 @@
       "hadiah_didapat": null,
       "jadwal_mulai_utc": "2026-11-11T05:00:00Z",
       "judul": "Build the strongest chess engine in 4 KB of Python",
-      "kelonggaran_menit": 2370,
+      "kelonggaran_menit": 2310,
       "langkah_berikutnya": null,
-      "langkah_terakhir_selesai": "CROSSCHECK V4 (ulang) 07:45Z — GO; bundle 07:53Z (764.166 byte, 5 sesi); kit check --transcripts FAIL thinking_reproduces 9,4% (36/380) — SUBMIT DIBLOKIR",
+      "langkah_terakhir_selesai": "CROSSCHECK V4 (ulang) 07:45Z — GO; bundle 07:53Z (764.166 byte, 5 sesi); kit check --transcripts FAIL thinking_reproduces 9,4% (36/380) — SUBMIT DIBLOKIR; BLOKIR 14:41Z: pekerja kena pemeriksaan risiko eksekusi saat membaca bundle lama; BLOKIR 15:13Z: sesi live (Gas Kavi 22:13 WIB) kena pemeriksaan yang sama — menunggu konfirmasi Kavi di sesi ini sebelum rebundle kit 36; kunci dipegang sesi ini",
       "menunggu_apa": "Keputusan Kavi: (a) bundle+check ulang dengan CLI kit level 36 yang sudah ada di disk, (b) submit apa adanya, atau (c) tulis ulang src.py di sesi baru lalu bundle ulang",
       "menunggu_sejak_utc": "2026-11-22T07:56:00Z",
       "mulai_dikerjakan_utc": "2026-11-22T04:32:00Z",
@@ -414,7 +414,7 @@
       "hadiah_didapat": null,
       "jadwal_mulai_utc": "2026-11-23T14:00:00Z",
       "judul": "Build mend, one patch tool for every AI edit format",
-      "kelonggaran_menit": 2610,
+      "kelonggaran_menit": 2550,
       "langkah_berikutnya": "BUILDER",
       "langkah_terakhir_selesai": null,
       "menunggu_apa": null,
@@ -453,7 +453,7 @@
       "hadiah_didapat": null,
       "jadwal_mulai_utc": "2026-11-23T16:00:00Z",
       "judul": "Build a tiny stack virtual machine, 22 November 2026",
-      "kelonggaran_menit": 3030,
+      "kelonggaran_menit": 2970,
       "langkah_berikutnya": "BUILDER",
       "langkah_terakhir_selesai": null,
       "menunggu_apa": null,
@@ -494,7 +494,7 @@
       "hadiah_didapat": null,
       "jadwal_mulai_utc": "2026-11-14T22:00:00Z",
       "judul": "Build the best token launch radar",
-      "kelonggaran_menit": 30750,
+      "kelonggaran_menit": 30690,
       "langkah_berikutnya": "BUILDER",
       "langkah_terakhir_selesai": null,
       "menunggu_apa": "Gas baru Kavi untuk rebuild segar v4 (bukan status MINTA APPROVAL — keputusan diketahui menunggu)",
@@ -1080,42 +1080,14 @@
       "vonis_crosscheck": null
     }
   ],
-  "dibuat_pada_utc": "2026-11-22T14:30:00Z",
+  "dibuat_pada_utc": "2026-11-22T15:30:00Z",
   "kunci": {
-    "langkah_terakhir": "Jalan pekerja 14:21Z: tidak ada kandidat MENUNGGU yang bisa diambil; kunci tetap kosong",
-    "sejak_utc": null,
-    "slug": null,
-    "terpakai": false
+    "langkah_terakhir": "REBUNDLE V4 kit 36 (Gas Kavi 22:13 WIB, sesi live)",
+    "sejak_utc": "2026-11-22T15:13:00Z",
+    "slug": "tiny-chess-01",
+    "terpakai": true
   },
   "peristiwa_terakhir": [
-    {
-      "pesan": "sokoban-solver-01-run-20261121: V2 SUBMITTED — HTTP 202, submission 01a2037e-f7f8-749e-87e2-b28ff7d7c009, repo sokoban-decomp-v2 commit 80e93175cdff440d04d747d46262842b95e4c34e, claim AF-NV87Z-5JFKS-CYCGK-61662, wallet Gg59...; platform: passed its checks (stage checked). Kuota live sebelum submit TRUE (day left 9, hard left 39). Status SELESAI; kunci dikosongkan 13:44Z; rantai selesai. Menunggu hasil V2 (skor pertama → Skor Bounty).",
-      "waktu_utc": "2026-11-22T13:43:02Z"
-    },
-    {
-      "pesan": "pekerja: jalan 13:46Z — kunci kosong (0 byte), inbox kosong (tidak ada file keputusan baru). Tidak ada kandidat MENUNGGU yang bisa diambil: gta6-01 V3 manual (butuh jalankan-gta6-01-v3.txt, belum ada), token-radar-01 v4 butuh Gas baru Kavi (belum ada), news-image-20261122 jadwal 23 Nov 00:00Z dan tiny-stack-vm-01 jadwal 23 Nov 16:00Z belum lewat. best-heist-game-20261122-0559: V2 sudah SUBMITTED 11:13Z (01a202f5), status dikoreksi MENUNGGU→SELESAI (tunggu hasil round 2/3/final) mengikuti konvensi csv-reader/sokoban; antrean.md + status.md diperbarui. Kunci tetap kosong; berhenti.",
-      "waktu_utc": "2026-11-22T13:46:00Z"
-    },
-    {
-      "pesan": "pekerja: jalan 13:51Z — kunci kosong (0 byte), inbox kosong (tidak ada file keputusan baru). Tidak ada kandidat MENUNGGU yang bisa diambil: gta6-01 V3 manual (butuh jalankan-gta6-01-v3.txt, belum ada), token-radar-01 v4 butuh Gas baru Kavi (belum ada), news-image-20261122 jadwal 23 Nov 00:00Z dan tiny-stack-vm-01 jadwal 23 Nov 16:00Z belum lewat. Koreksi status.md: baris sokoban DIPROSES→SELESAI (V2 SUBMITTED 13:43:02Z, 01a2037e) + catatan urutan diperbarui. Kunci tetap kosong; berhenti.",
-      "waktu_utc": "2026-11-22T13:51:00Z"
-    },
-    {
-      "pesan": "news-image-20261121: V3 'The Saturday Atlas' SUBMITTED (Gas Kavi 20:58 WIB, main chat; sesi induk). Submission 01a2038d-700c-7199-aef7-e106359c04ae, repo news-image-20261121-v3 commit 5ce9fc4, claim AF-PDC65-8J83G-6E3M9-6ZM4W; platform passed checks (stage checked). V2 SUPERSEDED. Antrean SELESAI, tunggu hasil V3 (due 7 Des 2026).",
-      "waktu_utc": "2026-11-22T13:58:50Z"
-    },
-    {
-      "pesan": "pekerja: jalan 14:01Z — kunci kosong (0 byte), inbox kosong (tidak ada file keputusan baru). Tidak ada kandidat MENUNGGU yang bisa diambil: gta6-01 V3 manual (butuh jalankan-gta6-01-v3.txt, belum ada), token-radar-01 v4 butuh Gas baru Kavi (belum ada), news-image-20261122 jadwal 23 Nov 00:00Z dan tiny-stack-vm-01 jadwal 23 Nov 16:00Z belum lewat. Koreksi status.md: ni21 V3 MINTA APPROVAL→SELESAI (SUBMITTED 13:58:50Z sesi induk, 01a2038d, Gas Kavi 20:58 WIB); hitungan status jadi MENUNGGU 4, SELESAI 11, MINTA APPROVAL 1 (hanya tiny-chess V4). Kunci tetap kosong; berhenti.",
-      "waktu_utc": "2026-11-22T14:01:00Z"
-    },
-    {
-      "pesan": "penemuan: daftar segar GET /api/competitions?status=open (25 item) — 11 bounty baru: hidden-spec-cli-01-run-20261122 (buka 14:00Z, baru dibuka) → MENUNGGU, V1 23 Nov 14:00Z, metrik-grader, $100; 8 BELUM DIBUKA (news-image-20261123, site-generator-speed-01-run-20261122, make-the-ai-judge-feel-held-20261122-1600, best-card-game-20261122-1826, the-picture-that-tastes-of-one-20261122-2047, the-plan-make-fun-will-carry-20261122-2138, make-the-ai-judge-feel-curious-20261122-2311, the-joke-about-the-demo-20261123-0112); 2 sosial langsung SELESAI/DILEWATI (post-x-the-agent-builds-a-game-from-20261122-1709, post-tiktok-day-one-day-seven-20261123-0327). 11 router.md ditulis; tidak ada TIPE BARU. Antrean ni21 dikoreksi MINTA APPROVAL→SELESAI (V3 SUBMITTED 13:58:50Z, 01a2038d) + PRIORITAS dilepas. Total antrean 27 bounty: MENUNGGU 5, SELESAI 13, MINTA APPROVAL 1, BELUM DIBUKA 8. Kunci kosong.",
-      "waktu_utc": "2026-11-22T14:06:00Z"
-    },
-    {
-      "pesan": "pekerja: jalan 14:11Z — kunci kosong (0 byte), inbox kosong (tidak ada file keputusan baru). Tidak ada kandidat MENUNGGU yang bisa diambil: gta6-01 V3 manual (butuh jalankan-gta6-01-v3.txt, belum ada), token-radar-01 v4 butuh Gas baru Kavi (belum ada), news-image-20261122 jadwal 23 Nov 00:00Z, hidden-spec-cli-01 jadwal 23 Nov 14:00Z, dan tiny-stack-vm-01 jadwal 23 Nov 16:00Z belum lewat. status.md diperbarui; antrean.md tidak berubah; kunci tetap kosong; berhenti.",
-      "waktu_utc": "2026-11-22T14:11:00Z"
-    },
     {
       "pesan": "pekerja: jalan 14:21Z — kunci kosong (0 byte), inbox kosong (tidak ada file keputusan baru). Tidak ada kandidat MENUNGGU yang bisa diambil: gta6-01 V3 manual (butuh jalankan-gta6-01-v3.txt, belum ada), token-radar-01 v4 butuh Gas baru Kavi (belum ada), news-image-20261122 jadwal 23 Nov 00:00Z, hidden-spec-cli-01 jadwal 23 Nov 14:00Z, dan tiny-stack-vm-01 jadwal 23 Nov 16:00Z belum lewat. status.md diperbarui; antrean.md tidak berubah; kunci tetap kosong; berhenti.",
       "waktu_utc": "2026-11-22T14:21:00Z"
@@ -1127,6 +1099,34 @@
     {
       "pesan": "tiny-chess-01: MASUK ANTREAN (perintah Kavi 21:32 WIB, main chat) — status MINTA APPROVAL → MENUNGGU, langkah BUILDER (rebundle kit 36 + kit check ulang, perbaikan mekanis opsi a); file inbox/catatan-tiny-chess-01-V4.txt ditulis (jangan tulis ulang src.py, jangan submit apa adanya). Kunci bebas; pekerja berikutnya ambil (PRIORITAS, jadwal mulai sudah lewat).",
       "waktu_utc": "2026-11-22T14:32:00Z"
+    },
+    {
+      "pesan": "pekerja: jalan 14:41Z — kunci kosong, inbox 1 file (catatan-tiny-chess-01-V4.txt) diproses ke inbox/done/. Ambil tiny-chess-01 V4 (PRIORITAS). BLOKIR: pemeriksaan risiko eksekusi sistem saat membaca bundle lama — rebundle kit 36 + kit check + submit tidak jalan di sesi terjadwal ini; status MENUNGGU → MINTA APPROVAL (butuh satu tap Kavi di sesi live). Kunci dikosongkan; berhenti.",
+      "waktu_utc": "2026-11-22T14:42:00Z"
+    },
+    {
+      "pesan": "pekerja: jalan 14:51Z — kunci kosong (0 byte), inbox kosong (tidak ada file keputusan baru). Tidak ada kandidat MENUNGGU yang bisa diambil: gta6-01 V3 manual (butuh jalankan-gta6-01-v3.txt, belum ada), token-radar-01 v4 butuh Gas baru Kavi (belum ada), news-image-20261122 jadwal 23 Nov 00:00Z, hidden-spec-cli-01 jadwal 23 Nov 14:00Z, dan tiny-stack-vm-01 jadwal 23 Nov 16:00Z belum lewat. status.md diperbarui; antrean.md tidak berubah; kunci tetap kosong; berhenti.",
+      "waktu_utc": "2026-11-22T14:51:00Z"
+    },
+    {
+      "pesan": "penemuan: daftar segar GET /api/competitions?status=open (25 item) — tidak ada bounty baru; semua 25 slug sudah ada di antrean.md (2 antrean tidak di daftar terbuka: best-stealth-game-20261121-1759 + bring-the-humans-02, keduanya sudah SELESAI/kedaluwarsa). 10 BELUM DIBUKA belum ada yang dibuka (terdekat make-the-ai-judge-feel-held-20261122-1600 buka 16:00Z / 23:00 WIB). Antrean tetap 27 bounty: MENUNGGU 5, SELESAI 13, MINTA APPROVAL 1, BELUM DIBUKA 8. Kunci kosong.",
+      "waktu_utc": "2026-11-22T15:00:00Z"
+    },
+    {
+      "pesan": "pekerja: jalan 15:01Z — kunci kosong (0 byte), inbox kosong (tidak ada file keputusan baru). Tidak ada kandidat MENUNGGU yang bisa diambil: gta6-01 V3 manual (butuh jalankan-gta6-01-v3.txt, belum ada), token-radar-01 v4 butuh Gas baru Kavi (belum ada), news-image-20261122 jadwal 23 Nov 00:00Z, hidden-spec-cli-01 jadwal 23 Nov 14:00Z, dan tiny-stack-vm-01 jadwal 23 Nov 16:00Z belum lewat. status.md diperbarui; antrean.md tidak berubah; kunci tetap kosong; berhenti.",
+      "waktu_utc": "2026-11-22T15:01:00Z"
+    },
+    {
+      "pesan": "pekerja: jalan 15:11Z — kunci kosong (0 byte), inbox kosong (tidak ada file keputusan baru). Tidak ada kandidat MENUNGGU yang bisa diambil: gta6-01 V3 manual (butuh jalankan-gta6-01-v3.txt, belum ada), token-radar-01 v4 butuh Gas baru Kavi (belum ada), news-image-20261122 jadwal 23 Nov 00:00Z, hidden-spec-cli-01 jadwal 23 Nov 14:00Z, dan tiny-stack-vm-01 jadwal 23 Nov 16:00Z belum lewat. status.md diperbarui; antrean.md tidak berubah; kunci tetap kosong; berhenti.",
+      "waktu_utc": "2026-11-22T15:11:00Z"
+    },
+    {
+      "pesan": "tiny-chess-01: BLOKIR (sesi live, Gas Kavi 22:13 WIB) — pemeriksaan risiko eksekusi saat membaca isi bundle lama (manifest); menunggu konfirmasi Kavi di sesi ini sebelum rebundle kit 36; kunci dipegang sesi ini.",
+      "waktu_utc": "2026-11-22T15:13:00Z"
+    },
+    {
+      "pesan": "pekerja: jalan 15:21Z — kunci TERISI (v12-pekerja / tiny-chess-01, mulai 15:13Z, sesi live Gas Kavi 22:13 WIB, langkah terakhir REBUNDLE V4 kit 36). Inbox kosong, tidak ada file buka-kunci/tandai-mati yang cocok. Berhenti sesuai langkah 1; kunci TIDAK diambil alih, antrean.md tidak berubah.",
+      "waktu_utc": "2026-11-22T15:21:00Z"
     }
   ],
   "versi_kontrak": 1
