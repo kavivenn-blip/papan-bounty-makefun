@@ -22,7 +22,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Make the best stealth game",
-      "kelonggaran_menit": -2496,
+      "kelonggaran_menit": -2569,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -35,11 +35,11 @@
       "menunggu_sejak_utc": null,
       "mulai_dikerjakan_utc": null,
       "mulai_terakhir_utc": "2026-11-21T20:59:00Z",
-      "peringkat": null,
+      "peringkat": 3878,
       "prioritas": false,
       "putaran": null,
       "selesai_dikerjakan_utc": null,
-      "skor": null,
+      "skor": "981.679 (V1 final; dev #3.884/4.993; sebelumnya 'belum ter-grade' di status 14:35Z)",
       "slug": "best-stealth-game-20261121-1759",
       "status": "SELESAI",
       "submission_id": "01a201b2-7c13-7708-bf1f-22a1c14e3507",
@@ -50,7 +50,7 @@
       "tenggat_utc": "2026-11-22T05:59:00Z",
       "tie_break": null,
       "tipe_baru": false,
-      "total_peserta": null,
+      "total_peserta": 4986,
       "type_card": "game-2d.txt",
       "versi": 1,
       "vonis_crosscheck": null
@@ -75,7 +75,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Make the best heist game",
-      "kelonggaran_menit": -1776,
+      "kelonggaran_menit": -1849,
       "kuota": {
         "hari_batas": 5,
         "hari_terpakai": 1,
@@ -88,11 +88,11 @@
       "menunggu_sejak_utc": null,
       "mulai_dikerjakan_utc": "2026-11-22T10:24:00Z",
       "mulai_terakhir_utc": "2026-11-22T08:59:00Z",
-      "peringkat": 678,
+      "peringkat": 5804,
       "prioritas": false,
       "putaran": null,
       "selesai_dikerjakan_utc": "2026-11-22T11:13:00Z",
-      "skor": "607044 (round 1, Judge win rate, live 10:24Z)",
+      "skor": "0 (V2 final; dev #4.294/6.115; V1 round 1 #678/4.156 score 607044 live 10:24Z)",
       "slug": "best-heist-game-20261122-0559",
       "status": "SELESAI",
       "submission_id": "01a202f5-a7fd-703f-a72e-886bffcfb36e",
@@ -103,7 +103,7 @@
       "tenggat_utc": "2026-11-22T17:59:00Z",
       "tie_break": null,
       "tipe_baru": false,
-      "total_peserta": 4156,
+      "total_peserta": 6110,
       "type_card": "game-2d.txt",
       "versi": 2,
       "vonis_crosscheck": "GO (11:11Z; bukti independen: clone segar cocok, 2 run byte-identik, render ulang cocok, playtest 6/6, patrol 120 dtk; kuota live 11:09Z TRUE day 4 hard 39)"
@@ -128,7 +128,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Read broken CSV files faster, 21 November 2026",
-      "kelonggaran_menit": -1373,
+      "kelonggaran_menit": -1446,
       "kuota": {
         "hari_batas": 10,
         "hari_terpakai": 0,
@@ -141,11 +141,11 @@
       "menunggu_sejak_utc": null,
       "mulai_dikerjakan_utc": "2026-11-22T08:27:00Z",
       "mulai_terakhir_utc": "2026-11-22T15:42:00Z",
-      "peringkat": 677,
+      "peringkat": 929,
       "prioritas": true,
       "putaran": null,
       "selesai_dikerjakan_utc": "2026-11-22T12:01:00Z",
-      "skor": "cpu_us 1.060.000, 6/6 kasus passed (V2, skor pertama, MEMORY.md terkurasi 22 Nov; V1: #1.080/8.783, cpu_us 1.250.000, live 08:24Z)",
+      "skor": "cpu_us 1.060.000, 6/6 kasus passed (V2 dev, riwayat-rank-seen.json; sebelumnya #677/9.643 — drift karena papan membesar; V1: #1.080/8.783, cpu_us 1.250.000, live 08:24Z)",
       "slug": "csv-reader-speed-01-run-20261121",
       "status": "SELESAI",
       "submission_id": "01a20321-65d2-7003-a2ee-ba78711b8edd",
@@ -156,7 +156,7 @@
       "tenggat_utc": "2026-11-23T02:42:00Z",
       "tie_break": null,
       "tipe_baru": false,
-      "total_peserta": 9643,
+      "total_peserta": 11161,
       "type_card": "metrik-grader.txt",
       "versi": 2,
       "vonis_crosscheck": "GO (12:00Z; repo + commit + LICENSE + README + About + owner.json terverifikasi; grade-local 6/6)"
@@ -183,7 +183,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Make the AI judge feel held",
-      "kelonggaran_menit": -1295,
+      "kelonggaran_menit": -1368,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -238,7 +238,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "The picture that tastes of one ingredient",
-      "kelonggaran_menit": -1188,
+      "kelonggaran_menit": -1261,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -293,7 +293,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Clip GTA 6 for the most YouTube views",
-      "kelonggaran_menit": -1085,
+      "kelonggaran_menit": -1158,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -346,7 +346,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Sum up 21 November's world news in one image",
-      "kelonggaran_menit": -1055,
+      "kelonggaran_menit": -1128,
       "kuota": {
         "hari_batas": 10,
         "hari_terpakai": 1,
@@ -359,11 +359,11 @@
       "menunggu_sejak_utc": null,
       "mulai_dikerjakan_utc": "2026-11-22T12:11:00Z",
       "mulai_terakhir_utc": "2026-11-22T21:00:00Z",
-      "peringkat": 285,
+      "peringkat": 6218,
       "prioritas": false,
       "putaran": null,
       "selesai_dikerjakan_utc": "2026-11-22T13:58:50Z",
-      "skor": "judge 985.464 (V2, skor pertama, MEMORY.md terkurasi 22 Nov; live 12:15Z tercatat #293/16.016, interval 979.293-991.636 — selisih drift belum terverifikasi)",
+      "skor": "judge 970.769 (V3 dev, riwayat-rank-seen.json; final #1.952/18.836 skor 655.912; V2 #285/15.945 judge 985.464 skor pertama; V1 #2.892/15.213 judge 975.354)",
       "slug": "news-image-20261121",
       "status": "SELESAI",
       "submission_id": "01a2038d-700c-7199-aef7-e106359c04ae",
@@ -374,7 +374,7 @@
       "tenggat_utc": "2026-11-23T00:00:00Z",
       "tie_break": null,
       "tipe_baru": false,
-      "total_peserta": 15945,
+      "total_peserta": 18863,
       "type_card": "design-gambar-news-image.txt",
       "versi": 3,
       "vonis_crosscheck": "GO (V3 13:08Z; rubrik 23/25; 7 klaim fakta terverifikasi ke sumber primer 21 Nov; kuota live TRUE day 9 hard 38)"
@@ -401,7 +401,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Make the best card game",
-      "kelonggaran_menit": -1029,
+      "kelonggaran_menit": -1102,
       "kuota": {
         "hari_batas": 10,
         "hari_terpakai": 1,
@@ -454,7 +454,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Build the best Sokoban solver, 21 November 2026",
-      "kelonggaran_menit": -935,
+      "kelonggaran_menit": -1008,
       "kuota": {
         "hari_batas": 10,
         "hari_terpakai": 1,
@@ -467,11 +467,11 @@
       "menunggu_sejak_utc": null,
       "mulai_dikerjakan_utc": "2026-11-22T13:11:00Z",
       "mulai_terakhir_utc": "2026-11-22T23:00:00Z",
-      "peringkat": 2031,
+      "peringkat": 2253,
       "prioritas": false,
       "putaran": null,
       "selesai_dikerjakan_utc": "2026-11-22T13:44:00Z",
-      "skor": "1.000.000 (5/5 instance sempurna, size_bytes 10.118, V2, skor pertama, MEMORY.md terkurasi 22 Nov; V1: #7.996/8.338, size 28.243, live 13:12Z)",
+      "skor": "1.000.000 (5/5 instance sempurna, size_bytes 10.118, V2 final; dev #2.285/10.001; sebelumnya #2.031/8.480 — drift; V1: #7.996/8.338, size 28.243, live 13:12Z)",
       "slug": "sokoban-solver-01-run-20261121",
       "status": "SELESAI",
       "submission_id": "01a2037e-f7f8-749e-87e2-b28ff7d7c009",
@@ -482,7 +482,7 @@
       "tenggat_utc": "2026-11-23T03:00:00Z",
       "tie_break": true,
       "tipe_baru": false,
-      "total_peserta": 8480,
+      "total_peserta": 9902,
       "type_card": "metrik-grader.txt",
       "versi": 2,
       "vonis_crosscheck": "GO (V2 13:39Z; skor direproduksi sendiri 1.000.000 (5/5) + set segar 1.000.000; ukuran dihitung sendiri 10.118 byte; kuota live 13:36Z TRUE day 9 hard 39; 0 blocker)"
@@ -507,7 +507,7 @@
       "jalur": "normal",
       "jalur_cepat": true,
       "judul": "One line that makes a builder",
-      "kelonggaran_menit": -665,
+      "kelonggaran_menit": -738,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -562,7 +562,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Build a bot that trades it minute by minute and makes money",
-      "kelonggaran_menit": -504,
+      "kelonggaran_menit": -577,
       "kuota": {
         "hari_batas": 20,
         "hari_terpakai": 0,
@@ -617,7 +617,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Post a GTA 6 meme on X",
-      "kelonggaran_menit": -305,
+      "kelonggaran_menit": -378,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -657,10 +657,10 @@
       "buka_utc": "2026-11-22T00:00:00Z",
       "catatan": "V1 'No Deal Sunday' SUBMITTED 02:43:56Z (01a20649, commit 776464e, claim AF-5FQBW-3VC83-7VM7F-BMZY5); Round 1 validity checks SEMUA PASS 02:44:30Z (thinking_reproduces 92,2%); V1 ter-grade dev #663/14.172 judge 982.336 (cek live ~11:15Z, di luar 50 besar). V2: Kavi pilih opsi (1) 20:58 WIB — perbaiki B1+B2 lalu submit (pengecualian satu putaran ekstra); IMPROVE putaran ekstra SELESAI 14:16Z; CROSSCHECK ulang putaran 3 GO 14:25Z (rubrik 25); SUBMIT BLOKIR 14:27Z — butuh 1 tap Kavi di sesi live. Kandidat V2 di news-image-20261122-v2-repo/ (entry.png sha 983818fb…, 364.983 byte). Kuota live can_submit YES (14:21Z, hari 9, hard 39). Hasil due 8 Des 2026. E67–E71 ada di catatan-lapangan.md pack v15.2.1.",
       "duel_a": {
+        "interval": null,
         "n": 0,
-        "win_rate": null,
         "putusan": null,
-        "interval": null
+        "win_rate": null
       },
       "entry_final_id": null,
       "file_inbox": null,
@@ -668,28 +668,28 @@
       "hadiah_didapat": null,
       "harness": "program/v1",
       "isi_inbox_sah": null,
-      "jadwal_mulai_utc": "2026-11-23T11:05:00Z",
+      "jadwal_mulai_utc": "2026-11-23T13:59:00Z",
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Sum up 22 November's world news in one image",
-      "kelonggaran_menit": 385,
+      "kelonggaran_menit": 312,
       "kuota": {
         "hari_batas": 10,
         "hari_terpakai": 1,
         "total_batas": 20,
         "total_terpakai": 1
       },
-      "langkah_berikutnya": "SUBMIT V2 (buat repo news-image-20261122-v2 + kit check terbaru + bundle transkrip + submit) — butuh 1 tap Kavi di sesi live (BLOKIR 14:27Z)",
-      "langkah_terakhir_selesai": "CROSSCHECK ulang putaran 3 GO 14:25Z (sesi pemeriksa independen, konteks baru; rubrik verifikasi 25 vs V1 23; B1+B2 terverifikasi ke sumber primer + gambar; replikasi sha 983818fb… cocok; kemiripan 0,414/0,393/0,404; kuota live YES 14:21Z; fee $0; Duel A n=0 Gemini 403 — bukan penolakan). SUBMIT BLOKIR 14:27Z: exec sesi terjadwal gagal pemeriksaan risiko eksekusi saat membaca repo V1 (git log) — rantai submit tidak jalan di sesi terjadwal; butuh 1 tap Kavi di sesi live. IMPROVE putaran ekstra SELESAI 14:16Z (B1 bignum 3→4, B2 'Bitcoin reclaims $60,000'; entry.png sha 983818fb…, 364.983 byte). V1 tetap berdiri (01a20649, #663/14.172, judge 982.336).",
+      "langkah_berikutnya": "SUBMIT V2 (buat repo news-image-20261122-v2 + kit check terbaru + bundle transkrip + submit) — BLOKIR 14:27Z: sesi terjadwal kena pemeriksaan risiko eksekusi saat membaca repo V1 (git log); butuh 1 tap Kavi di sesi live untuk menjalankan rantai submit",
+      "langkah_terakhir_selesai": "KEPUTUSAN KAVI 20:58 WIB (tap main chat): opsi (1) perbaiki B1+B2 lalu submit V2 — pengecualian SATU putaran ekstra DISETUJUI (detail di inbox/lanjutkan-news-image-20261122.txt). CROSSCHECK ulang putaran 3 GO 14:25Z (rubrik 25, K1–K5 semua 5; B1+B2 terverifikasi independen; replikasi sha 983818fb… cocok; kuota live YES 14:21Z; fee $0) — SUBMIT BELUM JALAN: BLOKIR 14:27Z pemeriksaan risiko eksekusi di sesi terjadwal (saat membaca repo V1); rantai submit (repo baru + kit check + bundle + submit) butuh 1 tap Kavi di sesi live. Kandidat V2 siap di news-image-20261122-v2-repo/ (entry.png sha 983818fb…, 364.983 byte). PEKERJA 14:01Z ambil kunci; IMPROVE putaran ekstra SELESAI 14:16Z; CROSSCHECK didelegasikan 14:17Z; inbox diproses, berkas dipindah ke inbox/done/. B1: angka besar kartu Khartoum \"3\"→\"4\" (judul+badan \"4 tewas\"). B2: \"Bitcoin stays under $60,000\"→\"Bitcoin reclaims $60,000\" (candle 22 Nov UTC open $60.215,78/close $61.271,08). CROSSCHECK ulang putaran 2 NO_GO (batas_putaran) 12:05Z: D1–D11 diperbaiki 9/11 penuh (D8 tidak lengkap, D11 resepnya salah); rubrik verifikasi 23 = V1 (K1 5/K2 5/K3 4/K4 4/K5 5; syarat GO total ≥23 DAN K4=5 tidak terpenuhi); replikasi COCOK (sha eb3313f1…, 365.696 byte); kemiripan 0,414/0,393/0,404 lolos; kuota live can_submit YES (hari 9, hard 39); duel n=0 (Gemini 403). V1 tetap berdiri (01a20649, #663/14.172, judge 982.336). Pack v15.2.1 berlaku untuk perbaikan ini.",
       "menunggu_apa": "1 tap Kavi di sesi live untuk menjalankan rantai submit V2 (keputusan opsi 1 sudah ada sejak 20:58 WIB; crosscheck putaran 3 GO 14:25Z)",
       "menunggu_sejak_utc": "2026-11-23T14:27:00Z",
       "mulai_dikerjakan_utc": "2026-11-23T11:11:00Z",
       "mulai_terakhir_utc": "2026-11-23T21:00:00Z",
-      "peringkat": 663,
+      "peringkat": 547,
       "prioritas": false,
       "putaran": 3,
       "selesai_dikerjakan_utc": "2026-11-23T12:06:00Z",
-      "skor": 982.336,
+      "skor": "982.336 (V1 dev, riwayat-rank-seen.json; cek live ~11:15Z #663/14.172 — drift)",
       "slug": "news-image-20261122",
       "status": "MINTA APPROVAL",
       "submission_id": "01a20649-e63c-758f-a49c-3329b2e2de0b",
@@ -700,7 +700,7 @@
       "tenggat_utc": "2026-11-24T00:00:00Z",
       "tie_break": null,
       "tipe_baru": false,
-      "total_peserta": 14172,
+      "total_peserta": 12951,
       "type_card": "design-gambar-news-image.txt",
       "versi": 2,
       "vonis_crosscheck": "GO (V2, crosscheck ulang putaran 3, 14:25Z — putaran ekstra yang disetujui Kavi 20:58 WIB; rubrik verifikasi 25 vs V1 23; B1+B2 terverifikasi; replikasi sha 983818fb… cocok; kuota live YES 14:21Z; fee $0; Duel A n=0 Gemini 403 — bukan penolakan). SUBMIT BELUM JALAN (BLOKIR 14:27Z, pemeriksaan risiko eksekusi)."
@@ -725,7 +725,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Make GTA 6",
-      "kelonggaran_menit": 865,
+      "kelonggaran_menit": 792,
       "kuota": {
         "hari_batas": 5,
         "hari_terpakai": 1,
@@ -738,11 +738,11 @@
       "menunggu_sejak_utc": null,
       "mulai_dikerjakan_utc": "2026-11-23T02:52:00Z",
       "mulai_terakhir_utc": "2026-11-24T05:00:00Z",
-      "peringkat": null,
+      "peringkat": 521,
       "prioritas": false,
       "putaran": 1,
       "selesai_dikerjakan_utc": "2026-11-23T03:09:19Z",
-      "skor": "judge dev rate 0,990746 (V4, 12/12 menang, interval 90% 0,985043–0,996448, SCORED 03:09:01Z — dev saja, bukan skor final); V1 #6.772/10.508 judge 983.063 (live 22:41Z)",
+      "skor": "judge dev rate 0,990746 (V4 dev, 12/12 menang, riwayat-rank-seen.json; SCORED 03:09:01Z; V1 #6.772/10.508 judge 983.063 live 22:41Z)",
       "slug": "gta6-01",
       "status": "SELESAI",
       "submission_id": "01a2065b-bfc9-73e8-91e5-32220e11b8b0",
@@ -753,7 +753,7 @@
       "tenggat_utc": "2026-11-24T15:00:00Z",
       "tie_break": null,
       "tipe_baru": false,
-      "total_peserta": 10508,
+      "total_peserta": 10757,
       "type_card": "game-3d-fps.txt",
       "versi": 4,
       "vonis_crosscheck": "GO (CROSSCHECK V4 02:59Z; replikasi independen: dossier sha 2363ac4a…e31 identik, bind-mount exit 0 + kontrol V3 exit 1 EBUSY, kit check ok=True 26 checks; Duel A n=0 bukan penolakan — route Gemini 403)"
@@ -780,7 +780,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Build the strongest chess engine in 4 KB of Python",
-      "kelonggaran_menit": 925,
+      "kelonggaran_menit": 852,
       "kuota": {
         "hari_batas": 5,
         "hari_terpakai": 0,
@@ -793,11 +793,11 @@
       "menunggu_sejak_utc": null,
       "mulai_dikerjakan_utc": "2026-11-22T04:32:00Z",
       "mulai_terakhir_utc": "2026-11-24T06:00:00Z",
-      "peringkat": 343,
+      "peringkat": 382,
       "prioritas": true,
       "putaran": 1,
       "selesai_dikerjakan_utc": null,
-      "skor": null,
+      "skor": "2.110 (v3 dev, riwayat-rank-seen.json; sebelumnya #343/15.516 — drift)",
       "slug": "tiny-chess-01",
       "status": "MENUNGGU",
       "submission_id": null,
@@ -808,7 +808,7 @@
       "tenggat_utc": "2026-11-24T17:00:00Z",
       "tie_break": null,
       "tipe_baru": false,
-      "total_peserta": 15516,
+      "total_peserta": 16256,
       "type_card": "metrik-grader.txt",
       "versi": 4,
       "vonis_crosscheck": "GO (ulang 22 Nov 07:45Z; rerun 20 game identik, test lolos, unpack cocok, Duel A TIDAK DITOLAK)"
@@ -835,7 +835,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Make the Judge Fall in Love in One Line",
-      "kelonggaran_menit": 995,
+      "kelonggaran_menit": 922,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -888,29 +888,29 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Build mend, one patch tool for every AI edit format",
-      "kelonggaran_menit": 1165,
+      "kelonggaran_menit": 1092,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
         "total_batas": null,
         "total_terpakai": null
       },
-      "langkah_berikutnya": "BUILDER",
-      "langkah_terakhir_selesai": "ANALISIS SELESAI 14:56Z (pekerja 14:28Z; briefing+kontrak+rubrik ditulis; kit fresh level 38 diunduh; kuota day 5/5 hard 40 can_submit TRUE; papan dev rank 1–100 semua 1000 — saringan final 750, pembeda = skor final pool tersegel)",
+      "langkah_berikutnya": "— (tunggu hasil V1)",
+      "langkah_terakhir_selesai": "V1 SUBMITTED 15:37:19Z (01a2090d, commit a2f975d1, claim AF-7P628-VRHSH-RV3Y0-DVY1C; platform: stage checked, SEMUA check PASS incl. thinking_reproduces 100% server, run record lolos; grading dev berjalan; skor/rank belum terlihat)",
       "menunggu_apa": null,
       "menunggu_sejak_utc": null,
       "mulai_dikerjakan_utc": "2026-11-23T14:28:43Z",
       "mulai_terakhir_utc": "2026-11-24T10:00:00Z",
       "peringkat": null,
       "prioritas": false,
-      "putaran": null,
-      "selesai_dikerjakan_utc": null,
+      "putaran": 1,
+      "selesai_dikerjakan_utc": "2026-11-23T15:37:19Z",
       "skor": null,
       "slug": "hidden-spec-cli-01-run-20261122",
-      "status": "MENUNGGU",
-      "submission_id": null,
-      "submit_status": null,
-      "submit_utc": null,
+      "status": "SELESAI",
+      "submission_id": "01a2090d-f621-71d9-a0b8-5bb2d10aacd1",
+      "submit_status": "submitted (V1 'mend', HTTP 202; platform stage checked, SEMUA check server PASS incl. thinking_reproduces 100% 511/511 server, run record lolos; claim AF-7P628-VRHSH-RV3Y0-DVY1C; grading dev berjalan)",
+      "submit_utc": "2026-11-23T15:37:19Z",
       "tautan": "https://make.fun/bounty/hidden-spec-cli-01-run-20261122",
       "tempat_dibayar": 10,
       "tenggat_utc": "2026-11-24T14:00:00Z",
@@ -919,7 +919,7 @@
       "total_peserta": null,
       "type_card": "metrik-grader.txt",
       "versi": 1,
-      "vonis_crosscheck": null
+      "vonis_crosscheck": "GO (15:31Z; replikasi independen 100/100 skor 1000, 2 run identik; 17 probe SPEC lolos; repo/commit terverifikasi; tanpa blocker; kit check 16 passed 0 failed, thinking_reproduces lokal 100% 478/478)"
     },
     {
       "blocker": [],
@@ -941,7 +941,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Build a static site faster, 22 November 2026",
-      "kelonggaran_menit": 1525,
+      "kelonggaran_menit": 1452,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -994,7 +994,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Build a tiny stack virtual machine, 22 November 2026",
-      "kelonggaran_menit": 1585,
+      "kelonggaran_menit": 1512,
       "kuota": {
         "hari_batas": 10,
         "hari_terpakai": 0,
@@ -1047,7 +1047,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Sum up 23 November's world news in one image",
-      "kelonggaran_menit": 1825,
+      "kelonggaran_menit": 1752,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -1102,7 +1102,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Winner Takes All — $5 Pump.fun Replay Sprint",
-      "kelonggaran_menit": 2905,
+      "kelonggaran_menit": 2832,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -1157,7 +1157,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Build the best token launch radar",
-      "kelonggaran_menit": 29305,
+      "kelonggaran_menit": 29232,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -1170,11 +1170,11 @@
       "menunggu_sejak_utc": null,
       "mulai_dikerjakan_utc": null,
       "mulai_terakhir_utc": "2026-12-13T23:00:00Z",
-      "peringkat": 3431,
+      "peringkat": 3498,
       "prioritas": false,
       "putaran": null,
       "selesai_dikerjakan_utc": null,
-      "skor": "909.237 (judge)",
+      "skor": "909.237 (judge, v3 dev, riwayat-rank-seen.json; sebelumnya #3.431/16.859 — drift)",
       "slug": "token-radar-01",
       "status": "SELESAI",
       "submission_id": null,
@@ -1185,7 +1185,7 @@
       "tenggat_utc": "2026-12-14T10:00:00Z",
       "tie_break": null,
       "tipe_baru": false,
-      "total_peserta": 16859,
+      "total_peserta": 17325,
       "type_card": "metrik-grader.txt",
       "versi": 3,
       "vonis_crosscheck": null
@@ -1212,7 +1212,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Bring the humans again",
-      "kelonggaran_menit": -3515,
+      "kelonggaran_menit": -3588,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -1225,11 +1225,11 @@
       "menunggu_sejak_utc": null,
       "mulai_dikerjakan_utc": null,
       "mulai_terakhir_utc": "2026-11-21T04:00:00Z",
-      "peringkat": 828,
+      "peringkat": 808,
       "prioritas": false,
       "putaran": null,
       "selesai_dikerjakan_utc": null,
-      "skor": "0 signup",
+      "skor": "0 (v1 final; dev #823/3.390; 0 signup; sebelumnya #828/3.062 — drift)",
       "slug": "bring-the-humans-02",
       "status": "SELESAI",
       "submission_id": null,
@@ -1240,7 +1240,7 @@
       "tenggat_utc": "2026-11-21T10:30:00Z",
       "tie_break": null,
       "tipe_baru": false,
-      "total_peserta": 3062,
+      "total_peserta": 3389,
       "type_card": "guide-dan-growth.txt",
       "versi": 1,
       "vonis_crosscheck": null
@@ -1267,7 +1267,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Forecast how many GTA VI players earn each trophy in week one",
-      "kelonggaran_menit": -3275,
+      "kelonggaran_menit": -3348,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -1280,11 +1280,11 @@
       "menunggu_sejak_utc": null,
       "mulai_dikerjakan_utc": null,
       "mulai_terakhir_utc": "2026-11-21T08:00:00Z",
-      "peringkat": 4813,
+      "peringkat": 9593,
       "prioritas": false,
       "putaran": null,
       "selesai_dikerjakan_utc": null,
-      "skor": null,
+      "skor": "1.5 (v1 dev, riwayat-rank-seen.json; CATATAN: bertentangan dengan #4.813/11.568 di status 14:35Z — belum terverifikasi)",
       "slug": "gta6-trophy-rarity-forecast-01",
       "status": "SELESAI",
       "submission_id": null,
@@ -1295,7 +1295,7 @@
       "tenggat_utc": "2026-11-21T11:30:00Z",
       "tie_break": null,
       "tipe_baru": false,
-      "total_peserta": 11568,
+      "total_peserta": 10330,
       "type_card": "forecast.txt",
       "versi": 1,
       "vonis_crosscheck": null
@@ -1322,7 +1322,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Sum up 20 November's world news in one image",
-      "kelonggaran_menit": -2495,
+      "kelonggaran_menit": -2568,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -1335,11 +1335,11 @@
       "menunggu_sejak_utc": null,
       "mulai_dikerjakan_utc": null,
       "mulai_terakhir_utc": "2026-11-21T21:00:00Z",
-      "peringkat": 7147,
+      "peringkat": 475,
       "prioritas": false,
       "putaran": null,
       "selesai_dikerjakan_utc": null,
-      "skor": null,
+      "skor": "984.958 (v5 dev, riwayat-rank-seen.json; final #1.158/19.413 skor 707.994; CATATAN: bertentangan dengan #7.147/18.017 di status 14:35Z — belum terverifikasi)",
       "slug": "news-image-20261120",
       "status": "SELESAI",
       "submission_id": null,
@@ -1350,7 +1350,7 @@
       "tenggat_utc": "2026-11-22T00:00:00Z",
       "tie_break": null,
       "tipe_baru": false,
-      "total_peserta": 18017,
+      "total_peserta": 19444,
       "type_card": "design-gambar-news-image.txt",
       "versi": 5,
       "vonis_crosscheck": null
@@ -1377,7 +1377,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Bring the humans with a TikTok ad",
-      "kelonggaran_menit": 1435,
+      "kelonggaran_menit": 1362,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -1430,7 +1430,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "The plan make.fun will carry out in public",
-      "kelonggaran_menit": -1017,
+      "kelonggaran_menit": -1090,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -1483,7 +1483,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Make the AI judge feel curious",
-      "kelonggaran_menit": -924,
+      "kelonggaran_menit": -997,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -1536,7 +1536,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "The joke about the demo",
-      "kelonggaran_menit": -803,
+      "kelonggaran_menit": -876,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -1591,7 +1591,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "The agent builds a game from one prompt",
-      "kelonggaran_menit": 1324,
+      "kelonggaran_menit": 1251,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -1646,7 +1646,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Day one, day seven",
-      "kelonggaran_menit": 502,
+      "kelonggaran_menit": 429,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -1756,7 +1756,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "One Line, Best Line",
-      "kelonggaran_menit": 1055,
+      "kelonggaran_menit": 982,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -1811,7 +1811,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "One Sentence, One Journey",
-      "kelonggaran_menit": 1055,
+      "kelonggaran_menit": 982,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -1866,7 +1866,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Two Lines of Morning Light",
-      "kelonggaran_menit": 1055,
+      "kelonggaran_menit": 982,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -1921,7 +1921,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Meme Sprint: AI Agents Ship Games",
-      "kelonggaran_menit": 1005,
+      "kelonggaran_menit": 932,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -1976,7 +1976,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Hire Me In One Line",
-      "kelonggaran_menit": 945,
+      "kelonggaran_menit": 872,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -2031,7 +2031,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Pump Sprint: 12-Hour Paper Trading Dash",
-      "kelonggaran_menit": 975,
+      "kelonggaran_menit": 902,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -2086,7 +2086,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Sleeve Notes for the Frog Trio",
-      "kelonggaran_menit": 850,
+      "kelonggaran_menit": 777,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -2120,59 +2120,59 @@
       "vonis_crosscheck": null
     }
   ],
-  "dibuat_pada_utc": "2026-11-23T14:35:00Z",
+  "dibuat_pada_utc": "2026-11-23T15:48:00Z",
   "kunci": {
-    "terpakai": true,
-    "slug": "hidden-spec-cli-01-run-20261122",
-    "sejak_utc": "2026-11-23T14:28:43Z",
-    "langkah_terakhir": "ANALISIS SELESAI 14:56Z (pekerja 14:28Z; briefing+kontrak+rubrik ditulis; kit fresh level 38 diunduh; kuota day 5/5 hard 40 can_submit TRUE; papan dev rank 1–100 semua 1000 — saringan final 750, pembeda = skor final pool tersegel)"
+    "langkah_terakhir": "KOSONG — kunci dilepas 15:38:41Z setelah rantai V1 hidden-spec-cli-01-run-20261122 selesai (V1 SUBMITTED 15:37:19Z, submission 01a2090d, semua check server PASS); pekerja 15:43Z tidak mengambil kunci (tidak ada kandidat MENUNGGU yang jadwalnya sudah lewat)",
+    "sejak_utc": null,
+    "slug": null,
+    "terpakai": false
   },
   "kunci_prioritas": {
-    "terpakai": false,
-    "slug": null,
+    "langkah_terakhir": "KOSONG — antrean-prioritas.md kosong; pekerja-prioritas jalan tiap 2 menit, run terakhir 2026-11-23T15:47:00Z: daftar terbuka 30 bounty, 1 slug di luar antrean (u-ravendell-the-plumber-s-inbox, BUKAN TIE-BREAK + berbayar, menunggu penemuan); tidak ada kandidat MENUNGGU di jalur prioritas",
     "sejak_utc": null,
-    "langkah_terakhir": "KOSONG — antrean-prioritas.md kosong; pekerja-prioritas jalan tiap 2 menit, run terakhir 2026-11-23T14:36:10Z: daftar terbuka 30 bounty, 0 slug baru di luar antrean.md (u-ravendell-the-plumber-s-inbox sudah dinilai BUKAN TIE-BREAK + berbayar, menunggu penemuan); tidak ada kandidat MENUNGGU di jalur prioritas"
+    "slug": null,
+    "terpakai": false
   },
   "peristiwa_terakhir": [
     {
-      "waktu_utc": "2026-11-23T14:17:00Z",
-      "pesan": "2026-11-23T14:17:00Z pekerja: IMPROVE putaran ekstra SELESAI 14:16Z (B1 bignum 3→4, B2 'Bitcoin reclaims $60,000'; entry.png sha 983818fb…, 364.983 byte; gerbang diukur ulang identik p2; rubrik 25; kuota YES 14:12Z) — verifikasi cepat sesi ini: sha cocok di revisi+repo, baris 327/476 benar, PUTARAN 3 tercatat. CROSSCHECK ulang putaran 3 didelegasikan ke sesi pemeriksa independen (konteks baru, read-only). Antrean diperbarui."
+      "pesan": "2026-11-23T15:30:26Z pekerja-prioritas: jalan 2026-11-23T15:30:26Z — saklar JALUR_PRIORITAS aktif (pack v15.2.1). kunci-prioritas.md dan antrean-prioritas.md kosong (0 byte). Inbox kosong (hanya done/). temuan/ berisi 2 berkas JALUR: normal (u-brisk-kestrel-93, u-pangg7) — bukan urusan jalur prioritas, dibiarkan untuk pekerja normal. Daftar terbuka segar 29 bounty (curl API status=open, HTTP 200, next_cursor null, 15:30Z) — 1 slug di luar antrean.md/antrean-prioritas.md/temuan/temuan/done/: u-ravendell-the-plumber-s-inbox-a-120-word-cold-email-9ab3e51c; dikonfirmasi ulang dari objek kompetisi segar + requirements segar (GET /requirements HTTP 200, 138.568B, 15:30Z): BUKAN TIE-BREAK — (a) GAGAL (resolution.method \"judges\"; \"the house judge (every call dialled to z-ai/glm-5.3-flash on OpenRouter...) picks one of two texts per call\" — juri AI); (b) GAGAL (\"Ranking: Judge win rate..., the recorded point estimate of a Bradley-Terry fit over the verdicts\" — win rate kontinu, tanpa nilai terbaik yang bisa dicapai banyak peserta); (c) ada tie-break receipt (\"an exact tie goes to ... then to the smaller text ... then to the earlier receipt\") tapi tidak menolong. Juga fee $0.50 USDC (berbayar), kategori Growth, tutup 24 Nov 08:15Z, 6 submission. Dibiarkan untuk tugas penemuan; tidak ditulis ke antrean-prioritas.md. Tidak ada bounty MENUNGGU di jalur prioritas; berhenti tanpa mengambil kunci.",
+      "waktu_utc": "2026-11-23T15:30:26Z"
     },
     {
-      "waktu_utc": "2026-11-23T14:19:39Z",
-      "pesan": "2026-11-23T14:19:39Z pekerja-prioritas: jalan 2026-11-23T14:17:35Z — saklar JALUR_PRIORITAS aktif (pack v15.2.1). kunci-prioritas.md dan antrean-prioritas.md kosong (0 byte). Inbox kosong (hanya done/). temuan/ berisi 2 berkas JALUR: normal (u-brisk-kestrel-93, u-pangg7) — bukan urusan jalur prioritas, dibiarkan untuk pekerja normal. Daftar terbuka segar 30 bounty (fetch-open-v12.mjs, HTTP 200, 2026-11-23T14:19:39Z) — 1 slug baru di luar antrean.md/antrean-prioritas.md/temuan/temuan/done/: u-ravendell-the-plumber-s-inbox-a-120-word-cold-email-9ab3e51c; SAMA dengan yang sudah dievaluasi jalan 14:17Z: BUKAN TIE-BREAK (resolution.method \"judges\", juri AI z-ai/glm-5.3-flash; Judge win rate kontinu; fee $0.50 USDC berbayar) — dibiarkan untuk tugas penemuan, tidak ditulis ke antrean-prioritas.md. Tidak ada bounty MENUNGGU di jalur prioritas; berhenti tanpa mengambil kunci."
+      "pesan": "2026-11-23T15:33:39Z pekerja-prioritas: jalan 2026-11-23T15:32:20Z — saklar JALUR_PRIORITAS aktif (pack v15.2.1). kunci-prioritas.md dan antrean-prioritas.md kosong (0 byte). Inbox kosong (hanya done/). temuan/ berisi 2 berkas JALUR: normal (u-brisk-kestrel-93, u-pangg7) — bukan urusan jalur prioritas, dibiarkan untuk pekerja normal. Daftar terbuka segar 29 bounty (fetch-open-v12.mjs, HTTP 200, 15:32:45Z) — 1 slug di luar antrean.md/antrean-prioritas.md/temuan/temuan/done/: u-ravendell-the-plumber-s-inbox-a-120-word-cold-email-9ab3e51c; dikonfirmasi ulang dari objek kompetisi segar (GET /competitions/SLUG HTTP 200, 64.594B, 15:33Z) + requirements segar (GET /requirements HTTP 200, 138.528B, 15:33Z): BUKAN TIE-BREAK — (a) GAGAL (resolution.method \"judges\"; \"Judge win rate over the house judge's verdicts on the text each entry writes... the highest Judge win rate wins\" — juri AI); (b) GAGAL (win rate kontinu, tanpa nilai terbaik yang bisa dicapai banyak peserta). Juga fee $0.50 USDC (berbayar), kategori Growth, tutup 24 Nov 08:15Z, 7 submission. Dibiarkan untuk tugas penemuan; tidak ditulis ke antrean-prioritas.md. Tidak ada bounty MENUNGGU di jalur prioritas; berhenti tanpa mengambil kunci.",
+      "waktu_utc": "2026-11-23T15:33:39Z"
     },
     {
-      "waktu_utc": "2026-11-23T14:21:53Z",
-      "pesan": "2026-11-23T14:21:53Z pekerja-prioritas: jalan 2026-11-23T14:21:53Z — saklar JALUR_PRIORITAS aktif (pack v15.2.1). kunci-prioritas.md dan antrean-prioritas.md kosong (0 byte). Inbox kosong (hanya done/). temuan/ berisi 2 berkas JALUR: normal (u-brisk-kestrel-93, u-pangg7) — bukan urusan jalur prioritas, dibiarkan untuk pekerja normal. Daftar terbuka segar 30 bounty (fetch-open-v12.mjs, HTTP 200, 2026-11-23T14:21:53Z) — 1 slug baru di luar antrean.md/antrean-prioritas.md/temuan/temuan/done/: u-ravendell-the-plumber-s-inbox-a-120-word-cold-email-9ab3e51c; SAMA dengan yang sudah dievaluasi jalan 14:17Z dan dikonfirmasi ulang dari requirements segar (GET /requirements HTTP 200, 138.533B): BUKAN TIE-BREAK (resolution.method \"judges\", juri AI z-ai/glm-5.3-flash dua-dua; Judge win rate Bradley-Terry kontinu; fee $0.50 USDC berbayar; buka 14:14:53Z, tutup 24 Nov 08:15Z, hadiah $15, 0 submission) — dibiarkan untuk tugas penemuan, tidak ditulis ke antrean-prioritas.md. Tidak ada bounty MENUNGGU di jalur prioritas; berhenti tanpa mengambil kunci."
+      "pesan": "2026-11-23T15:35:07Z pekerja-prioritas: jalan 2026-11-23T15:35:07Z — saklar JALUR_PRIORITAS aktif (pack v15.2.1). kunci-prioritas.md dan antrean-prioritas.md kosong (0 byte). Inbox kosong (hanya done/). temuan/ berisi 2 berkas JALUR: normal (u-brisk-kestrel-93, u-pangg7) — bukan urusan jalur prioritas, dibiarkan untuk pekerja normal. Daftar terbuka segar 29 bounty (fetch-open-v12.mjs, HTTP 200, 15:35:07Z) — 1 slug di luar antrean.md/antrean-prioritas.md/temuan/temuan/done/: u-ravendell-the-plumber-s-inbox-a-120-word-cold-email-9ab3e51c; dikonfirmasi ulang dari objek kompetisi segar (GET /competitions/SLUG HTTP 200, 64.814B, 15:35:07Z) + requirements segar (GET /requirements HTTP 200, 138.569B, 15:35:07Z): BUKAN TIE-BREAK — (a) GAGAL (resolution.method \"judges\"; \"An AI judge playing the plumber reads two emails at a time and picks the one it would answer\" — juri AI, house judge z-ai/glm-5.3-flash); (b) GAGAL (\"Ranking: Judge win rate..., the recorded point estimate of a Bradley-Terry fit over the verdicts\" — win rate kontinu, tanpa nilai terbaik yang bisa dicapai banyak peserta); (c) ada tie-break receipt (\"then to the smaller text (fewer bytes), then to the earlier receipt\") tapi tidak menolong. Juga fee $0.50 USDC (berbayar), kategori Growth, tutup 24 Nov 08:15Z, 8 submission. Dibiarkan untuk tugas penemuan; tidak ditulis ke antrean-prioritas.md. Tidak ada bounty MENUNGGU di jalur prioritas; berhenti tanpa mengambil kunci.",
+      "waktu_utc": "2026-11-23T15:35:07Z"
     },
     {
-      "waktu_utc": "2026-11-23T14:23:16Z",
-      "pesan": "2026-11-23T14:23:16Z pekerja-prioritas: jalan 2026-11-23T14:22:38Z — saklar JALUR_PRIORITAS aktif (pack v15.2.1). kunci-prioritas.md dan antrean-prioritas.md kosong (0 byte). Inbox kosong (hanya done/). temuan/ berisi 2 berkas JALUR: normal (u-brisk-kestrel-93, u-pangg7) — bukan urusan jalur prioritas, dibiarkan untuk pekerja normal. Daftar terbuka segar 30 bounty (fetch-open-v12.mjs, HTTP 200, 2026-11-23T14:22:38Z) — 1 slug baru di luar antrean.md/antrean-prioritas.md/temuan/temuan/done/: u-ravendell-the-plumber-s-inbox-a-120-word-cold-email-9ab3e51c; SAMA dengan yang sudah dievaluasi jalan 14:17Z/14:19Z dan dikonfirmasi ulang dari requirements segar jalan 14:21Z (GET /requirements HTTP 200, 138.533B): BUKAN TIE-BREAK (resolution.method \"judges\", juri AI z-ai/glm-5.3-flash dua-dua; Judge win rate Bradley-Terry kontinu; fee $0.50 USDC berbayar) — dibiarkan untuk tugas penemuan, tidak ditulis ke antrean-prioritas.md. Tidak ada bounty MENUNGGU di jalur prioritas; berhenti tanpa mengambil kunci."
+      "pesan": "2026-11-23T15:37:00Z pekerja-prioritas: jalan 2026-11-23T15:35:35Z — saklar JALUR_PRIORITAS aktif (pack v15.2.1). kunci-prioritas.md dan antrean-prioritas.md kosong (0 byte). Inbox kosong (hanya done/). temuan/ berisi 2 berkas JALUR: normal (u-brisk-kestrel-93, u-pangg7) — bukan urusan jalur prioritas, dibiarkan untuk pekerja normal. Daftar terbuka segar 29 bounty (fetch-open-v12.mjs, HTTP 200, 15:36Z) — 1 slug di luar antrean.md/antrean-prioritas.md/temuan/temuan/done/: u-ravendell-the-plumber-s-inbox-a-120-word-cold-email-9ab3e51c; dikonfirmasi ulang dari objek kompetisi segar (GET /competitions/SLUG HTTP 200, 64.812B, 15:36Z) + requirements segar (GET /requirements HTTP 200, 138.527B, 15:36Z): BUKAN TIE-BREAK — (a) GAGAL (resolution.method \"judges\"; \"Judge win rate over the house judge's verdicts on the text each entry writes... the highest Judge win rate wins\" — juri AI); (b) GAGAL (win rate kontinu, tanpa nilai terbaik yang bisa dicapai banyak peserta). Juga fee $0.50 USDC (berbayar), kategori Growth, tutup 24 Nov 08:15Z, 8 submission. Dibiarkan untuk tugas penemuan; tidak ditulis ke antrean-prioritas.md. Tidak ada bounty MENUNGGU di jalur prioritas; berhenti tanpa mengambil kunci.",
+      "waktu_utc": "2026-11-23T15:37:00Z"
     },
     {
-      "waktu_utc": "2026-11-23T14:26:08Z",
-      "pesan": "2026-11-23T14:26:08Z pekerja-prioritas: jalan 2026-11-23T14:23:44Z — saklar JALUR_PRIORITAS aktif (pack v15.2.1). kunci-prioritas.md dan antrean-prioritas.md kosong (0 byte). Inbox kosong (hanya done/). temuan/ berisi 2 berkas JALUR: normal (u-brisk-kestrel-93, u-pangg7) — bukan urusan jalur prioritas, dibiarkan untuk pekerja normal. Daftar terbuka segar 30 bounty (curl API status=open, HTTP 200, next_cursor null, 2026-11-23T14:24:01Z) — 1 slug baru di luar antrean.md/antrean-prioritas.md/temuan/temuan/done/: u-ravendell-the-plumber-s-inbox-a-120-word-cold-email-9ab3e51c; dinilai ulang dari resolution + requirements segar jalan ini (GET /requirements HTTP 200, 138.568B): BUKAN TIE-BREAK — (a) GAGAL (resolution.method \"judges\"; \"the house judge (every call dialled to z-ai/glm-5.3-flash on OpenRouter...) picks one of two texts per call\" — juri AI); (b) GAGAL (\"Ranking: Judge win rate..., the recorded point estimate of a Bradley-Terry fit over the verdicts\" — win rate kontinu, tanpa nilai terbaik yang bisa dicapai banyak peserta); (c) ada (\"an exact tie goes to ... then to the earlier receipt\") tapi tidak menolong karena (a) dan (b) gagal. Juga fee $0.50 USDC (berbayar) dan kategori Growth. Dibiarkan untuk tugas penemuan; tidak ditulis ke antrean-prioritas.md. Tidak ada bounty MENUNGGU di jalur prioritas; berhenti tanpa mengambil kunci."
+      "pesan": "2026-11-23T15:38:00Z pekerja: CROSSCHECK V1 GO 15:31Z (replikasi independen 100/100 skor 1000, 2 run identik; 17 probe SPEC lolos; repo/commit terverifikasi; tanpa blocker). RANTAI SUBMIT SELESAI: bundle-V1.tar.gz 434.068 byte sha 128b96a1… (builder 979865ad, 73 turns, 1 usage row; parent 4332c95b context; prompt scheduled; system prompt uploaded; instruction files collected 1 ~/AGENTS.md; MCP none; repo scratch git init lokal karena bundle menolak --repo tanpa .git); kit check 16 passed 0 failed (thinking_reproduces lokal 100% 478/478); kuota live TRUE day 5/5 hard 40 (15:37Z); repo mend-cli publik dibuat 14:39:29Z, main a2f975d1. V1 SUBMITTED 15:37:19Z — submission 01a2090d-f621-71d9-a0b8-5bb2d10aacd1, claim AF-7P628-VRHSH-RV3Y0-DVY1C; platform stage checked, SEMUA check server PASS (thinking_reproduces 100% 511/511, thinking_committed sha cocok, run record lolos); grading dev berjalan, skor belum terlihat. Status antrean → SELESAI (tunggu hasil V1); kunci dikosongkan 15:38Z.",
+      "waktu_utc": "2026-11-23T15:38:00Z"
     },
     {
-      "waktu_utc": "2026-11-23T14:27:00Z",
-      "pesan": "2026-11-23T14:27:00Z pekerja: CROSSCHECK ulang putaran 3 GO 14:25Z (sesi pemeriksa independen, konteks baru; rubrik 25 vs V1 23; B1+B2 terverifikasi ke sumber primer + gambar; replikasi sha 983818fb… cocok; kemiripan 0,414/0,393/0,404; kuota live YES 14:21Z, day 9, hard 39; fee $0; Duel A n=0 Gemini 403 — bukan penolakan). SUBMIT TIDAK JALAN: BLOKIR 14:27Z — exec sesi ini gagal pemeriksaan risiko eksekusi saat membaca repo V1 (git log); rantai submit (buat repo news-image-20261122-v2 + kit check terbaru + bundle transkrip + submit) tidak dijalankan di sesi terjadwal ini — butuh 1 tap Kavi di sesi live (pola sama seperti btc-race/feel-held/sokoban). Status ni22 MENUNGGU → MINTA APPROVAL; kunci dilepas. Tenggat 24 Nov 00:00Z, batas selesai 23:00Z — sisa ~8j33m, cukup untuk submit sesi live."
+      "pesan": "2026-11-23T15:38Z [pekerja-prioritas] JALUR_PRIORITAS aktif; kunci kosong; inbox kosong; temuan 2 berkas JALUR: normal (brisk-kestrel, pangg7) — dibiarkan untuk pekerja normal. Daftar terbuka segar 29 bounty (HTTP 200, 15:38Z); 1 slug BARU: u-ravendell-the-plumber-s-inbox-a-120-word-cold-email-9ab3e51c (buka 14:14:53Z, tutup 24 Nov 08:15Z, fee $0.50, 8 submission) — BUKAN TIE-BREAK (T1 gagal: method judges, AI judge; T2 gagal: Judge win rate kontinu) + berbayar; dibiarkan untuk tugas penemuan, tidak masuk antrean-prioritas.md. Antrean-prioritas.md tetap kosong — tidak ada bounty MENUNGGU untuk dikerjakan.",
+      "waktu_utc": null
     },
     {
-      "waktu_utc": "2026-11-23T14:28:27Z",
-      "pesan": "2026-11-23T14:28:27Z pekerja-prioritas: jalan 2026-11-23T14:26:27Z — saklar JALUR_PRIORITAS aktif (pack v15.2.1). kunci-prioritas.md dan antrean-prioritas.md kosong (0 byte). Inbox kosong (hanya done/). temuan/ berisi 2 berkas JALUR: normal (u-brisk-kestrel-93, u-pangg7) — bukan urusan jalur prioritas, dibiarkan untuk pekerja normal. Daftar terbuka segar 30 bounty (curl API status=open, HTTP 200, 2026-11-23T14:27:13Z) — 1 slug baru di luar antrean.md/antrean-prioritas.md/temuan/temuan/done/: u-ravendell-the-plumber-s-inbox-a-120-word-cold-email-9ab3e51c; SAMA dengan yang sudah dievaluasi jalan 14:17Z/14:19Z/14:21Z/14:23Z, dinilai ulang dari requirements segar jalan ini (GET /requirements HTTP 200): BUKAN TIE-BREAK — (a) GAGAL (resolution.method \"judges\"; juri AI \"the house judge (every call dialled to z-ai/glm-5.3-flash...)\" dua-dua); (b) GAGAL (\"Ranking: Judge win rate..., the recorded point estimate of a Bradley-Terry fit\" — win rate kontinu); (c) ada tie-break receipt tapi tidak menolong. Juga fee $0.50 USDC (berbayar). Dibiarkan untuk tugas penemuan; tidak ditulis ke antrean-prioritas.md. Tidak ada bounty MENUNGGU di jalur prioritas; berhenti tanpa mengambil kunci."
+      "pesan": "2026-11-23T15:40:48Z pekerja-prioritas: jalan 2026-11-23T15:39:35Z — saklar JALUR_PRIORITAS aktif (pack v15.2.1). kunci-prioritas.md dan antrean-prioritas.md kosong (0 byte). Inbox kosong (hanya done/); tidak ada file JEDA/BERHENTI. temuan/ berisi 2 berkas JALUR: normal (u-brisk-kestrel-93, u-pangg7) — bukan urusan jalur prioritas, dibiarkan untuk pekerja normal. Daftar terbuka segar 29 bounty (fetch-open-v12.mjs, HTTP 200, 15:39Z) — 1 slug di luar antrean.md/antrean-prioritas.md/temuan/temuan/done/: u-ravendell-the-plumber-s-inbox-a-120-word-cold-email-9ab3e51c; dikonfirmasi ulang dari objek kompetisi segar (GET /competitions/SLUG HTTP 200, 64.812B, 15:40Z) + requirements segar (GET /requirements HTTP 200, 138.527B, 15:40Z): BUKAN TIE-BREAK — (a) GAGAL (resolution.method \"judges\"; \"Judge: the house judge (every call dialled to z-ai/glm-5.3-flash on OpenRouter...) picks one of two texts per call\" — juri AI); (b) GAGAL (\"Ranking: Judge win rate..., the recorded point estimate of a Bradley-Terry fit over the verdicts\" — win rate kontinu, tanpa nilai terbaik yang bisa dicapai banyak peserta). Juga fee $0.50 USDC (berbayar), tutup 24 Nov 08:15Z, 8 submission. Dibiarkan untuk tugas penemuan; tidak ditulis ke antrean-prioritas.md. Tidak ada bounty MENUNGGU di jalur prioritas; berhenti tanpa mengambil kunci.",
+      "waktu_utc": "2026-11-23T15:40:48Z"
     },
     {
-      "waktu_utc": "2026-11-23T14:30:45Z",
-      "pesan": "2026-11-23T14:30:45Z pekerja-prioritas: jalan 2026-11-23T14:29:02Z — saklar JALUR_PRIORITAS aktif (pack v15.2.1). kunci-prioritas.md dan antrean-prioritas.md kosong (0 byte). Inbox kosong (hanya done/). temuan/ berisi 2 berkas JALUR: normal (u-brisk-kestrel-93, u-pangg7) — bukan urusan jalur prioritas, dibiarkan untuk pekerja normal. Daftar terbuka segar 30 bounty (fetch-open-v12.mjs, HTTP 200, 2026-11-23T14:29:16Z) — 1 slug di luar antrean.md/antrean-prioritas.md/temuan/temuan/done/: u-ravendell-the-plumber-s-inbox-a-120-word-cold-email-9ab3e51c; dikonfirmasi ulang dari objek kompetisi segar + requirements segar (GET /requirements HTTP 200, 138.525B, 14:30Z): BUKAN TIE-BREAK — (a) GAGAL (resolution.method \"judges\"; deskripsi \"An AI judge playing the plumber reads two emails at a time\"; kriteria \"the house judge (every call dialled to z-ai/glm-5.3-flash on OpenRouter...) picks one of two texts per call\"); (b) GAGAL (\"Judge win rate over the house judge's verdicts... the highest Judge win rate wins\" — win rate kontinu). Juga fee $0.50 USDC (berbayar), kategori Growth, tutup 24 Nov 08:15Z, 1 submission. Dibiarkan untuk tugas penemuan; tidak ditulis ke antrean-prioritas.md. Tidak ada bounty MENUNGGU di jalur prioritas; berhenti tanpa mengambil kunci. Konteks: ni22 V2 crosscheck GO 14:25Z tapi submit BLOKIR pemeriksaan risiko eksekusi 14:27Z — status MINTA APPROVAL, butuh tap Kavi di sesi live (bukan jalur prioritas)."
+      "pesan": "2026-11-23T15:43:00Z pekerja: jalan 15:41:20 WIB — TIDAK ADA KANDIDAT. Kunci.md kosong (dilepas 15:38Z setelah hidden-spec V1 SUBMITTED 15:37:19Z, 01a2090d); inbox kosong (hanya done/); kunci-prioritas/antrean-prioritas kosong. Antrean 39 bounty: MENUNGGU 4, SELESAI 33, MINTA APPROVAL 2. Keempat MENUNGGU jadwal mulainya belum lewat: tiny-stack-vm-01-run-20261122 16:00Z, tiny-chess-01 (PRIORITAS) 17:00Z, site-generator-speed-01-run-20261122 20:00Z, news-image-20261123 24 Nov 00:00Z. status.md diperbarui (entri 2t + ringkasan 15:43Z); antrean.md tidak berubah; kunci tetap kosong.",
+      "waktu_utc": "2026-11-23T15:43:00Z"
     },
     {
-      "waktu_utc": "2026-11-23T14:34:01Z",
-      "pesan": "2026-11-23T14:34:01Z pekerja-prioritas: jalan 2026-11-23T14:32:42Z — saklar JALUR_PRIORITAS aktif (pack v15.2.1). kunci-prioritas.md dan antrean-prioritas.md kosong (0 byte). Inbox kosong (hanya done/). temuan/ berisi 2 berkas JALUR: normal (u-brisk-kestrel-93, u-pangg7) — bukan urusan jalur prioritas, dibiarkan untuk pekerja normal. Daftar terbuka segar 30 bounty (fetch-open-v12.mjs, HTTP 200, 14:33Z) — 1 slug di luar antrean.md/antrean-prioritas.md/temuan/temuan/done/: u-ravendell-the-plumber-s-inbox-a-120-word-cold-email-9ab3e51c; SAMA seperti jalan-jalan sebelumnya, dikonfirmasi ulang dari requirements segar jalan ini (GET /requirements HTTP 200, 138.525B, 14:33Z): BUKAN TIE-BREAK — (a) GAGAL (resolution.method \"judges\"; \"An AI judge playing the plumber reads two emails at a time\"; \"the house judge (every call dialled to z-ai/glm-5.3-flash on OpenRouter...) picks one of two texts per call\"); (b) GAGAL (\"Judge win rate over the house judge's verdicts... the highest Judge win rate wins\" — win rate kontinu, Bradley-Terry). Juga fee $0.50 USDC (berbayar), kategori Growth, buka 14:14:53Z, tutup 24 Nov 08:15Z, 1 submission. Dibiarkan untuk tugas penemuan; tidak ditulis ke antrean-prioritas.md. Tidak ada bounty MENUNGGU di jalur prioritas; berhenti tanpa mengambil kunci."
+      "pesan": "2026-11-23T15:44:33Z pekerja-prioritas: jalan 2026-11-23T15:43:00Z — saklar JALUR_PRIORITAS aktif (pack v15.2.1). kunci-prioritas.md dan antrean-prioritas.md kosong (0 byte). Inbox kosong (hanya done/); tidak ada file JEDA/BERHENTI. temuan/ berisi 2 berkas JALUR: normal (u-brisk-kestrel-93, u-pangg7) — bukan urusan jalur prioritas, dibiarkan untuk pekerja normal. Daftar terbuka segar 29 bounty (fetch-open-v12.mjs, HTTP 200, 15:43:00Z) — 1 slug di luar antrean.md/antrean-prioritas.md/temuan/temuan/done/: u-ravendell-the-plumber-s-inbox-a-120-word-cold-email-9ab3e51c; dikonfirmasi ulang dari objek kompetisi segar (GET /competitions/SLUG HTTP 200, 64.812B, 15:43:29Z) + requirements segar (GET /requirements HTTP 200, 138.527B, 15:43:29Z): BUKAN TIE-BREAK — (a) GAGAL (resolution.method \"judges\"; \"Judge win rate over the house judge's verdicts on the text each entry writes\" — juri AI z-ai/glm-5.3-flash); (b) GAGAL (\"Ranking: Judge win rate, higher is better, the recorded point estimate of a Bradley-Terry fit over the verdicts\" — win rate kontinu, tanpa nilai terbaik yang bisa dicapai banyak peserta). Juga fee $0.50 USDC (berbayar), kategori Growth, tutup 24 Nov 08:15Z, 8 submission. Dibiarkan untuk tugas penemuan; tidak ditulis ke antrean-prioritas.md. Tidak ada bounty MENUNGGU di jalur prioritas; berhenti tanpa mengambil kunci.",
+      "waktu_utc": "2026-11-23T15:44:33Z"
     },
     {
-      "waktu_utc": "2026-11-23T14:36:10Z",
-      "pesan": "2026-11-23T14:36:10Z pekerja-prioritas: jalan 2026-11-23T14:34:26Z — saklar JALUR_PRIORITAS aktif (pack v15.2.1). kunci-prioritas.md dan antrean-prioritas.md kosong (0 byte). Inbox kosong (hanya done/). temuan/ berisi 2 berkas JALUR: normal (u-brisk-kestrel-93, u-pangg7) — bukan urusan jalur prioritas, dibiarkan untuk pekerja normal. Daftar terbuka segar 30 bounty (fetch-open-v12.mjs, HTTP 200, next_cursor null, 2026-11-23T14:34:49Z) — 1 slug di luar antrean.md/antrean-prioritas.md/temuan/temuan/done/: u-ravendell-the-plumber-s-inbox-a-120-word-cold-email-9ab3e51c; SAMA seperti jalan-jalan sebelumnya, dikonfirmasi ulang dari objek kompetisi segar (GET /competitions/SLUG HTTP 200, 63.317B, 14:35Z) + requirements segar (GET /requirements HTTP 200, 138.525B, 14:35Z): BUKAN TIE-BREAK — (a) GAGAL (resolution.method \"judges\"; \"the house judge (every call dialled to z-ai/glm-5.3-flash on OpenRouter...) picks one of two texts per call\" — juri AI); (b) GAGAL (\"Ranking: Judge win rate..., the recorded point estimate of a Bradley-Terry fit over the verdicts\" — win rate kontinu, tanpa nilai terbaik yang bisa dicapai banyak peserta); (c) ada tie-break receipt (\"then to the earlier receipt\") tapi tidak menolong. Juga fee $0.50 USDC (berbayar). Dibiarkan untuk tugas penemuan; tidak ditulis ke antrean-prioritas.md. Tidak ada bounty MENUNGGU di jalur prioritas; berhenti tanpa mengambil kunci."
+      "pesan": "2026-11-23T15:47:00Z pekerja-prioritas: jalan 2026-11-23T15:45:09Z — saklar JALUR_PRIORITAS aktif (pack v15.2.1). kunci-prioritas.md dan antrean-prioritas.md kosong (0 byte). Inbox kosong (hanya done/); tidak ada file JEDA/BERHENTI. temuan/ berisi 2 berkas JALUR: normal (u-brisk-kestrel-93, u-pangg7) — bukan urusan jalur prioritas, dibiarkan untuk pekerja normal. Daftar terbuka segar 30 bounty (fetch-open-v12.mjs, HTTP 200, 15:45:37Z) — 2 slug di luar antrean.md/antrean-prioritas.md/temuan/temuan/done/: (1) u-ravendell-the-plumber-s-inbox-a-120-word-cold-email-9ab3e51c — BUKAN TIE-BREAK, dikonfirmasi ulang dari objek kompetisi segar + requirements segar (GET /requirements, 870 baris, 15:47Z): (a) GAGAL (resolution.method \"judges\"; \"An AI judge playing the plumber reads two emails at a time and picks the one it would answer\" — juri AI, house judge z-ai/glm-5.3-flash); (b) GAGAL (\"Ranking: Judge win rate..., the recorded point estimate of a Bradley-Terry fit over the verdicts\" — win rate kontinu, tanpa nilai terbaik yang bisa dicapai banyak peserta). Juga fee $0.50 USDC (berbayar), tutup 24 Nov 08:15Z, 9 submission. (2) u-neon-autonomous-funniest-one-line-ai-excuse-cd1cea24 (BARU, buka 15:43:16Z, 0 submission) — BUKAN TIE-BREAK, dari objek kompetisi segar + requirements segar (GET /requirements, 868 baris, 15:47Z; harness program/v1): (a) GAGAL (resolution.method \"judges\"; \"Judge win rate over the house judge's verdicts on the text each entry writes... the highest Judge win rate wins\" — juri AI z-ai/glm-5.3-flash); (b) GAGAL (\"Ranking: Judge win rate, higher is better, the recorded point estimate of a Bradley-Terry fit\" — win rate kontinu). Juga fee $0.50 USDC (berbayar), hadiah $5, tutup 24 Nov 09:45Z. Keduanya dibiarkan untuk tugas penemuan; tidak ditulis ke antrean-prioritas.md. Tidak ada bounty MENUNGGU di jalur prioritas; berhenti tanpa mengambil kunci.",
+      "waktu_utc": "2026-11-23T15:47:00Z"
     }
   ],
   "versi_kontrak": 3
