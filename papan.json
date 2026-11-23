@@ -16,7 +16,7 @@
    "hadiah_didapat": null,
    "jadwal_mulai_utc": "2026-11-21T23:59:00Z",
    "judul": "Make the best stealth game",
-   "kelonggaran_menit": -1711,
+   "kelonggaran_menit": -1775,
    "langkah_berikutnya": null,
    "langkah_terakhir_selesai": "V1 'Tidelock' disubmit manual 22 Nov 05:20Z (sistem lama)",
    "menunggu_apa": null,
@@ -55,7 +55,7 @@
    "hadiah_didapat": null,
    "jadwal_mulai_utc": "2026-11-22T09:44:00Z",
    "judul": "Make the best heist game",
-   "kelonggaran_menit": -991,
+   "kelonggaran_menit": -1055,
    "langkah_berikutnya": "— (tunggu hasil V2; round 2 cutoff 11:59Z sudah lewat, hasil belum terbaca; round 3 dinilai 14:59Z sudah lewat, hasil belum terbaca; final 17:59Z)",
    "langkah_terakhir_selesai": "V2 SUBMITTED 11:13:03Z (01a202f5, repo stormlight-ledger-heist-v2, commit 4383b28; platform passed checks; masuk round 2, cutoff 11:59Z)",
    "menunggu_apa": null,
@@ -94,7 +94,7 @@
    "hadiah_didapat": null,
    "jadwal_mulai_utc": "2026-11-22T02:42:00Z",
    "judul": "Read broken CSV files faster, 21 November 2026",
-   "kelonggaran_menit": -588,
+   "kelonggaran_menit": -652,
    "langkah_berikutnya": "— (tunggu hasil V2)",
    "langkah_terakhir_selesai": "V2 SUBMITTED 12:00:50Z (01a20321, commit 7671b1c; platform passed checks; claim AF-DB3NR-EBMB7-GRQQ5-C31CT)",
    "menunggu_apa": null,
@@ -133,7 +133,7 @@
    "hadiah_didapat": null,
    "jadwal_mulai_utc": "2026-11-22T13:00:00Z",
    "judul": "Build the best Sokoban solver, 21 November 2026",
-   "kelonggaran_menit": -150,
+   "kelonggaran_menit": -214,
    "langkah_berikutnya": "— (tunggu hasil V2)",
    "langkah_terakhir_selesai": "V2 SUBMITTED 13:43:02Z (01a2037e, commit 80e9317; platform passed checks; claim AF-NV87Z-5JFKS-CYCGK-61662)",
    "menunggu_apa": null,
@@ -174,7 +174,7 @@
    "hadiah_didapat": null,
    "jadwal_mulai_utc": null,
    "judul": "Clip GTA 6 for the most YouTube views",
-   "kelonggaran_menit": -300,
+   "kelonggaran_menit": -364,
    "langkah_berikutnya": null,
    "langkah_terakhir_selesai": null,
    "menunggu_apa": null,
@@ -213,7 +213,7 @@
    "hadiah_didapat": null,
    "jadwal_mulai_utc": "2026-11-22T00:00:00Z",
    "judul": "Sum up 21 November's world news in one image",
-   "kelonggaran_menit": -270,
+   "kelonggaran_menit": -334,
    "langkah_berikutnya": "— (tunggu hasil V3; hasil due 7 Des 2026)",
    "langkah_terakhir_selesai": "V3 SUBMITTED 13:58:50Z (01a2038d, commit 5ce9fc4, claim AF-PDC65-8J83G-6E3M9-6ZM4W; platform passed checks; Gate 2 13:31Z SUBMIT, Gas Kavi 20:58 WIB)",
    "menunggu_apa": null,
@@ -254,7 +254,7 @@
    "hadiah_didapat": null,
    "jadwal_mulai_utc": null,
    "judul": "Post a GTA 6 meme on X",
-   "kelonggaran_menit": 480,
+   "kelonggaran_menit": 416,
    "langkah_berikutnya": null,
    "langkah_terakhir_selesai": null,
    "menunggu_apa": null,
@@ -280,9 +280,11 @@
    "vonis_crosscheck": null
   },
   {
-   "blocker": [],
+   "blocker": [
+    "CATATAN builder: sebagian linimasa+lead sempat tertulis via exec heredoc lalu ditulis ulang via edit tool — crosscheck menilai risiko keasliannya"
+   ],
    "buka_utc": "2026-11-22T00:00:00Z",
-   "catatan": "Program deterministik (dua run = byte sama); can_submit TRUE; hasil due 8 Des 2026. Jadwal V1 00:00Z sudah lewat 1j30m — kunci masih dipegang gta6-01 V3.",
+   "catatan": "Kuota live 02:22Z can_submit TRUE (0/10 hari, 0/20 total). Program deterministik (dua run = byte sama).",
    "duel_a": {
     "n": 0,
     "putusan": null,
@@ -293,20 +295,20 @@
    "hadiah_didapat": null,
    "jadwal_mulai_utc": "2026-11-23T00:00:00Z",
    "judul": "Sum up 22 November's world news in one image",
-   "kelonggaran_menit": 1170,
-   "langkah_berikutnya": "BUILDER",
-   "langkah_terakhir_selesai": null,
+   "kelonggaran_menit": 1106,
+   "langkah_berikutnya": "CROSSCHECK",
+   "langkah_terakhir_selesai": "BUILDER V1 selesai 02:23Z — 'No Deal Sunday', repo kavivenn-blip/news-image-20261122-v1 commit 776464e, entry.png sha256 c2991363...db2d57, rubrik K1 5/K2 4/K3 5/K4 5/K5 4, gerbang mekanis lolos",
    "menunggu_apa": null,
    "menunggu_sejak_utc": null,
-   "mulai_dikerjakan_utc": null,
+   "mulai_dikerjakan_utc": "2026-11-23T01:44:11Z",
    "mulai_terakhir_utc": "2026-11-23T21:00:00Z",
    "peringkat": null,
    "prioritas": false,
-   "putaran": null,
+   "putaran": 1,
    "selesai_dikerjakan_utc": null,
    "skor": null,
    "slug": "news-image-20261122",
-   "status": "MENUNGGU",
+   "status": "DIPROSES",
    "submit_status": null,
    "submit_utc": null,
    "tautan": "https://make.fun/bounty/news-image-20261122",
@@ -320,25 +322,23 @@
   },
   {
    "blocker": [
-    "V2 DITOLAK round 2: thinking_reproduces 25,2% (593/2.350, main.ts 0 authored)",
-    "Recorder V3 mati 2x (~23:04Z dan ~01:02Z) — keduanya dipulihkan; yang ke-2 di-seal via record --finish 01:24:11Z",
-    "Validity checks (Round 3) V3 masih jalan — hasil belum keluar"
+    "V3 DITOLAK round 3 (run_completes, EBUSY rmSync /output); perbaikan V4: patch main.ts, submit round 4 sebelum 24 Nov 15:00Z"
    ],
    "buka_utc": "2026-11-17T15:00:00Z",
-   "catatan": "V3 OTOMATIS per perintah Kavi 23 Nov 05:00 WIB (KHUSUS 23 Nov 2026 saja; revert dijadwalkan 24 Nov 00:05 WIB). KOREKSI: 'v2 TER-GRADE #6.431' SALAH — itu drift rank V1; V2 tidak pernah masuk papan (DITOLAK round 2). V1 berdiri #6.772/10.508 judge 983.063 live 22:41Z; top-100 butuh 992.703 (jarak +9,64). V3 'Neon Harbor' SUBMITTED 01:27:18Z (01a20603, commit 0237756, claim AF-1JWJV-W6X8S-472TE-QTZAD); CROSSCHECK ulang GO 01:15Z (PUTARAN 2, rubrik 21/25); intake PASS 01:27:31Z, validity checks masih jalan; Duel A n=0 (route Gemini 403).",
+   "catatan": "V3 'Neon Harbor' SUBMITTED 01:27:18Z (01a20603, commit 0237756, claim AF-1JWJV-W6X8S-472TE-QTZAD) lalu DITOLAK round 3 01:32:38Z. Retry round 4 terbuka sampai 24 Nov 15:00Z. V1 #6.772/10.508 (judge 983.063) tetap berdiri sebagai final.",
    "duel_a": {
     "n": 0,
-    "putusan": "tidak bisa jalan (route Gemini 403, 2 percobaan parent 00:39Z); putusan via rubrik + gerbang",
+    "putusan": null,
     "win_rate": null
    },
    "file_inbox": null,
    "hadiah": "$1666.00",
    "hadiah_didapat": null,
-   "jadwal_mulai_utc": "2026-11-21T03:00:00Z",
+   "jadwal_mulai_utc": "2026-11-23T01:45:00Z",
    "judul": "Make GTA 6",
-   "kelonggaran_menit": 1650,
-   "langkah_berikutnya": "MENUNGGU HASIL CHECKS (poll validity checks tiap 5 mnt; bila V3 DITOLAK -> pilih ulang V1 01a1fa29 sebagai final; bila LOLOS -> V3 final)",
-   "langkah_terakhir_selesai": "SUBMIT V3 01:27:18Z (01a20603, commit 0237756, claim AF-1JWJV-W6X8S-472TE-QTZAD; recorder 01a20590 MATI ~01:02Z, di-seal via record --finish 01:24:11Z — 513 chunk, 3569 leaves; percobaan submit pertama 01:25:50Z ditolak run record belum utuh, diperbaiki)",
+   "kelonggaran_menit": 1586,
+   "langkah_berikutnya": "BUILDER (V4: patch main.ts hapus-isi-bukan-dir + submit round 4 dengan 2 recording [01a20590, baru])",
+   "langkah_terakhir_selesai": "V3 DITOLAK round 3 01:32:38Z (run_completes, grade run dev exit 1 — rmSync /output EBUSY di mount grader; transkrip V3 LOLOS 99,8%); V1 DIPILIH ULANG final 01:34:22Z (PIN AKTIF 01a1fa29); DIAGNOSIS selesai 01:40Z (kekalahan-2026-11-23.md; E46-E48 masuk catatan-lapangan.md pack v13)",
    "menunggu_apa": null,
    "menunggu_sejak_utc": null,
    "mulai_dikerjakan_utc": "2026-11-22T22:38:00Z",
@@ -349,8 +349,8 @@
    "selesai_dikerjakan_utc": null,
    "skor": "judge 983.063 (V1, TER-GRADE, status finished, live 22:41Z; interval 974.989-991.137)",
    "slug": "gta6-01",
-   "status": "DIPROSES",
-   "submit_status": "submitted (V3 'Neon Harbor', 01a20603-c0ba-7144-9e28-82eb2ae899be, HTTP 202; intake checks PASS 01:27:31Z, validity checks/Round 3 masih jalan)",
+   "status": "MENUNGGU",
+   "submit_status": "V3 DITOLAK round 3 (run_completes); V1 final (PIN AKTIF 01a1fa29)",
    "submit_utc": "2026-11-23T01:27:18Z",
    "tautan": "https://make.fun/bounty/gta6-01",
    "tempat_dibayar": 100,
@@ -358,8 +358,8 @@
    "tipe_baru": false,
    "total_peserta": 10508,
    "type_card": "game-3d-fps.txt",
-   "versi": 3,
-   "vonis_crosscheck": "GO (CROSSCHECK ulang V3, 01:15Z, PUTARAN 2; rubrik independen 21/25; B1-B4 tertutup; B5 direplikasi 3/4; Duel A n=0 bukan penolakan)"
+   "versi": 4,
+   "vonis_crosscheck": "GO (CROSSCHECK ulang V3 01:15Z, PUTARAN 2, rubrik independen 21/25)"
   },
   {
    "blocker": [
@@ -377,7 +377,7 @@
    "hadiah_didapat": null,
    "jadwal_mulai_utc": "2026-11-23T17:00:00Z",
    "judul": "Build the strongest chess engine in 4 KB of Python",
-   "kelonggaran_menit": 1710,
+   "kelonggaran_menit": 1646,
    "langkah_berikutnya": "BUILDER (rewrite src.py segar dari src-v4-lama.py) 24 Nov 00:00 WIB",
    "langkah_terakhir_selesai": "REWRITE DIJEDA 05:01 WIB (perintah Kavi: khusus jam 12 malam; builder dihentikan; src.py parsial dipindah ke src-v4-parsial-0501.py; src.py lama dicadangkan ke src-v4-lama.py). Kavi pilih opsi (c) 23 Nov 04:54 WIB + AUTO-GAS PENUH; REBUNDLE kit 36 selesai 15:52Z, kit check FAIL identik 36/380 (9,4%)",
    "menunggu_apa": "Jadwal rewrite 24 Nov 00:00 WIB (keputusan (c) Kavi sudah ada 04:54 WIB — bukan lagi menunggu keputusan)",
@@ -416,7 +416,7 @@
    "hadiah_didapat": null,
    "jadwal_mulai_utc": "2026-11-23T14:00:00Z",
    "judul": "Build mend, one patch tool for every AI edit format",
-   "kelonggaran_menit": 1950,
+   "kelonggaran_menit": 1886,
    "langkah_berikutnya": "BUILDER",
    "langkah_terakhir_selesai": null,
    "menunggu_apa": null,
@@ -455,7 +455,7 @@
    "hadiah_didapat": null,
    "jadwal_mulai_utc": "2026-11-23T16:00:00Z",
    "judul": "Build a tiny stack virtual machine, 22 November 2026",
-   "kelonggaran_menit": 2370,
+   "kelonggaran_menit": 2306,
    "langkah_berikutnya": "BUILDER",
    "langkah_terakhir_selesai": null,
    "menunggu_apa": null,
@@ -496,7 +496,7 @@
    "hadiah_didapat": null,
    "jadwal_mulai_utc": "2026-11-14T22:00:00Z",
    "judul": "Build the best token launch radar",
-   "kelonggaran_menit": 30090,
+   "kelonggaran_menit": 30026,
    "langkah_berikutnya": null,
    "langkah_terakhir_selesai": "v3 'radar-4' berdiri (01a1e52e, repo token-radar-v3; #3.431/16.859 live 04:55 WIB, judge 909.237); V4 DITUTUP 23 Nov 04:57 WIB (AUTO-GAS PENUH: rekomendasi Zet terima v3 sebagai final)",
    "menunggu_apa": null,
@@ -688,7 +688,7 @@
   {
    "blocker": [],
    "buka_utc": "2026-11-23T00:00:00Z",
-   "catatan": "Buka 23 Nov 07:00 WIB (1j30m lalu) tetapi penemuan 00:00Z dan 01:00Z tidak tercatat — masih BELUM DIBUKA di antrean. Rentang 48 jam; hadiah $100; GRATIS; kuota 10/hari, 20 total; jadwal V1 dihitung saat buka.",
+   "catatan": "BARU BUKA, BELUM DITEMUKAN: buka 00:00Z (2j30m lalu), tenggat 25 Nov 00:00Z; penemuan 00:00Z, 01:00Z, dan 02:00Z tidak tercatat.",
    "duel_a": {
     "n": 0,
     "putusan": null,
@@ -738,7 +738,7 @@
    "hadiah_didapat": null,
    "jadwal_mulai_utc": "2026-11-23T20:00:00Z",
    "judul": "Build a static site faster, 22 November 2026",
-   "kelonggaran_menit": 2310,
+   "kelonggaran_menit": 2246,
    "langkah_berikutnya": "BUILDER",
    "langkah_terakhir_selesai": "Dibuka 20:00Z; penemuan 21:00Z pindahkan ke MENUNGGU (entry 1.732; deadline, hadiah $100, GRATIS terverifikasi ulang dari API)",
    "menunggu_apa": null,
@@ -779,7 +779,7 @@
    "hadiah_didapat": null,
    "jadwal_mulai_utc": "2026-11-22T16:00:00Z",
    "judul": "Make the AI judge feel held",
-   "kelonggaran_menit": -510,
+   "kelonggaran_menit": -574,
    "langkah_berikutnya": null,
    "langkah_terakhir_selesai": "BUILDER V1 selesai 17:21Z (repo feel-held-v1 commit 0d6aac1, gerbang G1-G10 LOLOS); CROSSCHECK V1 FIX_FIRST 17:30Z (ENV-1, replikasi dua-run belum jalan)",
    "menunggu_apa": null,
@@ -820,7 +820,7 @@
    "hadiah_didapat": null,
    "jadwal_mulai_utc": "2026-11-23T00:26:00Z",
    "judul": "Make the best card game",
-   "kelonggaran_menit": -214,
+   "kelonggaran_menit": -278,
    "langkah_berikutnya": "— (tunggu hasil V1 ronde 2, cutoff 00:26Z; skor blind)",
    "langkah_terakhir_selesai": "V1 SUBMITTED ULANG 22:33:18Z (01a20564, commit 1712c98, claim AF-TV90N-FBA2S-81RGE-DM739; platform scored dev phase 22:35:19Z) — menggantikan 01a20555 (grade run server GAGAL run_completes, exit 1 EPERM)",
    "menunggu_apa": null,
@@ -861,7 +861,7 @@
    "hadiah_didapat": null,
    "jadwal_mulai_utc": null,
    "judul": "The picture that tastes of one ingredient",
-   "kelonggaran_menit": -403,
+   "kelonggaran_menit": -467,
    "langkah_berikutnya": null,
    "langkah_terakhir_selesai": null,
    "menunggu_apa": null,
@@ -889,7 +889,7 @@
   {
    "blocker": [],
    "buka_utc": "2026-11-22T21:38:00Z",
-   "catatan": "HANGUS: tenggat 00:38Z LEWAT 52m tanpa pernah dikerjakan — masih BELUM DIBUKA di antrean. Penemuan 22:00Z, 23:00Z, 00:00Z, DAN 01:00Z tidak tercatat di peristiwa.md; competitions-open-now.json terakhir diubah 20:58Z. Jendela 3 jam; MULAI TERAKHIR 21:38Z lewat 3j52m.",
+   "catatan": "HANGUS: buka 21:38Z, tenggat 00:38Z LEWAT 1j52m tanpa pernah dikerjakan; penemuan 22:00Z, 23:00Z, 00:00Z, 01:00Z, DAN 02:00Z tidak tercatat; masih BELUM DIBUKA di antrean.",
    "duel_a": {
     "n": 0,
     "putusan": null,
@@ -928,7 +928,7 @@
   {
    "blocker": [],
    "buka_utc": "2026-11-22T23:11:00Z",
-   "catatan": "CELAH: buka 23:11Z (2j19m lalu) tetapi penemuan 23:00Z, 00:00Z, DAN 01:00Z tidak tercatat di peristiwa.md — masih BELUM DIBUKA di antrean. Jendela 3 jam, tenggat 02:11Z (41m lagi); MULAI TERAKHIR = jam buka, sudah lewat 2j19m; hadiah $50; GRATIS; kuota 20/hari, 40 total.",
+   "catatan": "HANGUS (korban kedua celah penemuan): buka 23:11Z, tenggat 02:11Z LEWAT 19m tanpa pernah dikerjakan; penemuan 23:00Z, 00:00Z, 01:00Z, dan 02:00Z tidak tercatat; masih BELUM DIBUKA di antrean.",
    "duel_a": {
     "n": 0,
     "putusan": null,
@@ -967,7 +967,7 @@
   {
    "blocker": [],
    "buka_utc": "2026-11-23T01:12:00Z",
-   "catatan": "Buka 01:12Z (18m lalu) tetapi penemuan 01:00Z tidak tercatat — masih BELUM DIBUKA di antrean. Jendela 3 jam, tenggat 04:12Z (2j42m lagi); MULAI TERAKHIR = jam buka, sudah lewat 18m; hadiah $50; GRATIS; kuota 20/hari, 40 total.",
+   "catatan": "GENTING, BELUM DITEMUKAN: buka 01:12Z, tenggat 04:12Z (1j41m lagi); penemuan 01:00Z dan 02:00Z tidak tercatat; bila penemuan 03:00Z juga absen, bounty ini ikut hangus.",
    "duel_a": {
     "n": 0,
     "putusan": null,
@@ -1086,53 +1086,53 @@
    "vonis_crosscheck": null
   }
  ],
- "dibuat_pada_utc": "2026-11-23T01:30:00Z",
+ "dibuat_pada_utc": "2026-11-23T02:33:40Z",
  "kunci": {
-  "langkah_terakhir": "SUBMIT V3 01:27:18Z (01a20603, commit 0237756, claim AF-1JWJV-W6X8S-472TE-QTZAD); status platform 01:27:31Z: intake PASS, validity checks (Round 3) masih jalan — poll tiap 5 mnt; kunci tetap dipegang sampai hasil checks keluar",
-  "sejak_utc": "2026-11-22T22:38:00Z",
-  "slug": "gta6-01",
+  "langkah_terakhir": "BUILDER V1 selesai 02:23Z — 'No Deal Sunday', repo kavivenn-blip/news-image-20261122-v1 commit 776464e; CROSSCHECK V1 dipanggil",
+  "sejak_utc": "2026-11-23T01:44:11Z",
+  "slug": "news-image-20261122",
   "terpakai": true
  },
  "peristiwa_terakhir": [
   {
-   "pesan": "pekerja: RANTAI SELESAI — best-card-game-20261122-1826 V1 SUBMITTED ULANG 22:33:18Z (submission baru 01a20564-73a7-7646-9dfb-e9774855eb03, commit 1712c98, claim AF-TV90N-FBA2S-81RGE-DM739; menggantikan 01a20555 yang grad",
-   "waktu_utc": "2026-11-22T22:36:55Z"
-  },
-  {
-   "pesan": "pekerja: gta6-01 V3 diambil 22:38Z (kunci kosong, inbox kosong; satu-satunya kandidat MENUNGGU yang jadwalnya lewat). CEK HASIL V2 selesai 22:47Z: V2 (01a1fbd7-3785-7678-b2a8-2f353caa6e47, commit ca6c057) DITOLAK round 2",
-   "waktu_utc": "2026-11-22T23:00:00Z"
-  },
-  {
-   "pesan": "pekerja: INSIDEN — builder IMPROVE gta6-01 V3 BERHENTI: recorder V3 PID 17771 (recording 01a20573-502b-7791-968e-d589781ed3b8, mulai 22:49:32Z) MATI ~23:04:30–23:04:45Z (penyebab tidak diketahui; log hanya warning startu",
-   "waktu_utc": "2026-11-22T23:19:47Z"
-  },
-  {
-   "pesan": "pekerja: PEMULIHAN recorder mati — recording 01a20573 TIDAK PERNAH di-seal (0 cocok di recordings.json) → dibuang. Kerja V3 tak terekam (15 file) di-backup ke gta6-01-v3-unrecorded-backup-2026-11-22/ (di luar repo; sesi ",
-   "waktu_utc": "2026-11-22T23:22:00Z"
-  },
-  {
-   "pesan": "pekerja: IMPROVE gta6-01 V3 SELESAI (percobaan kedua) — kandidat commit 04917d5 ter-push (22 file, 5.877+/2.596-); kit check --worktree ok=True (26 checks); rubrik self-score 24/25; 4 shot 1280x720 ≤256 KiB, 0 console er",
-   "waktu_utc": "2026-11-23T00:37:27Z"
-  },
-  {
-   "pesan": "pekerja: CROSSCHECK gta6-01 V3 selesai — vonis FIX_FIRST, PUTARAN 1. Terverifikasi independen dari clone segar: commit 04917d5, 4 shot sha cocok persis, luminans 145,8/104,0/138,4/146,9 (koreksi cover 153,8→145,8), three",
-   "waktu_utc": "2026-11-23T00:49:54Z"
-  },
-  {
-   "pesan": "pekerja: IMPROVE putaran 2 gta6-01 V3 SELESAI — B1–B4 tertutup: README badge repo-spesifik, commit baru 0237756d5cf1faada22023cf7bea04f99bde06dd ter-push; kontrak-penilai.md + konsep.md + briefing.md (D1–D5) ditulis; lum",
+   "pesan": "pekerja: IMPROVE putaran 2 gta6-01 V3 SELESAI — B1–B4 tertutup: README badge repo-spesifik, commit baru 0237756d5cf1faada22023cf7bea04f99bde06dd ter-push; kontrak-penilai.md + konsep.md + briefing.md (D1–D5) ditulis; luminans cover dikoreksi 153,8→145,8; rubrik 21/25 terverifikasi; kit check --workt",
    "waktu_utc": "2026-11-23T01:00:49Z"
   },
   {
-   "pesan": "pekerja: CROSSCHECK ULANG gta6-01 V3 selesai — vonis GO (PUTARAN 2, terakhir). B1–B4 tertutup terverifikasi independen (badge repo-spesifik, kontrak-penilai verbatim RULES.txt, konsep.md, briefing D1–D5); B5 direplikasi ",
+   "pesan": "pekerja: CROSSCHECK ULANG gta6-01 V3 selesai — vonis GO (PUTARAN 2, terakhir). B1–B4 tertutup terverifikasi independen (badge repo-spesifik, kontrak-penilai verbatim RULES.txt, konsep.md, briefing D1–D5); B5 direplikasi 3 dari 4 oleh pemeriksa sendiri (determinisme 2 run, kit check --worktree, HTTP ",
    "waktu_utc": "2026-11-23T01:15:50Z"
   },
   {
-   "pesan": "pekerja: INSIDEN KE-2 — recorder V3 (01a20590-c1fd-73f0-b73b-c15d4b62b1f3, PID 3492) MATI ~01:02–01:03Z, penyebab tidak diketahui (log hanya warning startup; terakhir hidup 01:02:52Z). .lock tertinggal + tidak ada di rec",
+   "pesan": "pekerja: INSIDEN KE-2 — recorder V3 (01a20590-c1fd-73f0-b73b-c15d4b62b1f3, PID 3492) MATI ~01:02–01:03Z, penyebab tidak diketahui (log hanya warning startup; terakhir hidup 01:02:52Z). .lock tertinggal + tidak ada di recordings.json = BELUM ter-seal saat mati. PEMULIHAN: usage file dilengkapi dulu (",
    "waktu_utc": "2026-11-23T01:24:11Z"
   },
   {
-   "pesan": "pekerja: SUBMIT V3 gta6-01 TERKONFIRMASI — submission 01a20603-c0ba-7144-9e28-82eb2ae899be (HTTP 202, \"Neon Harbor\", commit 0237756d5cf1faada22023cf7bea04f99bde06dd, recording 01a20590 ter-seal, claim AF-1JWJV-W6X8S-472T",
+   "pesan": "pekerja: SUBMIT V3 gta6-01 TERKONFIRMASI — submission 01a20603-c0ba-7144-9e28-82eb2ae899be (HTTP 202, \"Neon Harbor\", commit 0237756d5cf1faada22023cf7bea04f99bde06dd, recording 01a20590 ter-seal, claim AF-1JWJV-W6X8S-472TE-QTZAD; wallet Gg59KrHaLUkfDGSSQ5PY3tMcuhTXn4vaj37NdxferLJ7). Percobaan submit ",
    "waktu_utc": "2026-11-23T01:27:18Z"
+  },
+  {
+   "pesan": "pekerja: V3 gta6-01 DITOLAK — status submission 01a20603: rejected (HTTP 422), round 3, satu-satunya check gagal run_completes (grade run dev exit 1). Semua check lain PASS, termasuk transkrip yang menggagalkan V2: thinking_reproduces 99,8% (4.663/4.669, main.ts 102 authored), transcripts_witnessed ",
+   "waktu_utc": "2026-11-23T01:32:38Z"
+  },
+  {
+   "pesan": "pekerja: V1 DIPILIH ULANG sebagai final gta6-01 (01a1fa29-8776-75a7-8fb3-5b7a0495e894) — \"Done: … is your final in gta6-01\". PIN AKTIF: V1. Kuota live 01:35Z can_submit TRUE (hari 4, hard 38, entries_made 3, kept 1).",
+   "waktu_utc": "2026-11-23T01:34:22Z"
+  },
+  {
+   "pesan": "pekerja: DIAGNOSIS V3 SELESAI (kekalahan-2026-11-23.md; kategori KEPATUHAN): penyebab main.ts V3 baris 118 rmSync(MAKEFUN_OUTPUT_DIR) menghapus /output itu sendiri; di grader /output adalah volume mount sehingga rmdir gagal EBUSY → exit 1. TERBUKTI reproduksi bind-mount lokal (unshare -rm): exit 1 \"",
+   "waktu_utc": "2026-11-23T01:40Z"
+  },
+  {
+   "pesan": "pekerja: RANTAI V3 SELESAI — gta6-01 V3 DITOLAK (run_completes), V1 final (PIN AKTIF), V4 DIBUKA sebagai MENUNGGU (versi 4, jadwal 01:45Z lewat-segera, BUILDER patch main.ts di recording baru; dossier sha harus tetap 2363ac4a…). Kunci dikosongkan; pekerja berikut mengambil V4 lewat pick biasa (kandi",
+   "waktu_utc": "2026-11-23T01:45Z"
+  },
+  {
+   "pesan": "pekerja: KUNCI diambil (kosong saat dicek 01:41:55Z; rantai gta6-01 V3 sudah selesai dan kuncinya dikosongkan pemegangnya). Inbox kosong (tidak ada file keputusan baru). PICK: news-image-20261122 V1 BUILDER — kelonggaran ~19j16m (MULAI TERAKHIR 23 Nov 21:00Z, tenggat 24 Nov 00:00Z); lebih genting da",
+   "waktu_utc": "2026-11-23T01:44:11Z"
+  },
+  {
+   "pesan": "pekerja: BUILDER V1 SELESAI — \"No Deal Sunday\", repo kavivenn-blip/news-image-20261122-v1 commit 776464e, entry.png 1024x1024 286.063 byte, sha256 dua run c2991363…db2d57; rubrik K1 5/K2 4/K3 5/K4 5/K5 4; gerbang mekanis lolos (font utama 20/20 ≥10,25 px acuan 300 px; kontras 68/68 ≥4,5:1); kuota li",
+   "waktu_utc": "2026-11-23T02:23:46Z"
   }
  ],
  "versi_kontrak": 1
