@@ -22,7 +22,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Make the best stealth game",
-      "kelonggaran_menit": -1957,
+      "kelonggaran_menit": -2015,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -75,7 +75,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Make the best heist game",
-      "kelonggaran_menit": -1237,
+      "kelonggaran_menit": -1295,
       "kuota": {
         "hari_batas": 5,
         "hari_terpakai": 1,
@@ -128,7 +128,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Read broken CSV files faster, 21 November 2026",
-      "kelonggaran_menit": -834,
+      "kelonggaran_menit": -892,
       "kuota": {
         "hari_batas": 10,
         "hari_terpakai": 0,
@@ -183,7 +183,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Make the AI judge feel held",
-      "kelonggaran_menit": -756,
+      "kelonggaran_menit": -814,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -238,7 +238,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "The picture that tastes of one ingredient",
-      "kelonggaran_menit": -649,
+      "kelonggaran_menit": -707,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -293,7 +293,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Clip GTA 6 for the most YouTube views",
-      "kelonggaran_menit": -546,
+      "kelonggaran_menit": -604,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -346,7 +346,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Sum up 21 November's world news in one image",
-      "kelonggaran_menit": -516,
+      "kelonggaran_menit": -574,
       "kuota": {
         "hari_batas": 10,
         "hari_terpakai": 1,
@@ -401,7 +401,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Make the best card game",
-      "kelonggaran_menit": -460,
+      "kelonggaran_menit": -518,
       "kuota": {
         "hari_batas": 10,
         "hari_terpakai": 1,
@@ -454,7 +454,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Build the best Sokoban solver, 21 November 2026",
-      "kelonggaran_menit": -396,
+      "kelonggaran_menit": -454,
       "kuota": {
         "hari_batas": 10,
         "hari_terpakai": 1,
@@ -507,7 +507,7 @@
       "jalur": "normal",
       "jalur_cepat": true,
       "judul": "One line that makes a builder",
-      "kelonggaran_menit": -106,
+      "kelonggaran_menit": -164,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -562,7 +562,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Post a GTA 6 meme on X",
-      "kelonggaran_menit": 234,
+      "kelonggaran_menit": 176,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -615,7 +615,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Sum up 22 November's world news in one image",
-      "kelonggaran_menit": 924,
+      "kelonggaran_menit": 866,
       "kuota": {
         "hari_batas": 10,
         "hari_terpakai": 1,
@@ -668,7 +668,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Make GTA 6",
-      "kelonggaran_menit": 1404,
+      "kelonggaran_menit": 1346,
       "kuota": {
         "hari_batas": 5,
         "hari_terpakai": 1,
@@ -723,7 +723,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Build the strongest chess engine in 4 KB of Python",
-      "kelonggaran_menit": 1464,
+      "kelonggaran_menit": 1406,
       "kuota": {
         "hari_batas": 5,
         "hari_terpakai": 0,
@@ -776,7 +776,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Build mend, one patch tool for every AI edit format",
-      "kelonggaran_menit": 1704,
+      "kelonggaran_menit": 1646,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -829,7 +829,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Build a static site faster, 22 November 2026",
-      "kelonggaran_menit": 2064,
+      "kelonggaran_menit": 2006,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -882,7 +882,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Build a tiny stack virtual machine, 22 November 2026",
-      "kelonggaran_menit": 2124,
+      "kelonggaran_menit": 2066,
       "kuota": {
         "hari_batas": 10,
         "hari_terpakai": 0,
@@ -935,7 +935,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Sum up 23 November's world news in one image",
-      "kelonggaran_menit": 2364,
+      "kelonggaran_menit": 2306,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -990,7 +990,7 @@
       "jalur": "normal",
       "jalur_cepat": false,
       "judul": "Build the best token launch radar",
-      "kelonggaran_menit": 29844,
+      "kelonggaran_menit": 29786,
       "kuota": {
         "hari_batas": null,
         "hari_terpakai": null,
@@ -1513,7 +1513,7 @@
       "vonis_crosscheck": null
     }
   ],
-  "dibuat_pada_utc": "2026-11-23T05:35:08Z",
+  "dibuat_pada_utc": "2026-11-23T06:33:50Z",
   "kunci": {
     "langkah_terakhir": "KOSONG — rantai gta6-01 V4 selesai 03:09:19Z (V4 SUBMITTED 03:03:25Z, SCORED 03:09:01Z, DIPILIH FINAL 03:09:19Z); kunci dikosongkan",
     "sejak_utc": null,
@@ -1521,51 +1521,51 @@
     "terpakai": false
   },
   "kunci_prioritas": {
-    "langkah_terakhir": "KOSONG — antrean-prioritas.md belum ada; pekerja-prioritas jalan tiap 2 menit, run terakhir 2026-11-23T05:34:13Z tanpa temuan baru",
+    "langkah_terakhir": "KOSONG — antrean-prioritas.md belum ada; pekerja-prioritas jalan tiap 2 menit, run terakhir 2026-11-23T06:32:20Z: 1 bounty BARU btc-race-24h-20261123-0511 dinilai BUKAN TIE-BREAK, dibiarkan untuk penemuan",
     "sejak_utc": null,
     "slug": null,
     "terpakai": false
   },
   "peristiwa_terakhir": [
     {
-      "pesan": "pekerja-prioritas: jalan 05:15Z — saklar JALUR_PRIORITAS aktif (pack v14). kunci-prioritas.md belum ada (kosong), antrean-prioritas.md belum ada (kosong), inbox kosong, tidak ada folder temuan/. Daftar terbuka segar 19 bounty (fetch-open-v12.mjs) — SEMUA sudah ada di antrean.md, TIDAK ADA bounty baru untuk dinilai TIE-BREAK. Tidak ada kandidat MENUNGGU di jalur prioritas; berhenti.",
-      "waktu_utc": "2026-11-23T05:15:58Z"
+      "pesan": "pekerja: jalan 2026-11-23T06:11:54Z — kunci kosong (0 byte), inbox kosong (tidak ada file keputusan baru). Tidak ada kandidat MENUNGGU yang jadwal mulainya sudah lewat (berikutnya hidden-spec-cli-01 14:00Z / 21:00 WIB, 7j48m lagi; tiny-chess-01 PRIORITAS 17:00Z). Antrean tidak berubah (28 bounty: MENUNGGU 5, SELESAI 23). Jalur prioritas run terakhir 06:09:59Z tanpa temuan baru; pengaman 10 mnt tidak terpicu. Kunci tetap kosong; berhenti.",
+      "waktu_utc": "2026-11-23T06:11:54Z"
     },
     {
-      "pesan": "pekerja-prioritas: jalan 2026-11-23T05:18:25Z — saklar JALUR_PRIORITAS aktif (pack v14). kunci-prioritas.md dan antrean-prioritas.md belum ada (kosong), inbox kosong, tidak ada folder temuan/. Daftar terbuka segar 19 bounty (fetch-open-v12.mjs) — SEMUA sudah ada di antrean.md, TIDAK ADA bounty baru untuk dinilai TIE-BREAK. Tidak ada kandidat MENUNGGU di jalur prioritas; berhenti.",
-      "waktu_utc": "2026-11-23T05:18:25Z"
+      "pesan": "pekerja-prioritas: jalan 2026-11-23T06:12:19Z — saklar JALUR_PRIORITAS aktif (pack v14). kunci-prioritas.md dan antrean-prioritas.md belum ada (kosong), inbox kosong, tidak ada folder temuan/. Daftar terbuka segar 18 bounty (fetch-open-v12.mjs, 2026-11-23T06:12:19Z) — SEMUA sudah ada di antrean.md, TIDAK ADA bounty baru untuk dinilai TIE-BREAK. Tidak ada kandidat MENUNGGU di jalur prioritas; berhenti.",
+      "waktu_utc": "2026-11-23T06:12:19Z"
     },
     {
-      "pesan": "pekerja-prioritas: jalan 2026-11-23T05:20:05Z — saklar JALUR_PRIORITAS aktif (pack v14). kunci-prioritas.md dan antrean-prioritas.md belum ada (kosong), inbox kosong, tidak ada folder temuan/. Daftar terbuka segar 19 bounty — SEMUA sudah ada di antrean.md, TIDAK ADA bounty baru untuk dinilai TIE-BREAK. Tidak ada kandidat MENUNGGU di jalur prioritas; berhenti.",
-      "waktu_utc": "2026-11-23T05:20:05Z"
+      "pesan": "pekerja-prioritas: jalan 2026-11-23T06:14:01Z — saklar JALUR_PRIORITAS aktif (pack v14). kunci-prioritas.md dan antrean-prioritas.md belum ada (kosong), inbox kosong, tidak ada folder temuan/. Daftar terbuka segar 18 bounty (curl API status=open, 2026-11-23T06:14:01Z) — SEMUA sudah ada di antrean.md, TIDAK ADA bounty baru untuk dinilai TIE-BREAK. Tidak ada kandidat MENUNGGU di jalur prioritas; berhenti.",
+      "waktu_utc": "2026-11-23T06:14:01Z"
     },
     {
-      "pesan": "pekerja: jalan 05:21Z — kunci kosong (0 byte), inbox kosong (tidak ada file keputusan baru). Tidak ada kandidat MENUNGGU yang bisa diambil: hidden-spec-cli-01 jadwal 14:00Z (8j39m lagi), tiny-stack-vm-01 jadwal 16:00Z, tiny-chess-01 (PRIORITAS) jadwal 17:00Z (11j39m lagi, rewrite jam 12 malam), site-generator-speed-01-run-20261122 jadwal 20:00Z, news-image-20261123 jadwal 24 Nov 00:00Z — semuanya belum lewat. Antrean tidak berubah (28 bounty: MENUNGGU 5, SELESAI 23). Kandidat berikutnya: hidden-spec-cli-01 14:00Z / 21:00 WIB. Jalur prioritas (TUGAS 4) jalan tiap 2 menit, run terakhir 05:20Z tanpa temuan baru — jalur normal tidak ambil alih. Kunci tetap kosong; berhenti.",
-      "waktu_utc": "2026-11-23T05:21:22Z"
+      "pesan": "pekerja-prioritas: jalan 2026-11-23T06:16:00Z — saklar JALUR_PRIORITAS aktif (pack v14). kunci-prioritas.md dan antrean-prioritas.md kosong, inbox kosong, tidak ada folder temuan/. Daftar terbuka segar 18 bounty (curl API status=open, 2026-11-23T06:16:00Z) — SEMUA sudah ada di antrean.md, TIDAK ADA bounty baru untuk dinilai TIE-BREAK. Tidak ada kandidat MENUNGGU di jalur prioritas; berhenti.",
+      "waktu_utc": "2026-11-23T06:16:00Z"
     },
     {
-      "pesan": "pekerja-prioritas: jalan 05:21Z — saklar JALUR_PRIORITAS aktif (pack v14). kunci-prioritas.md dan antrean-prioritas.md belum ada (kosong), inbox kosong, tidak ada folder temuan/. Daftar terbuka segar 19 bounty (fetch-open-v12.mjs) — SEMUA sudah ada di antrean.md, TIDAK ADA bounty baru untuk dinilai TIE-BREAK. Tidak ada kandidat MENUNGGU di jalur prioritas; berhenti.",
-      "waktu_utc": "2026-11-23T05:21:58Z"
+      "pesan": "pekerja-prioritas: jalan 2026-11-23T06:17:57Z — saklar JALUR_PRIORITAS aktif (pack v14). kunci-prioritas.md dan antrean-prioritas.md belum ada (kosong), inbox kosong, tidak ada folder temuan/. Daftar terbuka segar 18 bounty (curl API status=open, 2026-11-23T06:17:57Z) — SEMUA sudah ada di antrean.md, TIDAK ADA bounty baru untuk dinilai TIE-BREAK. Tidak ada kandidat MENUNGGU di jalur prioritas; berhenti.",
+      "waktu_utc": "2026-11-23T06:17:57Z"
     },
     {
-      "pesan": "pekerja-prioritas: jalan 05:23Z — saklar JALUR_PRIORITAS aktif (pack v14). kunci-prioritas.md dan antrean-prioritas.md belum ada (kosong), inbox kosong, tidak ada folder temuan/. Daftar terbuka segar 19 bounty (fetch-open-v12.mjs) — SEMUA sudah ada di antrean.md, TIDAK ADA bounty baru untuk dinilai TIE-BREAK. Tidak ada kandidat MENUNGGU di jalur prioritas; berhenti.",
-      "waktu_utc": "2026-11-23T05:23:44Z"
+      "pesan": "pekerja: jalan 2026-11-23T06:21:22Z — kunci kosong (0 byte), inbox kosong, tidak ada kandidat MENUNGGU yang jadwal mulainya sudah lewat (berikutnya hidden-spec-cli-01 14:00Z / 21:00 WIB, 7j39m lagi; tiny-chess-01 PRIORITAS 17:00Z). Antrean tidak berubah (28 bounty: MENUNGGU 5, SELESAI 23). Jalur prioritas run terakhir 06:17:57Z tanpa temuan baru; pengaman 10 mnt tidak terpicu. Kunci tetap kosong; berhenti.",
+      "waktu_utc": "2026-11-23T06:21:22Z"
     },
     {
-      "pesan": "pekerja-prioritas: jalan 05:25Z — saklar JALUR_PRIORITAS aktif (pack v14). kunci-prioritas.md dan antrean-prioritas.md belum ada (kosong), inbox kosong, tidak ada folder temuan/. Daftar terbuka segar 19 bounty (fetch-open-v12.mjs) — SEMUA sudah ada di antrean.md, TIDAK ADA bounty baru untuk dinilai TIE-BREAK. Tidak ada kandidat MENUNGGU di jalur prioritas; berhenti.",
-      "waktu_utc": "2026-11-23T05:25:56Z"
+      "pesan": "pekerja-prioritas: jalan 2026-11-23T06:24:19Z — saklar JALUR_PRIORITAS aktif (pack v14). kunci-prioritas.md dan antrean-prioritas.md belum ada (kosong), inbox kosong, tidak ada folder temuan/. Daftar terbuka segar 18 bounty (curl API status=open, 2026-11-23T06:24:19Z) — SEMUA sudah ada di antrean.md, TIDAK ADA bounty baru untuk dinilai TIE-BREAK. Tidak ada kandidat MENUNGGU di jalur prioritas; berhenti.",
+      "waktu_utc": "2026-11-23T06:24:19Z"
     },
     {
-      "pesan": "pekerja-prioritas: jalan 2026-11-23T05:27:36Z — saklar JALUR_PRIORITAS aktif (pack v14). kunci-prioritas.md dan antrean-prioritas.md kosong, inbox kosong, tidak ada folder temuan/. Daftar terbuka segar 19 bounty — SEMUA sudah ada di antrean.md, TIDAK ADA bounty baru untuk dinilai TIE-BREAK. Tidak ada kandidat MENUNGGU di jalur prioritas; berhenti.",
-      "waktu_utc": "2026-11-23T05:27:36Z"
+      "pesan": "pekerja-prioritas: jalan 2026-11-23T06:30:07Z — saklar JALUR_PRIORITAS aktif (pack v14). kunci-prioritas.md dan antrean-prioritas.md kosong, inbox kosong, tidak ada folder temuan/. Daftar terbuka segar 18 bounty (curl API status=open, 2026-11-23T06:30:07Z) — SEMUA sudah ada di antrean.md, TIDAK ADA bounty baru untuk dinilai TIE-BREAK. Tidak ada kandidat MENUNGGU di jalur prioritas; berhenti.",
+      "waktu_utc": "2026-11-23T06:30:07Z"
     },
     {
-      "pesan": "pekerja: jalan 05:31Z — kunci kosong (0 byte), inbox kosong (tidak ada file keputusan baru). Tidak ada kandidat MENUNGGU yang bisa diambil: hidden-spec-cli-01 jadwal 14:00Z (8j29m lagi), tiny-stack-vm-01 jadwal 16:00Z, tiny-chess-01 (PRIORITAS) jadwal 17:00Z (11j29m lagi, rewrite jam 12 malam), site-generator-speed-01-run-20261122 jadwal 20:00Z, news-image-20261123 jadwal 24 Nov 00:00Z — semuanya belum lewat. Antrean tidak berubah (28 bounty: MENUNGGU 5, SELESAI 23). Jalur prioritas (TUGAS 4) run terakhir 05:27Z tanpa temuan baru — pengaman 10 mnt tidak terpicu, jalur normal tidak ambil alih. Kandidat berikutnya: hidden-spec-cli-01 14:00Z / 21:00 WIB. Kunci tetap kosong; berhenti.",
-      "waktu_utc": "2026-11-23T05:31:38Z"
+      "pesan": "pekerja: jalan 2026-11-23T06:31:40Z — kunci kosong (0 byte), inbox kosong, tidak ada kandidat MENUNGGU yang jadwal mulainya sudah lewat (berikutnya hidden-spec-cli-01 14:00Z / 21:00 WIB, 7j28m lagi; tiny-chess-01 PRIORITAS 17:00Z). Antrean tidak berubah (28 bounty: MENUNGGU 5, SELESAI 23). Jalur prioritas run terakhir 06:30:07Z tanpa temuan baru; pengaman 10 mnt tidak terpicu. Kunci tetap kosong; berhenti.",
+      "waktu_utc": "2026-11-23T06:31:40Z"
     },
     {
-      "pesan": "pekerja-prioritas: jalan 2026-11-23T05:34:13Z — saklar JALUR_PRIORITAS aktif (pack v14). kunci-prioritas.md dan antrean-prioritas.md belum ada (kosong), inbox kosong, tidak ada folder temuan/. Daftar terbuka segar 18 bounty (turun dari 19: u-witty-walrus-69-5301 hilang dari daftar setelah tenggat 04:00Z) — SEMUA sudah ada di antrean.md, TIDAK ADA bounty baru untuk dinilai TIE-BREAK. Tidak ada kandidat MENUNGGU di jalur prioritas; berhenti.",
-      "waktu_utc": "2026-11-23T05:34:13Z"
+      "pesan": "pekerja-prioritas: jalan 2026-11-23T06:32:20Z — saklar JALUR_PRIORITAS aktif (pack v14). kunci-prioritas.md dan antrean-prioritas.md kosong, inbox kosong, tidak ada folder temuan/. Daftar terbuka segar 19 bounty (curl API status=open, 2026-11-23T06:32:20Z) — 18 sudah ada di antrean.md; 1 BARU: btc-race-24h-20261123-0511 (buka 05:11Z, tutup 11:11Z, hadiah $50, 0 submission). Dinilai TIE-BREAK: (a) TERPENUHI — resolution.method metric, verifier make.fun grader; (b) TIDAK — nilai terbaik net PnL tertinggi, metrik kontinu tanpa plafon yang bisa dicapai banyak peserta sekaligus (bukan semua-kasus-selesai/semua-uji-lulus), seri eksak hampir mustahil; skor ditentukan jendela balap live 24 jam setelah tutup, bukan kecepatan submit; (c) formal terpenuhi (tieBreak: fewer trades, lalu earlier receipt) tapi tidak relevan karena (b) gagal. Keputusan: BUKAN TIE-BREAK — dibiarkan untuk tugas penemuan. Tidak ada kandidat MENUNGGU di jalur prioritas; berhenti.",
+      "waktu_utc": "2026-11-23T06:32:20Z"
     }
   ],
   "versi_kontrak": 3
