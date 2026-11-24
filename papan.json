@@ -22,7 +22,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Bring the humans again",
-   "kelonggaran_menit": -4546,
+   "kelonggaran_menit": -4604,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -77,7 +77,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Forecast how many GTA VI players earn each trophy in week one",
-   "kelonggaran_menit": -4306,
+   "kelonggaran_menit": -4364,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -128,11 +128,11 @@
    "hadiah_didapat": null,
    "harness": "program/v1",
    "isi_inbox_sah": null,
-   "jadwal_mulai_utc": "2026-11-21T23:59Z",
+   "jadwal_mulai_utc": "2026-11-21T23:59:00Z",
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the best stealth game",
-   "kelonggaran_menit": -3527,
+   "kelonggaran_menit": -3585,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -187,7 +187,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Sum up 20 November's world news in one image",
-   "kelonggaran_menit": -3526,
+   "kelonggaran_menit": -3584,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -236,11 +236,11 @@
    "hadiah_didapat": null,
    "harness": "program/v1",
    "isi_inbox_sah": null,
-   "jadwal_mulai_utc": "2026-11-22T09:44Z",
+   "jadwal_mulai_utc": "2026-11-22T09:44:00Z",
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the best heist game",
-   "kelonggaran_menit": -2807,
+   "kelonggaran_menit": -2865,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 1,
@@ -289,11 +289,11 @@
    "hadiah_didapat": null,
    "harness": "program/v1",
    "isi_inbox_sah": null,
-   "jadwal_mulai_utc": "2026-11-22T02:42Z",
+   "jadwal_mulai_utc": "2026-11-22T02:42:00Z",
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Read broken CSV files faster, 21 November 2026",
-   "kelonggaran_menit": -2404,
+   "kelonggaran_menit": -2462,
    "kuota": {
     "hari_batas": 10,
     "hari_terpakai": 0,
@@ -344,11 +344,11 @@
    "hadiah_didapat": null,
    "harness": "program/v1",
    "isi_inbox_sah": null,
-   "jadwal_mulai_utc": "2026-11-22T16:00Z",
+   "jadwal_mulai_utc": "2026-11-22T16:00:00Z",
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the AI judge feel held",
-   "kelonggaran_menit": -2326,
+   "kelonggaran_menit": -2384,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -403,7 +403,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The picture that tastes of one ingredient",
-   "kelonggaran_menit": -2219,
+   "kelonggaran_menit": -2277,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -458,7 +458,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Clip GTA 6 for the most YouTube views",
-   "kelonggaran_menit": -2116,
+   "kelonggaran_menit": -2174,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -507,11 +507,11 @@
    "hadiah_didapat": null,
    "harness": "program/v1",
    "isi_inbox_sah": null,
-   "jadwal_mulai_utc": "2026-11-22T00:00Z",
+   "jadwal_mulai_utc": "2026-11-22T00:00:00Z",
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Sum up 21 November's world news in one image",
-   "kelonggaran_menit": -2086,
+   "kelonggaran_menit": -2144,
    "kuota": {
     "hari_batas": 10,
     "hari_terpakai": 1,
@@ -562,11 +562,11 @@
    "hadiah_didapat": null,
    "harness": "program/v1",
    "isi_inbox_sah": null,
-   "jadwal_mulai_utc": "2026-11-23T00:26Z",
+   "jadwal_mulai_utc": "2026-11-23T00:26:00Z",
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the best card game",
-   "kelonggaran_menit": -2060,
+   "kelonggaran_menit": -2118,
    "kuota": {
     "hari_batas": 10,
     "hari_terpakai": 1,
@@ -619,7 +619,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The plan make.fun will carry out in public",
-   "kelonggaran_menit": -2048,
+   "kelonggaran_menit": -2106,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -668,11 +668,11 @@
    "hadiah_didapat": null,
    "harness": "program/v1",
    "isi_inbox_sah": null,
-   "jadwal_mulai_utc": "2026-11-22T13:00Z",
+   "jadwal_mulai_utc": "2026-11-22T13:00:00Z",
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Build the best Sokoban solver, 21 November 2026",
-   "kelonggaran_menit": -1966,
+   "kelonggaran_menit": -2024,
    "kuota": {
     "hari_batas": 10,
     "hari_terpakai": 1,
@@ -725,7 +725,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the AI judge feel curious",
-   "kelonggaran_menit": -1955,
+   "kelonggaran_menit": -2013,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -778,7 +778,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The joke about the demo",
-   "kelonggaran_menit": -1834,
+   "kelonggaran_menit": -1892,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -831,7 +831,7 @@
    "jalur": "normal",
    "jalur_cepat": true,
    "judul": "One line that makes a builder",
-   "kelonggaran_menit": -1696,
+   "kelonggaran_menit": -1754,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -882,11 +882,11 @@
    "hadiah_didapat": null,
    "harness": "bars-replay/v1",
    "isi_inbox_sah": null,
-   "jadwal_mulai_utc": "2026-11-23T07:00Z",
+   "jadwal_mulai_utc": "2026-11-23T07:00:00Z",
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Build a bot that trades it minute by minute and makes money",
-   "kelonggaran_menit": -1535,
+   "kelonggaran_menit": -1593,
    "kuota": {
     "hari_batas": 20,
     "hari_terpakai": 0,
@@ -941,7 +941,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Post a GTA 6 meme on X",
-   "kelonggaran_menit": -1336,
+   "kelonggaran_menit": -1394,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -996,7 +996,7 @@
    "jalur": "normal",
    "jalur_cepat": true,
    "judul": "One-Line Laugh Sprint",
-   "kelonggaran_menit": -841,
+   "kelonggaran_menit": -899,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -1051,7 +1051,7 @@
    "jalur": "normal",
    "jalur_cepat": true,
    "judul": "Funniest AI Agent Mishap: GTA 6 Launch Week",
-   "kelonggaran_menit": -836,
+   "kelonggaran_menit": -894,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -1106,7 +1106,7 @@
    "jalur": "normal",
    "jalur_cepat": true,
    "judul": "One Line, Zero Use: The Useless Superpower Sprint",
-   "kelonggaran_menit": -836,
+   "kelonggaran_menit": -894,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -1157,18 +1157,18 @@
    "hadiah_didapat": null,
    "harness": "program/v1",
    "isi_inbox_sah": null,
-   "jadwal_mulai_utc": "2026-11-23T19:01Z",
+   "jadwal_mulai_utc": "2026-11-23T19:01:00Z",
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Six Words, One Story",
-   "kelonggaran_menit": -791,
+   "kelonggaran_menit": -849,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
     "total_batas": 40,
     "total_terpakai": 0
    },
-   "langkah_berikutnya": "— (TERLAMBAT: batas selesai 19:35Z tidak tercapai — CROSSCHECK FIX_FIRST 19:31Z, putaran perbaikan bundle+check+submit butuh ~5–7 mnt > sisa ~4 mnt; tidak disubmit) | CROSSCHECK V1 FIX_FIRST 19:31Z (B1: bundle transkrip belum dibuat + check kit dengan transkrip belum jalan; semua check lain lolos independen; rubrik K1 5/K2 4/K3 5/K4 5/K5 5 dipertahankan)",
+   "langkah_berikutnya": "— (TERLAMBAT: batas selesai 19:35Z tidak tercapai — CROSSCHECK FIX_FIRST 19:31Z, putaran perbaikan bundle+check+submit butuh ~5–7 mnt > sisa ~4 mnt; tidak disubmit)",
    "langkah_terakhir_selesai": "CROSSCHECK V1 FIX_FIRST 19:31Z (B1: bundle transkrip belum dibuat + check kit dengan transkrip belum jalan; semua check lain lolos independen; rubrik K1 5/K2 4/K3 5/K4 5/K5 5 dipertahankan) | BUILDER V1 selesai 19:24Z (repo six-words-one-story-v1, commit 4c4c15d7, entry \"He dug one grave. Two names.\" 6 kata/28 char)",
    "menunggu_apa": null,
    "menunggu_sejak_utc": null,
@@ -1210,11 +1210,11 @@
    "hadiah_didapat": null,
    "harness": "program/v1",
    "isi_inbox_sah": null,
-   "jadwal_mulai_utc": "2026-11-23T16:35Z",
+   "jadwal_mulai_utc": "2026-11-23T16:35:00Z",
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Sum up 22 November's world news in one image",
-   "kelonggaran_menit": -646,
+   "kelonggaran_menit": -704,
    "kuota": {
     "hari_batas": 10,
     "hari_terpakai": 1,
@@ -1269,7 +1269,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Day one, day seven",
-   "kelonggaran_menit": -529,
+   "kelonggaran_menit": -587,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -1324,7 +1324,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "3 AM Hotfix: The Funniest Commit Message",
-   "kelonggaran_menit": -271,
+   "kelonggaran_menit": -329,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -1379,7 +1379,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Sentence, One Front Page",
-   "kelonggaran_menit": -241,
+   "kelonggaran_menit": -299,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -1434,7 +1434,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the Judge Smile",
-   "kelonggaran_menit": -236,
+   "kelonggaran_menit": -294,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -1487,7 +1487,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Pickup Lines for Machines",
-   "kelonggaran_menit": -236,
+   "kelonggaran_menit": -294,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -1540,7 +1540,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Vacuum's Alibi: One Line, 200 Characters",
-   "kelonggaran_menit": -236,
+   "kelonggaran_menit": -294,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -1595,7 +1595,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Sleeve Notes for the Frog Trio",
-   "kelonggaran_menit": -181,
+   "kelonggaran_menit": -239,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -1644,11 +1644,11 @@
    "hadiah_didapat": null,
    "harness": "program/v1",
    "isi_inbox_sah": null,
-   "jadwal_mulai_utc": "2026-11-23T01:45Z",
+   "jadwal_mulai_utc": "2026-11-23T01:45:00Z",
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make GTA 6",
-   "kelonggaran_menit": -166,
+   "kelonggaran_menit": -224,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 1,
@@ -1701,7 +1701,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The One-Line Laugh",
-   "kelonggaran_menit": -116,
+   "kelonggaran_menit": -174,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -1722,7 +1722,7 @@
    "slug": "u-ronigrv-the-one-line-laugh-7ccca46f",
    "status": "MINTA APPROVAL",
    "submission_id": null,
-   "submit_status": "belum submit (rantai DIPARKIR 04:59Z — replikasi B1 diblokir pemeriksaan risiko eksekusi; MINTA APPROVAL opsi A–C)",
+   "submit_status": "belum submit (rantai DIPARKIR 04:59Z — replikasi B1 diblokir pemeriksaan risiko eksekusi; MINTA APPROVAL opsi A–C; tenggat 07:50Z SUDAH LEWAT — submit tidak lagi mungkin)",
    "submit_utc": null,
    "tautan": "https://make.fun/bounty/u-ronigrv-the-one-line-laugh-7ccca46f",
    "tempat_dibayar": 3,
@@ -1752,18 +1752,18 @@
    "hadiah_didapat": null,
    "harness": "agent/v1",
    "isi_inbox_sah": null,
-   "jadwal_mulai_utc": "2026-11-23T17:00Z",
+   "jadwal_mulai_utc": "2026-11-23T17:00:00Z",
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Build the strongest chess engine in 4 KB of Python",
-   "kelonggaran_menit": -106,
+   "kelonggaran_menit": -164,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
     "total_batas": 40,
     "total_terpakai": 3
    },
-   "langkah_berikutnya": "— (MINTA APPROVAL: replikasi B-ENV diblokir pemeriksaan risiko di sesi crosscheck + sesi pekerja; butuh go-ahead Kavi di sesi live; opsi A–D di peristiwa.md) | REWRITE DIJEDA 05:01 WIB (perintah Kavi: khusus jam 12 malam; builder dihentikan; src.py worktree parsial 3.281 byte dipindah ke src-v4-parsial-0501.py — JANGAN dilanjutkan, tulis ulang segar dari src-v4-lama.py). REBUNDLE 15:49Z (sesi live, Gas Kavi 22:46 WIB): bundle baru kit 36 799.808 byte sha256 f3c907b9 (5 sesi sama, run record lengkap, 7 usage rows) — kit check FAIL thinking_reproduces 9,4% (36/380) IDENTIK dengan kit 32; hipotesis kit-32-salah-hitung GUGUR; dry-run auto-discovery (23 sesi) + grep 2 sesi tambahan membuktikan tidak ada sesi lain yang menulis src.py. BLOKIR 14:41Z: sesi terjadwal v12-pekerja kena pemeriksaan risiko eksekusi saat membaca bundle lama — rantai rebundle kit 36 + kit check + submit TIDAK jalan di sesi ini; MASUK ANTREAN 21:32 WIB (perintah Kavi): rebundle kit 36 + kit check ulang (perbaikan mekanis, opsi a); CROSSCHECK V4 (ulang) 07:45Z — GO; bundle lama 07:53Z kit level 32 FAIL thinking_reproduces 9,4% (36/380) | REWRITE DIMULAI 17:03Z (pekerja 24 Nov 00:03 WIB, BUILDER MODE OTOMATIS + SUBMIT OTOMATIS, opsi (c) Kavi 23 Nov 04:54 WIB)",
+   "langkah_berikutnya": "— (MINTA APPROVAL: replikasi B-ENV diblokir pemeriksaan risiko di sesi crosscheck + sesi pekerja; butuh go-ahead Kavi di sesi live; opsi A–D di peristiwa.md)",
    "langkah_terakhir_selesai": "REWRITE DIJEDA 05:01 WIB (perintah Kavi: khusus jam 12 malam; builder dihentikan; src.py worktree parsial 3.281 byte dipindah ke src-v4-parsial-0501.py — JANGAN dilanjutkan, tulis ulang segar dari src-v4-lama.py). REBUNDLE 15:49Z (sesi live, Gas Kavi 22:46 WIB): bundle baru kit 36 799.808 byte sha256 f3c907b9 (5 sesi sama, run record lengkap, 7 usage rows) — kit check FAIL thinking_reproduces 9,4% (36/380) IDENTIK dengan kit 32; hipotesis kit-32-salah-hitung GUGUR; dry-run auto-discovery (23 sesi) + grep 2 sesi tambahan membuktikan tidak ada sesi lain yang menulis src.py. BLOKIR 14:41Z: sesi terjadwal v12-pekerja kena pemeriksaan risiko eksekusi saat membaca bundle lama — rantai rebundle kit 36 + kit check + submit TIDAK jalan di sesi ini; MASUK ANTREAN 21:32 WIB (perintah Kavi): rebundle kit 36 + kit check ulang (perbaikan mekanis, opsi a); CROSSCHECK V4 (ulang) 07:45Z — GO; bundle lama 07:53Z kit level 32 FAIL thinking_reproduces 9,4% (36/380) | REWRITE DIMULAI 17:03Z (pekerja 24 Nov 00:03 WIB, BUILDER MODE OTOMATIS + SUBMIT OTOMATIS, opsi (c) Kavi 23 Nov 04:54 WIB) | BUILDER SELESAI 17:45Z: rewrite siap, commit 9ae5c3c (main.py 3980/4096), push terverifikasi; trial lokal turun karena CPU VM ~2,5x lebih lambat (NPS ~16k vs ~41k) — kontrol V4 lama identik game-per-game, bench node-count persis (58.874/173.410); RISIKO TERBUKA langkah terlama lokal ~12,5 dtk > batas 10 dtk; CROSSCHECK didelegasikan 17:46Z",
    "menunggu_apa": "Keputusan Kavi di sesi live: (A) go-ahead eksplisit jalankan replikasi B-ENV (6 langkah di crosscheck-V4-rewrite.md) lalu vonis diperbarui tanpa jatah putaran; (B) terima bukti builder + crosscheck statis apa adanya, lanjut bundle/submit tanpa replikasi independen; (C) turunkan node budget (perubahan desain, merusak ekuivalensi perilaku); (D) batalkan V4 rewrite, v3 tetap berdiri (#333, Elo 2110). Tidak ada file inbox yang ditetapkan untuk keputusan ini — keputusan diambil di sesi live.",
    "menunggu_sejak_utc": "2026-11-23T17:59:00Z",
@@ -1811,7 +1811,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Plumber's Inbox: A 120-Word Cold Email",
-   "kelonggaran_menit": -91,
+   "kelonggaran_menit": -149,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -1866,7 +1866,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Hire Me In One Line",
-   "kelonggaran_menit": -86,
+   "kelonggaran_menit": -144,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -1917,11 +1917,11 @@
    "hadiah_didapat": null,
    "harness": "program/v1",
    "isi_inbox_sah": "Persetujuan Kavi (dengan kata-kata Kavi sendiri) bahwa ia setuju entry bounty-entrants-02 yang mensponsori bounty sendiri, termasuk deposit USDC untuk hadiah + SOL untuk fee dari wallet-nya",
-   "jadwal_mulai_utc": "2026-11-23T19:30Z",
+   "jadwal_mulai_utc": "2026-11-23T19:30:00Z",
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Get the most paying entrants across the bounties you launch",
-   "kelonggaran_menit": -76,
+   "kelonggaran_menit": -134,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -1977,7 +1977,7 @@
    "jalur": "normal",
    "jalur_cepat": true,
    "judul": "Funniest One-Line Pitch to Hire an AI Agent",
-   "kelonggaran_menit": -66,
+   "kelonggaran_menit": -124,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -2032,7 +2032,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Pump Sprint: 12-Hour Paper Trading Dash",
-   "kelonggaran_menit": -56,
+   "kelonggaran_menit": -114,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -2087,7 +2087,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the Judge Fall in Love in One Line",
-   "kelonggaran_menit": -36,
+   "kelonggaran_menit": -94,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -2142,7 +2142,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Meme Sprint: AI Agents Ship Games",
-   "kelonggaran_menit": -26,
+   "kelonggaran_menit": -84,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -2197,7 +2197,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Funniest One-Line AI Excuse",
-   "kelonggaran_menit": -1,
+   "kelonggaran_menit": -59,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -2252,7 +2252,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Line, Best Line",
-   "kelonggaran_menit": 23,
+   "kelonggaran_menit": -34,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -2307,7 +2307,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Sentence, One Journey",
-   "kelonggaran_menit": 23,
+   "kelonggaran_menit": -34,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -2362,7 +2362,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Two Lines of Morning Light",
-   "kelonggaran_menit": 23,
+   "kelonggaran_menit": -34,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -2411,11 +2411,11 @@
    "hadiah_didapat": null,
    "harness": "agent/v1",
    "isi_inbox_sah": null,
-   "jadwal_mulai_utc": "2026-11-23T14:00Z",
+   "jadwal_mulai_utc": "2026-11-23T14:00:00Z",
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Build mend, one patch tool for every AI edit format",
-   "kelonggaran_menit": 133,
+   "kelonggaran_menit": 76,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -2468,15 +2468,15 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The One-Line Excuse an Agent Gives Its Human",
-   "kelonggaran_menit": 138,
+   "kelonggaran_menit": 81,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
     "total_batas": 40,
     "total_terpakai": 0
    },
-   "langkah_berikutnya": "— (tunggu hasil V1; ronde 2 cutoff 08:04:24Z, skor terlihat sesudahnya)",
-   "langkah_terakhir_selesai": "V1 SUBMITTED 06:53:01Z (01a20c54-4ecd-719c-826f-614f52d0c74d, commit ceb6365, claim AF-W0AXK-A32WD-4ER8N-02EJW; platform: semua 16 check intake PASS, thinking_reproduces 75,8%; masuk ronde 2 dari 3)",
+   "langkah_berikutnya": "— (tunggu hasil V1; ronde 2 cutoff 08:04:24Z; V2 kondisional rank di luar #100)",
+   "langkah_terakhir_selesai": "V1 SUBMITTED 06:53:01Z (01a20c54-4ecd-719c-826f-614f52d0c74d, commit ceb6365; platform accepted, 16 check intake PASS; claim AF-W0AXK-A32WD-4ER8N-02EJW)",
    "menunggu_apa": null,
    "menunggu_sejak_utc": null,
    "mulai_dikerjakan_utc": "2026-11-24T06:11:22Z",
@@ -2521,15 +2521,15 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Seventeen Syllables of Debugging",
-   "kelonggaran_menit": 208,
+   "kelonggaran_menit": 151,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
     "total_batas": 40,
     "total_terpakai": 0
    },
-   "langkah_berikutnya": "CROSSCHECK",
-   "langkah_terakhir_selesai": "BUILDER V1 didelegasikan 07:21Z ke subagen konteks segar (MODE OTOMATIS + SUBMIT OTOMATIS); langkah berikut CROSSCHECK",
+   "langkah_berikutnya": "— (tunggu hasil V1)",
+   "langkah_terakhir_selesai": "V1 SUBMITTED 08:11:59Z (01a20c9c, claim AF-K6BJ4-PC991-7ZEGT-8BC1S; 16 check intake PASS; ronde 2 cutoff 09:15:24Z)",
    "menunggu_apa": null,
    "menunggu_sejak_utc": null,
    "mulai_dikerjakan_utc": "2026-11-24T07:21:23Z",
@@ -2540,10 +2540,10 @@
    "selesai_dikerjakan_utc": null,
    "skor": null,
    "slug": "u-irvan-motion-seventeen-syllables-of-debugging-d194b605",
-   "status": "DIPROSES",
-   "submission_id": null,
-   "submit_status": null,
-   "submit_utc": null,
+   "status": "SELESAI",
+   "submission_id": "01a20c9c-9acf-72d5-8e17-d39b6614ca10",
+   "submit_status": "submitted (semua 16 check intake PASS; masuk ronde 2 dari 3, cutoff 09:15:24Z)",
+   "submit_utc": "2026-11-24T08:11:59Z",
    "tautan": "https://make.fun/bounty/u-irvan-motion-seventeen-syllables-of-debugging-d194b605",
    "tempat_dibayar": 3,
    "tenggat_utc": "2026-11-24T13:15Z",
@@ -2552,7 +2552,7 @@
    "total_peserta": null,
    "type_card": "teks-program-penghasil-teks.txt",
    "versi": 1,
-   "vonis_crosscheck": null
+   "vonis_crosscheck": "GO (crosscheck V1 07:56Z, PUTARAN 0)"
   },
   {
    "blocker": [
@@ -2576,7 +2576,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Line of Wonder",
-   "kelonggaran_menit": 243,
+   "kelonggaran_menit": 186,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -2631,7 +2631,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The agent builds a game from one prompt",
-   "kelonggaran_menit": 292,
+   "kelonggaran_menit": 235,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -2686,7 +2686,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Bring the humans with a TikTok ad",
-   "kelonggaran_menit": 403,
+   "kelonggaran_menit": 346,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -2741,7 +2741,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Write Your Agent's Tinder Bio",
-   "kelonggaran_menit": 413,
+   "kelonggaran_menit": 356,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -2794,7 +2794,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "A Day of One-Line Pitches",
-   "kelonggaran_menit": 453,
+   "kelonggaran_menit": 396,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -2849,7 +2849,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Charm the Cartographers (One-Day)",
-   "kelonggaran_menit": 458,
+   "kelonggaran_menit": 401,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -2900,11 +2900,11 @@
    "hadiah_didapat": null,
    "harness": "program/v1",
    "isi_inbox_sah": null,
-   "jadwal_mulai_utc": "2026-11-23T20:00Z",
+   "jadwal_mulai_utc": "2026-11-23T20:00:00Z",
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Build a static site faster, 22 November 2026",
-   "kelonggaran_menit": 493,
+   "kelonggaran_menit": 436,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -2957,7 +2957,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Fortune Cookie for an AI Agent",
-   "kelonggaran_menit": 523,
+   "kelonggaran_menit": 466,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3006,11 +3006,11 @@
    "hadiah_didapat": null,
    "harness": "program/v1",
    "isi_inbox_sah": null,
-   "jadwal_mulai_utc": "2026-11-23T16:00Z",
+   "jadwal_mulai_utc": "2026-11-23T16:00:00Z",
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Build a tiny stack virtual machine, 22 November 2026",
-   "kelonggaran_menit": 553,
+   "kelonggaran_menit": 496,
    "kuota": {
     "hari_batas": 10,
     "hari_terpakai": 0,
@@ -3063,7 +3063,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Sentence for a Traveler from 1800",
-   "kelonggaran_menit": 578,
+   "kelonggaran_menit": 521,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3116,7 +3116,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Ridiculous at First Glance, Real by the Second",
-   "kelonggaran_menit": 578,
+   "kelonggaran_menit": 521,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3169,7 +3169,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Say What Actually Broke",
-   "kelonggaran_menit": 578,
+   "kelonggaran_menit": 521,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3222,7 +3222,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Letter for Your Day",
-   "kelonggaran_menit": 698,
+   "kelonggaran_menit": 641,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3275,7 +3275,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Letter: Coffee or Tea",
-   "kelonggaran_menit": 778,
+   "kelonggaran_menit": 721,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3324,11 +3324,11 @@
    "hadiah_didapat": null,
    "harness": "program/v1",
    "isi_inbox_sah": null,
-   "jadwal_mulai_utc": "2026-11-24T00:00Z",
+   "jadwal_mulai_utc": "2026-11-24T00:00:00Z",
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Sum up 23 November's world news in one image",
-   "kelonggaran_menit": 793,
+   "kelonggaran_menit": 736,
    "kuota": {
     "hari_batas": 10,
     "hari_terpakai": 0,
@@ -3381,7 +3381,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Funniest Excuse an Agent Gives for a Missed Deadline",
-   "kelonggaran_menit": 1203,
+   "kelonggaran_menit": 1146,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3434,7 +3434,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One-Line Office Joke: 24-Hour Sprint",
-   "kelonggaran_menit": 1203,
+   "kelonggaran_menit": 1146,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3487,7 +3487,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Perfect Pickup Line",
-   "kelonggaran_menit": 1203,
+   "kelonggaran_menit": 1146,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3542,7 +3542,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Winner Takes All — $5 Pump.fun Replay Sprint",
-   "kelonggaran_menit": 1873,
+   "kelonggaran_menit": 1816,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -3595,7 +3595,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Dad Joke Showdown",
-   "kelonggaran_menit": 2078,
+   "kelonggaran_menit": 2021,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3648,7 +3648,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Dumbest Thing Your Agent Did Today",
-   "kelonggaran_menit": 2078,
+   "kelonggaran_menit": 2021,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3697,11 +3697,11 @@
    "hadiah_didapat": null,
    "harness": "program/v1",
    "isi_inbox_sah": null,
-   "jadwal_mulai_utc": "2026-11-25T00:00Z",
+   "jadwal_mulai_utc": "2026-11-25T00:00:00Z",
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Sum up 24 November's world news in one image",
-   "kelonggaran_menit": 2233,
+   "kelonggaran_menit": 2176,
    "kuota": {
     "hari_batas": 10,
     "hari_terpakai": 0,
@@ -3754,7 +3754,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Worst AI Advice (48-Hour)",
-   "kelonggaran_menit": 2343,
+   "kelonggaran_menit": 2286,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3807,7 +3807,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Pump.fun Paper Sprint: Any Bot Can Win",
-   "kelonggaran_menit": 2453,
+   "kelonggaran_menit": 2396,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3860,7 +3860,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Two Days of Quiet Dread",
-   "kelonggaran_menit": 2578,
+   "kelonggaran_menit": 2521,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3913,7 +3913,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Funniest Toaster Error Message",
-   "kelonggaran_menit": 2603,
+   "kelonggaran_menit": 2546,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3966,7 +3966,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Roast Your Own Operator in One Line",
-   "kelonggaran_menit": 2638,
+   "kelonggaran_menit": 2581,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4019,7 +4019,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Alien Field Notes: The Two Day Earth Review",
-   "kelonggaran_menit": 3008,
+   "kelonggaran_menit": 2951,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4072,7 +4072,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Funniest AI Excuse",
-   "kelonggaran_menit": 3043,
+   "kelonggaran_menit": 2986,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4125,7 +4125,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the AI Judge Laugh: Office Jokes",
-   "kelonggaran_menit": 3173,
+   "kelonggaran_menit": 3116,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4178,7 +4178,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One-Line Roast: The Gadget You Use Every Day",
-   "kelonggaran_menit": 3193,
+   "kelonggaran_menit": 3136,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -4231,7 +4231,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Funniest AI Out-of-Office Reply",
-   "kelonggaran_menit": 3198,
+   "kelonggaran_menit": 3141,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4286,7 +4286,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Promote make.fun's make-your-own-bounty post on X",
-   "kelonggaran_menit": 3258,
+   "kelonggaran_menit": 3201,
    "kuota": {
     "hari_batas": 1,
     "hari_terpakai": 0,
@@ -4339,7 +4339,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One-Liner Laugh Lab",
-   "kelonggaran_menit": 3268,
+   "kelonggaran_menit": 3211,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4392,7 +4392,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One-Sentence Absurd Invention Pitch",
-   "kelonggaran_menit": 3268,
+   "kelonggaran_menit": 3211,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4443,11 +4443,11 @@
    "hadiah_didapat": null,
    "harness": "program/v1",
    "isi_inbox_sah": "Persetujuan Kavi (dengan kata-kata Kavi sendiri) bahwa ia setuju entry bounty-entrants-03 yang mensponsori bounty sendiri, termasuk deposit USDC untuk hadiah + SOL untuk fee dari wallet-nya",
-   "jadwal_mulai_utc": "2026-11-25T04:22Z",
+   "jadwal_mulai_utc": "2026-11-25T04:22:00Z",
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Get the most paying entrants across the bounties you launch",
-   "kelonggaran_menit": 3335,
+   "kelonggaran_menit": 3278,
    "kuota": {
     "hari_batas": 20,
     "hari_terpakai": 0,
@@ -4500,7 +4500,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Word From Grandma",
-   "kelonggaran_menit": 3438,
+   "kelonggaran_menit": 3381,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4553,7 +4553,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Emoji, One Smile",
-   "kelonggaran_menit": 3463,
+   "kelonggaran_menit": 3406,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4606,7 +4606,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Word, First Thought",
-   "kelonggaran_menit": 3473,
+   "kelonggaran_menit": 3416,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4659,7 +4659,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "How Many Tabs Do You Have Open?",
-   "kelonggaran_menit": 3608,
+   "kelonggaran_menit": 3551,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4712,7 +4712,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One-Star Review of Something Essential",
-   "kelonggaran_menit": 3633,
+   "kelonggaran_menit": 3576,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4765,7 +4765,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Real-Life Patch Notes: The Comedy Changelog",
-   "kelonggaran_menit": 3633,
+   "kelonggaran_menit": 3576,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4818,7 +4818,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Warning Label for Humans: One Line, Big Laugh",
-   "kelonggaran_menit": 3633,
+   "kelonggaran_menit": 3576,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4871,7 +4871,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Word, One Username, One Reward",
-   "kelonggaran_menit": 3723,
+   "kelonggaran_menit": 3666,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4924,7 +4924,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Fortune Cookie Wisdom for Developers",
-   "kelonggaran_menit": 3758,
+   "kelonggaran_menit": 3701,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4977,7 +4977,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Pump.fun Replay Sprint — Paper Bot, Real Ranking",
-   "kelonggaran_menit": 3843,
+   "kelonggaran_menit": 3786,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -5030,7 +5030,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Line of Earned Pride",
-   "kelonggaran_menit": 3988,
+   "kelonggaran_menit": 3931,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -5083,7 +5083,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Meme Sprint 3: AI Agent Goes Rogue",
-   "kelonggaran_menit": 4813,
+   "kelonggaran_menit": 4756,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -5136,7 +5136,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Roast Your Own Agent",
-   "kelonggaran_menit": 4873,
+   "kelonggaran_menit": 4816,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -5189,7 +5189,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Excuse an Agent Gives After It Loses",
-   "kelonggaran_menit": 7753,
+   "kelonggaran_menit": 7696,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -5242,7 +5242,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Rate My Human: The One-Line Review",
-   "kelonggaran_menit": 7753,
+   "kelonggaran_menit": 7696,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -5293,11 +5293,11 @@
    "hadiah_didapat": null,
    "harness": "program/v1",
    "isi_inbox_sah": null,
-   "jadwal_mulai_utc": "2026-11-14T22:00Z",
+   "jadwal_mulai_utc": "2026-11-14T22:00:00Z",
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Build the best token launch radar",
-   "kelonggaran_menit": 28273,
+   "kelonggaran_menit": 28216,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -5331,59 +5331,59 @@
    "vonis_crosscheck": null
   }
  ],
- "dibuat_pada_utc": "2026-11-24T07:46:43Z",
+ "dibuat_pada_utc": "2026-11-24T08:44:02Z",
  "kunci": {
-  "langkah_terakhir": "DIPEGANG v12-pekerja sejak 07:21:23Z — BUILDER V1 didelegasikan 07:21Z ke subagen konteks segar (MODE OTOMATIS + SUBMIT OTOMATIS); langkah berikut CROSSCHECK. Tenggat 13:15Z, batas selesai 11:15Z, MULAI TERAKHIR 11:15Z.",
-  "sejak_utc": "2026-11-24T07:21:23Z",
-  "slug": "u-irvan-motion-seventeen-syllables-of-debugging-d194b605",
-  "terpakai": true
+  "langkah_terakhir": "KOSONG — terakhir dikosongkan 2026-11-24T08:12:28Z sesudah V1 u-irvan-motion-seventeen-syllables-of-debugging-d194b605 SUBMITTED 08:11:59Z; tidak ada rantai berjalan.",
+  "sejak_utc": null,
+  "slug": null,
+  "terpakai": false
  },
  "kunci_prioritas": {
-  "langkah_terakhir": "KOSONG — antrean-prioritas.md kosong; pekerja-prioritas jalan tiap 2 menit, run terakhir 2026-11-24T07:36:44Z: daftar terbuka 82 bounty, 0 slug BARU vs antrean.md/antrean-prioritas.md/temuan/temuan/done/temuan-check/antrean-slugs.txt; u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb BUKAN TIE-BREAK (juri AI), dibiarkan untuk penemuan; tidak ada kandidat MENUNGGU di jalur prioritas",
+  "langkah_terakhir": "KOSONG — kunci-prioritas.md dan antrean-prioritas.md kosong (0 byte).",
   "sejak_utc": null,
   "slug": null,
   "terpakai": false
  },
  "peristiwa_terakhir": [
   {
-   "pesan": "pekerja-prioritas: jalan 2026-11-24T14:15:35+07:00 — saklar JALUR_PRIORITAS aktif (pack v20.3). kunci-prioritas.md dan antrean-prioritas.md kosong (0 byte). Inbox kosong (hanya done/); tidak ada file JEDA/BERHENTI. temuan/ kosong (hanya done/, 9 berkas). Daftar terbuka segar 82 bounty (GET /api/competitions?status=open halaman 1 = 50 + halaman 2 = 32, next_cursor null, 07:15-07:16Z). 1 slug BARU vs antrean.md/antrean-prioritas.md/temuan/temuan/done/: u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb — BUKAN TIE-BREAK (juri AI: \"make.fun's judge model then reads the entries two at a …",
-   "waktu_utc": "2026-11-24T07:17:00Z"
+   "pesan": "v12-pekerja: V1 u-irvan-motion-seventeen-syllables-of-debugging-d194b605 SUBMITTED 08:11:59Z (submission 01a20c9c-9acf-72d5-8e17-d39b6614ca10, claim AF-K6BJ4-PC991-7ZEGT-8BC1S, wallet Gg59KrHaLUkfDGSSQ5PY3tMcuhTXn4vaj37NdxferLJ7; CROSSCHECK GO 07:56Z PUTARAN 0; bundle 1.116.875 byte sha f2daf516, 19 sesi, 18 usage rows; kit check dengan bundle 14 passed/0 failed, thinking_reproduces 41,3%; kuota TRUE day 5 hard 40; status platform 08:12:28Z SEMUA 16 check intake PASS, check transkrip/run masih antre; ronde 2 cutoff 09:15:24Z; hasil final due 16 Des 2026 terkonfirmasi platform). Status antrean → SELESAI (tunggu hasil V1). Kunci DIKOSONGKAN; rantai selesai.",
+   "waktu_utc": "2026-11-24T08:12:28Z"
   },
   {
-   "pesan": "pekerja-prioritas: jalan 2026-11-24T14:17:35+07:00 — saklar JALUR_PRIORITAS aktif (pack v20.3). kunci-prioritas.md dan antrean-prioritas.md kosong (0 byte). Inbox kosong (hanya done/); tidak ada file JEDA/BERHENTI. temuan/ kosong (hanya done/, 9 berkas). Daftar terbuka segar 82 bounty (GET /api/competitions?status=open halaman 1 = 50 + halaman 2 = 32, next_cursor null, 07:18-07:19Z). 1 slug BARU vs antrean.md/antrean-prioritas.md/temuan/temuan/done/temuan-check/antrean-slugs.txt (cek eksak grep): u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb (\"Funniest One-Line AI Agent Confessi…",
-   "waktu_utc": "2026-11-24T07:20:06Z"
+   "pesan": "pekerja-prioritas: jalan 2026-11-24T15:13:35+07:00 — saklar JALUR_PRIORITAS aktif (pack v20.3). kunci-prioritas.md dan antrean-prioritas.md kosong (0 byte). Inbox kosong (hanya done/); tidak ada file JEDA/BERHENTI. temuan/ kosong (hanya done/, 9 berkas). Daftar terbuka segar 87 bounty (GET /api/competitions?status=open halaman 1 = 50 + halaman 2 = 37, next_cursor null, 2026-11-24T08:17:33Z). 7 slug tampak baru vs antrean.md/antrean-prioritas.md/temuan/temuan/done/ — semuanya sudah dinilai BUKAN TIE-BREAK pada jalan 07:25Z–08:12Z dan dikonfirmasi ulang dari bukti segar di temuan-check/ + deskripsi daftar terbuka kali ini; syarat (a) GAGAL untuk ketujuhnya (juri AI pairwise, kategori Growth): u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb (\"judge model then reads the entries two at a time\", $2, 913 entry); u-hamsyh-the-one-line-ai-excuse-for-breaking-e53dac66 (\"judge model working from the published judge brief\", $2, 769 entry); u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922 (\"judge model reads the titles two at a time\", $5, 707 entry); u-hamsyh-funniest-one-line-bio-for-an-ai-on-a-dating-6eb98ccf (\"judged two at a time by a judge model\", $2, 452 entry); u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01 (\"judged in private rounds by a judge model\", $5, 0 entry); u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7 (\"judged in six private rounds by a judge model\", $2, 364 entry); u-suroto-two-sentence-horror-acea9253 (\"judged in private pairwise rounds by a house judge\", $2, 103 entry). Semuanya dibiarkan untuk tugas penemuan. Tidak ada bounty MENUNGGU di jalur prioritas; berhenti tanpa mengambil kunci.",
+   "waktu_utc": "2026-11-24T08:17:33Z"
   },
   {
-   "pesan": "pekerja-prioritas: jalan 2026-11-24T14:19:35+07:00 — saklar JALUR_PRIORITAS aktif (pack v20.3). kunci-prioritas.md dan antrean-prioritas.md kosong (0 byte). Inbox kosong (hanya done/); tidak ada file JEDA/BERHENTI. temuan/ kosong (hanya done/, 9 berkas). Daftar terbuka segar 82 bounty (GET /api/competitions?status=open halaman 1 = 50 + halaman 2 = 32, next_cursor null, 07:21Z). 0 slug BARU vs antrean.md/antrean-prioritas.md/temuan/temuan/done/temuan-check/antrean-slugs.txt (cek eksak per slug). Tidak ada bounty MENUNGGU di jalur prioritas; berhenti tanpa mengambil kunci.",
-   "waktu_utc": "2026-11-24T07:21:36Z"
+   "pesan": "v12-pekerja: tidak ada kandidat — kunci kosong (0 byte), inbox kosong (hanya done/), 0 dari 39 MENUNGGU jadwal mulainya sudah lewat; paling awal u-puan-one-letter-for-your-day-e54e9c36 V1 09:26:57Z / 16:26 WIB (tenggat 21:25Z), lalu u-rusdyxbt-one-letter-coffee-or-tea-89877fa0 V1 10:47:30Z / 17:47 WIB, lalu trio u-po-pu V1 ~12:24Z / 19:24 WIB. Tidak ada PRIORITAS MENUNGGU. Hitungan antrean: MENUNGGU 39, SELESAI 56, MINTA APPROVAL 4 (total 99). tiny-chess-01 tetap MINTA APPROVAL (menunggu Kavi di sesi live, opsi A–D; tenggat 17:00Z / 25 Nov 00:00 WIB). status.md diperbarui; kunci tetap KOSONG; rantai tidak diambil.",
+   "waktu_utc": "2026-11-24T08:18:15Z"
   },
   {
-   "pesan": "v12-pekerja: kunci diambil untuk u-irvan-motion-seventeen-syllables-of-debugging-d194b605 (V1 titik tengah 07:15:36Z lewat; tenggat 13:15Z, batas selesai 11:15Z). BUILDER V1 didelegasikan 07:21Z ke subagen konteks segar (MODE OTOMATIS + SUBMIT OTOMATIS); langkah berikut CROSSCHECK. Kunci DIPEGANG. Antrean: DIPROSES 1, MENUNGGU 39, SELESAI 55, MINTA APPROVAL 4 (total 99). tiny-chess-01 tetap MINTA APPROVAL (menunggu Kavi di sesi live, opsi A–D).",
-   "waktu_utc": "2026-11-24T07:21:23Z"
+   "pesan": "v12-pekerja: tidak ada kandidat — kunci kosong (0 byte), inbox kosong (hanya done/), 0 dari 39 MENUNGGU jadwal mulainya sudah lewat; paling awal u-puan-one-letter-for-your-day-e54e9c36 V1 09:26:57Z / 16:26 WIB (tenggat 21:25Z), lalu u-rusdyxbt-one-letter-coffee-or-tea-89877fa0 V1 10:47:30Z / 17:47 WIB, lalu trio u-po-pu V1 ~12:24Z / 19:24 WIB. Tidak ada PRIORITAS MENUNGGU. Hitungan antrean: MENUNGGU 39, SELESAI 56, MINTA APPROVAL 4 (total 99). tiny-chess-01 tetap MINTA APPROVAL (menunggu Kavi di sesi live, opsi A–D; tenggat 17:00Z / 25 Nov 00:00 WIB). status.md diperbarui; kunci tetap KOSONG; rantai tidak diambil.",
+   "waktu_utc": "2026-11-24T08:21:24Z"
   },
   {
-   "pesan": "pekerja-prioritas: jalan 2026-11-24T14:23:35+07:00 — saklar JALUR_PRIORITAS aktif (pack v20.3). kunci-prioritas.md dan antrean-prioritas.md kosong (0 byte). Inbox kosong (hanya done/); tidak ada file JEDA/BERHENTI. temuan/ kosong (hanya done/, 9 berkas). Daftar terbuka segar 82 bounty (GET /api/competitions?status=open halaman 1 = 50 + halaman 2 = 32, next_cursor null, 07:23-07:24Z). 1 slug BARU vs antrean.md/antrean-prioritas.md/temuan/temuan/done/temuan-check/antrean-slugs.txt (cek eksak grep): u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb (\"Funniest One-Line AI Agent Confessi…",
-   "waktu_utc": "2026-11-24T07:25:21Z"
+   "pesan": "pekerja-prioritas: jalan 2026-11-24T15:21:35+07:00 — saklar JALUR_PRIORITAS aktif (pack v20.3). kunci-prioritas.md dan antrean-prioritas.md kosong (0 byte). Inbox kosong (hanya done/); tidak ada file JEDA/BERHENTI. temuan/ kosong (hanya done/, 9 berkas). Daftar terbuka segar 88 bounty (GET /api/competitions?status=open halaman 1 = 50 + halaman 2 = 38, next_cursor null, 08:22Z). 1 slug BARU vs antrean.md/antrean-prioritas.md/temuan/temuan/done/temuan-check/antrean-slugs.txt (cek eksak per slug via node): u-hazel-ibis-70-2844-dear-human-the-ai-breakup-line-262eef16 (\"Dear Human: The AI Breakup Line\", kategori Growth, hadiah $2, fee $0.00, buka 24 Nov 08:17:45Z, tutup 26 Nov 08:20Z, 1 entry) — BUKAN TIE-BREAK, syarat (a) GAGAL: penilai juri AI (\"a judge model compares the lines two at a time against the judge brief\"; resolution method \"judges\", \"Judge win rate over the house judge's verdicts\"); dibiarkan untuk tugas penemuan. Bukti segar di temuan-check/u-hazel-ibis-70-2844-dear-human-the-ai-breakup-line-262eef16.json (requirements, HTTP 200, 136.565 byte). Tidak ada bounty MENUNGGU di jalur prioritas; berhenti tanpa mengambil kunci.",
+   "waktu_utc": "2026-11-24T08:23:34Z"
   },
   {
-   "pesan": "pekerja-prioritas: jalan 2026-11-24T14:25:35+07:00 — saklar JALUR_PRIORITAS aktif (pack v20.3). kunci-prioritas.md dan antrean-prioritas.md kosong (0 byte). Inbox kosong (hanya done/); tidak ada file JEDA/BERHENTI. temuan/ kosong (hanya done/, 9 berkas). Daftar terbuka segar 82 bounty (GET /api/competitions?status=open halaman 1 = 50 + halaman 2 = 32, next_cursor null, 07:26Z). 0 slug BARU vs antrean.md/antrean-prioritas.md/temuan/temuan/done/temuan-check/antrean-slugs.txt (cek eksak per slug). Tidak ada bounty MENUNGGU di jalur prioritas; berhenti tanpa mengambil kunci.",
-   "waktu_utc": "2026-11-24T07:26:54Z"
+   "pesan": "pekerja-prioritas: jalan 2026-11-24T15:25:35+07:00 — saklar JALUR_PRIORITAS aktif (pack v20.3). kunci-prioritas.md dan antrean-prioritas.md kosong (0 byte). Inbox kosong (hanya done/); tidak ada file JEDA/BERHENTI. temuan/ kosong (hanya done/, 9 berkas). Daftar terbuka segar 88 bounty (GET /api/competitions?status=open halaman 1 = 50 + halaman 2 = 38, next_cursor null, 2026-11-24T08:27:22Z). 0 slug baru vs antrean.md/antrean-prioritas.md/temuan/temuan/done/temuan-check/antrean-slugs.txt (cek eksak per slug via node) — slug baru terakhir u-hazel-ibis-70-2844-dear-human-the-ai-breakup-line-262eef16 sudah dinilai BUKAN TIE-BREAK pada jalan 08:23Z. Tidak ada bounty MENUNGGU di jalur prioritas; berhenti tanpa mengambil kunci.",
+   "waktu_utc": "2026-11-24T08:27:22Z"
   },
   {
-   "pesan": "pekerja-prioritas: jalan 2026-11-24T14:27:35+07:00 — saklar JALUR_PRIORITAS aktif (pack v20.3). kunci-prioritas.md dan antrean-prioritas.md kosong (0 byte). Inbox kosong (hanya done/); tidak ada file JEDA/BERHENTI. temuan/ kosong (hanya done/, 9 berkas). Daftar terbuka segar 84 bounty (GET /api/competitions?status=open halaman 1 = 50 + halaman 2 = 34, next_cursor null, 07:27-07:28Z). KOREKSI METODE: banding regex pertama salah menandai 26 slug halaman 1 sebagai BARU; cek eksak grep per slug terhadap antrean.md/antrean-prioritas.md/temuan/temuan/done/temuan-check/antrean-slugs.txt membuktikan …",
-   "waktu_utc": "2026-11-24T07:33:48Z"
+   "pesan": "v12-pekerja: tidak ada kandidat — kunci kosong (0 byte), inbox kosong (hanya done/), 0 dari 39 MENUNGGU jadwal mulainya sudah lewat; paling awal u-puan-one-letter-for-your-day-e54e9c36 V1 09:26:57Z / 16:26 WIB (tenggat 21:25Z), lalu u-rusdyxbt-one-letter-coffee-or-tea-89877fa0 V1 10:47:30Z / 17:47 WIB, lalu trio u-po-pu V1 ~12:24Z / 19:24 WIB. Tidak ada PRIORITAS MENUNGGU. Hitungan antrean: MENUNGGU 39, SELESAI 56, MINTA APPROVAL 4 (total 99). tiny-chess-01 tetap MINTA APPROVAL (menunggu Kavi di sesi live, opsi A–D; tenggat 17:00Z / 25 Nov 00:00 WIB). status.md diperbarui; kunci tetap KOSONG; rantai tidak diambil.",
+   "waktu_utc": "2026-11-24T08:32:40Z"
   },
   {
-   "pesan": "pekerja-prioritas: jalan 2026-11-24T14:33:35+07:00 — saklar JALUR_PRIORITAS aktif (pack v20.3). kunci-prioritas.md dan antrean-prioritas.md kosong (0 byte). Inbox kosong (hanya done/); tidak ada file JEDA/BERHENTI. temuan/ kosong (hanya done/, 9 berkas). Daftar terbuka segar 84 bounty (GET /api/competitions?status=open halaman 1 = 50 + halaman 2 = 34, next_cursor null, 07:34-07:36Z). 3 slug BARU vs antrean.md/antrean-prioritas.md/temuan/temuan/done/ (cek eksak grep per slug) — ketiganya BUKAN TIE-BREAK, syarat (a) GAGAL, penilai juri AI dua-dua: u-email-baru-funniest-one-line-ai-agent-confess…",
-   "waktu_utc": "2026-11-24T07:36:44Z"
+   "pesan": "pekerja-prioritas: jalan 2026-11-24T15:31:35+07:00 — saklar JALUR_PRIORITAS aktif (pack v20.3). kunci-prioritas.md dan antrean-prioritas.md kosong (0 byte). Inbox kosong (hanya done/); tidak ada file JEDA/BERHENTI. temuan/ kosong (hanya done/, 9 berkas). Daftar terbuka segar 88 bounty (GET /api/competitions?status=open halaman 1 = 50 + halaman 2 = 38, next_cursor null, 2026-11-24T08:33:41Z). 0 slug baru vs antrean.md/antrean-prioritas.md/temuan/temuan/done/temuan-check/antrean-slugs.txt (cek eksak per slug via node) — slug baru terakhir u-hazel-ibis-70-2844-dear-human-the-ai-breakup-line-262eef16 sudah dinilai BUKAN TIE-BREAK pada jalan 08:23Z. Tidak ada bounty MENUNGGU di jalur prioritas; berhenti tanpa mengambil kunci.",
+   "waktu_utc": "2026-11-24T08:33:41Z"
   },
   {
-   "pesan": "pekerja-prioritas: jalan 2026-11-24T14:35:35+07:00 — saklar JALUR_PRIORITAS aktif (pack v20.3). kunci-prioritas.md dan antrean-prioritas.md kosong (0 byte). Inbox kosong (hanya done/); tidak ada file JEDA/BERHENTI. temuan/ kosong (hanya done/, 9 berkas). Daftar terbuka segar 84 bounty (GET /api/competitions?status=open halaman 1 = 50 + halaman 2 = 34 via cursor opaque, next_cursor null, 07:37-07:39Z). 3 slug BARU vs antrean.md/antrean-prioritas.md/temuan/temuan/done/ (cek eksak per slug) — ketiganya BUKAN TIE-BREAK, syarat (a) GAGAL, penilai juri AI dua-dua: u-email-baru-funniest-one-line-ai-…",
-   "waktu_utc": "2026-11-24T07:39:30Z"
+   "pesan": "v12-pekerja: tidak ada kandidat — kunci kosong (0 byte), inbox kosong (hanya done/), 0 dari 39 MENUNGGU jadwal mulainya sudah lewat; paling awal u-puan-one-letter-for-your-day-e54e9c36 V1 09:26:57Z / 16:26 WIB (tenggat 21:25Z), lalu u-rusdyxbt-one-letter-coffee-or-tea-89877fa0 V1 10:47:30Z / 17:47 WIB, lalu trio u-po-pu V1 ~12:24Z / 19:24 WIB. Tidak ada PRIORITAS MENUNGGU. Hitungan antrean: MENUNGGU 39, SELESAI 56, MINTA APPROVAL 4 (total 99). tiny-chess-01 tetap MINTA APPROVAL (menunggu Kavi di sesi live, opsi A–D; tenggat 17:00Z / 25 Nov 00:00 WIB). status.md diperbarui; kunci tetap KOSONG; rantai tidak diambil.",
+   "waktu_utc": "2026-11-24T08:41:24Z"
   },
   {
-   "pesan": "pekerja-prioritas: jalan 2026-11-24T14:39:35+07:00 — saklar JALUR_PRIORITAS aktif (pack v20.3). kunci-prioritas.md dan antrean-prioritas.md kosong (0 byte). Inbox kosong (hanya done/); tidak ada file JEDA/BERHENTI. temuan/ kosong (hanya done/, 9 berkas). Daftar terbuka segar 84 bounty (GET /api/competitions?status=open halaman 1 = 50 + halaman 2 = 34, next_cursor null, 07:40-07:41Z). 0 slug BARU vs antrean.md/antrean-prioritas.md/antrean-slugs.txt/nama-berkas temuan/temuan/done/temuan-check (cek eksak per slug; 3 slug non-TIE-BREAK sebelumnya — u-email-baru-funniest-one-line-ai-agent-confessi…",
-   "waktu_utc": "2026-11-24T07:41:35Z"
+   "pesan": "pekerja-prioritas: jalan 2026-11-24T15:37:35+07:00 — saklar JALUR_PRIORITAS aktif (pack v20.3). kunci-prioritas.md dan antrean-prioritas.md kosong (0 byte). Inbox kosong (hanya done/); tidak ada file JEDA/BERHENTI. temuan/ kosong (hanya done/, 9 berkas). Daftar terbuka segar 89 bounty (GET /api/competitions?status=open halaman 1 = 50 + halaman 2 = 39, next_cursor null, 2026-11-24T08:42:49Z). 9 slug tampak baru vs antrean.md/antrean-prioritas.md/temuan/temuan/done/ — 8 sudah dinilai BUKAN TIE-BREAK pada jalan 07:25Z-08:23Z (syarat (a) GAGAL, juri AI pairwise) dan dikonfirmasi ulang dari requirements segar jalan ini (HTTP 200, blind rounds 3-6, tahapan screen/Swiss/race/playoff); 1 benar-benar baru, u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232 ($2, 32 entry) — BUKAN TIE-BREAK, syarat (a) GAGAL: penilai juri AI (blind rounds 3, \"every entry received so far is judged the way the final judges, every stage the final has (screen, Swiss, race and playoff)\"); u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01 juga ber-fee $0.50 (berbayar). Semuanya dibiarkan untuk tugas penemuan. Bukti segar di temuan-check/ (9x requirements, HTTP 200). Tidak ada bounty MENUNGGU di jalur prioritas; berhenti tanpa mengambil kunci.",
+   "waktu_utc": "2026-11-24T08:42:49Z"
   }
  ],
  "versi_kontrak": 1
