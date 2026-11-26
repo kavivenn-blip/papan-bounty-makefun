@@ -5178,7 +5178,7 @@
       "langkah_terakhir_selesai": "CROSSCHECK V1 GO 00:37Z (teks 148 cp, determinisme + repo + kit check terverifikasi ulang; tanpa blocker) → BLOKIR 00:44Z: bundle --dry-run GAGAL (folder kerja bukan git repo — commit via API) + exec 00:45Z gagal pemeriksaan risiko eksekusi; git init/clone tidak dicoba (kelas aksi yang sama, sudah berulang kali diblokir di sesi terjadwal); rantai DIPARKIR 00:50Z → MINTA APPROVAL ke-24; re-bundle-induk.md untuk sesi live (opsi A–D; rekomendasi Zet A — bundle + kit check ulang + submit sebelum tenggat 03:05Z); kuota live TRUE 00:30Z day 5 hard 40 (cek ulang sebelum submit)",
       "menunggu_apa": null,
       "menunggu_sejak_utc": null,
-      "mulai_dikerjakan_utc": null,
+      "mulai_dikerjakan_utc": "2026-11-26T00:12:31Z",
       "mulai_terakhir_utc": "2026-11-26T01:05:00Z",
       "peringkat": null,
       "prioritas": false,
