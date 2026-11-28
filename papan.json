@@ -5,7 +5,7 @@
   "terpakai": false,
   "slug": null,
   "sejak_utc": null,
-  "langkah_terakhir": "kunci kosong (0 byte) — dikosongkan 08:20Z saat rantai best-household-budget-site-20261126-1457 diparkir → MINTA APPROVAL; dicek pekerja 11:41Z, 11:51Z, 12:02Z, 12:11Z, 12:21Z, 12:32Z, 12:51Z, 13:01Z, 13:21Z, 13:31Z, 13:41Z, 13:51Z, 14:04Z, 14:13Z, 14:21Z, 14:33Z, 14:41Z — masih kosong"
+  "langkah_terakhir": "kunci kosong (0 byte) — dikosongkan 08:20Z saat rantai best-household-budget-site-20261126-1457 diparkir → MINTA APPROVAL; dicek pekerja 11:41Z, 11:51Z, 12:02Z, 12:11Z, 12:21Z, 12:32Z, 12:42Z, 12:51Z, 13:01Z, 13:21Z, 13:31Z, 13:41Z, 13:51Z, 14:04Z, 14:13Z, 14:21Z, 14:33Z, 14:41Z — masih kosong"
  },
  "bounty": [
   {
@@ -16671,10 +16671,6 @@
  ],
  "peristiwa_terakhir": [
   {
-   "waktu_utc": "2026-11-28T14:25:21Z",
-   "pesan": "| v14-pekerja-prioritas | cek rutin: saklar aktif, kunci kosong (0 byte); antrean-prioritas tanpa MENUNGGU/BELUM DIBUKA (png-squeeze MINTA APPROVAL menunggu keputusan Kavi, diff-speed SELESAI); inbox 3 setuju bukan slug prioritas, dibiarkan; tanpa JEDA/BERHENTI dan tanpa buka-kunci/tandai-mati; temuan/ kosong (hanya done/) — 0 berkas JALUR: prioritas; API open 33 bounty (HTTP 200, 831295B, next_cursor null — daftar lengkap, publik tanpa auth); dedupe substring per slug thd antrean.md + antrean-prioritas.md + temuan/ + temuan/done/ — 0 slug baru, tidak ada TIE-BREAK baru, tidak ada yang ditulis ke antrean-prioritas.md; tidak ada kunci diambil, tidak ada build/submit; kunci tetap kosong."
-  },
-  {
    "waktu_utc": "2026-11-28T14:27:57Z",
    "pesan": "| v14-pekerja-prioritas | cek rutin: saklar aktif, kunci kosong (0 byte); antrean-prioritas tanpa MENUNGGU/BELUM DIBUKA (png-squeeze MINTA APPROVAL menunggu keputusan Kavi, diff-speed SELESAI); inbox 3 setuju bukan slug prioritas, dibiarkan; tanpa JEDA/BERHENTI dan tanpa buka-kunci/tandai-mati; temuan/ kosong (hanya done/) — 0 berkas JALUR: prioritas; API open 33 bounty (HTTP 200, 832098B, next_cursor null — daftar lengkap, publik tanpa auth); dedupe literal per slug thd antrean.md + antrean-prioritas.md + temuan/ + temuan/done/ — 0 slug baru, tidak ada TIE-BREAK baru, tidak ada yang ditulis ke antrean-prioritas.md; tidak ada kunci diambil, tidak ada build/submit; kunci tetap kosong."
   },
@@ -16709,6 +16705,10 @@
   {
    "waktu_utc": "2026-11-28T14:44:28Z",
    "pesan": "| v14-pekerja-prioritas | cek rutin: saklar aktif, kunci kosong (0 byte); antrean-prioritas tanpa MENUNGGU/BELUM DIBUKA (png-squeeze MINTA APPROVAL menunggu keputusan Kavi, diff-speed SELESAI); inbox 3 setuju bukan slug prioritas, dibiarkan; tanpa JEDA/BERHENTI dan tanpa buka-kunci/tandai-mati; temuan/ kosong (hanya done/) — 0 berkas JALUR: prioritas; API open 33 bounty (HTTP 200, 831736B, next_cursor null — daftar lengkap, publik tanpa auth); dedupe literal per slug thd antrean.md + antrean-prioritas.md + temuan/ + temuan/done/ — 0 slug baru, tidak ada TIE-BREAK baru, tidak ada yang ditulis ke antrean-prioritas.md; tidak ada kunci diambil, tidak ada build/submit; kunci tetap kosong."
+  },
+  {
+   "waktu_utc": "2026-11-28T14:46:24Z",
+   "pesan": "| v14-pekerja-prioritas | cek rutin: saklar aktif, kunci kosong (0 byte); antrean-prioritas tanpa MENUNGGU/BELUM DIBUKA (png-squeeze MINTA APPROVAL menunggu keputusan Kavi, diff-speed SELESAI); inbox 3 setuju bukan slug prioritas, dibiarkan; tanpa JEDA/BERHENTI dan tanpa buka-kunci/tandai-mati; temuan/ kosong (hanya done/) — 0 berkas JALUR: prioritas; API open 33 bounty (HTTP 200, 831271B, next_cursor null — daftar lengkap, publik tanpa auth); dedupe grep literal per slug thd antrean.md + antrean-prioritas.md + temuan/ + temuan/done/ — 0 slug baru, tidak ada TIE-BREAK baru, tidak ada yang ditulis ke antrean-prioritas.md; tidak ada kunci diambil, tidak ada build/submit; kunci tetap kosong."
   }
  ]
 }
