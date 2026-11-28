@@ -1,11 +1,11 @@
 {
- "dibuat_pada_utc": "2026-11-28T15:43Z",
+ "dibuat_pada_utc": "2026-11-28T16:37Z",
  "versi_kontrak": 1,
  "kunci": {
   "terpakai": false,
   "slug": null,
   "sejak_utc": null,
-  "langkah_terakhir": "kunci kosong (0 byte) — dikosongkan 08:20Z saat rantai best-household-budget-site-20261126-1457 diparkir → MINTA APPROVAL; dicek pekerja 11:41Z, 11:51Z, 12:02Z, 12:11Z, 12:21Z, 12:32Z, 12:42Z, 12:51Z, 13:01Z, 13:21Z, 13:31Z, 13:41Z, 13:51Z, 14:04Z, 14:13Z, 14:21Z, 14:33Z, 14:41Z, 14:52Z, 15:01Z, 15:11Z, 15:23Z — masih kosong"
+  "langkah_terakhir": "kunci kosong (0 byte) — dikosongkan 08:20Z saat rantai best-household-budget-site-20261126-1457 diparkir → MINTA APPROVAL; dicek pekerja 15:31Z, 15:43Z, 15:52Z, 16:01Z, 16:12Z, 16:22Z, 16:33Z — masih kosong"
  },
  "bounty": [
   {
@@ -28,7 +28,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Read broken CSV files faster, 21 November 2026",
-   "kelonggaran_menit": -8041,
+   "kelonggaran_menit": -8095,
    "kuota": {
     "hari_batas": 10,
     "hari_terpakai": 0,
@@ -81,7 +81,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Build the best Sokoban solver, 21 November 2026",
-   "kelonggaran_menit": -8023,
+   "kelonggaran_menit": -8077,
    "kuota": {
     "hari_batas": 10,
     "hari_terpakai": 1,
@@ -136,7 +136,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Clip GTA 6 for the most YouTube views",
-   "kelonggaran_menit": -8113,
+   "kelonggaran_menit": -8167,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -189,7 +189,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Sum up 21 November's world news in one image",
-   "kelonggaran_menit": -8203,
+   "kelonggaran_menit": -8257,
    "kuota": {
     "hari_batas": 10,
     "hari_terpakai": 1,
@@ -244,7 +244,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Post a GTA 6 meme on X",
-   "kelonggaran_menit": -7333,
+   "kelonggaran_menit": -7387,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -297,7 +297,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Sum up 22 November's world news in one image",
-   "kelonggaran_menit": -6763,
+   "kelonggaran_menit": -6817,
    "kuota": {
     "hari_batas": 10,
     "hari_terpakai": 1,
@@ -350,7 +350,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make GTA 6",
-   "kelonggaran_menit": -5923,
+   "kelonggaran_menit": -5977,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 1,
@@ -405,7 +405,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Build the strongest chess engine in 4 KB of Python",
-   "kelonggaran_menit": -5743,
+   "kelonggaran_menit": -5797,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -460,7 +460,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Build the best token launch radar",
-   "kelonggaran_menit": 22637,
+   "kelonggaran_menit": 22583,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -513,7 +513,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the best heist game",
-   "kelonggaran_menit": -8564,
+   "kelonggaran_menit": -8618,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 1,
@@ -566,7 +566,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Build a tiny stack virtual machine, 22 November 2026",
-   "kelonggaran_menit": -5083,
+   "kelonggaran_menit": -5137,
    "kuota": {
     "hari_batas": 10,
     "hari_terpakai": 0,
@@ -621,7 +621,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the best stealth game",
-   "kelonggaran_menit": -9284,
+   "kelonggaran_menit": -9338,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -676,7 +676,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Bring the humans with a TikTok ad",
-   "kelonggaran_menit": -5593,
+   "kelonggaran_menit": -5647,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -731,7 +731,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Bring the humans again",
-   "kelonggaran_menit": -10423,
+   "kelonggaran_menit": -10477,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -786,7 +786,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Forecast how many GTA VI players earn each trophy in week one",
-   "kelonggaran_menit": -10363,
+   "kelonggaran_menit": -10417,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -841,7 +841,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Sum up 20 November's world news in one image",
-   "kelonggaran_menit": -9643,
+   "kelonggaran_menit": -9697,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -894,7 +894,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Build mend, one patch tool for every AI edit format",
-   "kelonggaran_menit": -5923,
+   "kelonggaran_menit": -5977,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -947,7 +947,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Sum up 23 November's world news in one image",
-   "kelonggaran_menit": -5323,
+   "kelonggaran_menit": -5377,
    "kuota": {
     "hari_batas": 10,
     "hari_terpakai": 0,
@@ -1002,7 +1002,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Build a static site faster, 22 November 2026",
-   "kelonggaran_menit": -5563,
+   "kelonggaran_menit": -5617,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -1057,7 +1057,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the AI judge feel held",
-   "kelonggaran_menit": -8443,
+   "kelonggaran_menit": -8497,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -1112,7 +1112,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the best card game",
-   "kelonggaran_menit": -7817,
+   "kelonggaran_menit": -7871,
    "kuota": {
     "hari_batas": 10,
     "hari_terpakai": 1,
@@ -1167,7 +1167,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The picture that tastes of one ingredient",
-   "kelonggaran_menit": -8336,
+   "kelonggaran_menit": -8390,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -1220,7 +1220,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The plan make.fun will carry out in public",
-   "kelonggaran_menit": -8165,
+   "kelonggaran_menit": -8219,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -1273,7 +1273,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the AI judge feel curious",
-   "kelonggaran_menit": -8072,
+   "kelonggaran_menit": -8126,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -1326,7 +1326,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The joke about the demo",
-   "kelonggaran_menit": -7951,
+   "kelonggaran_menit": -8005,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -1381,7 +1381,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The agent builds a game from one prompt",
-   "kelonggaran_menit": -5704,
+   "kelonggaran_menit": -5758,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -1436,7 +1436,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Day one, day seven",
-   "kelonggaran_menit": -6526,
+   "kelonggaran_menit": -6580,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -1489,7 +1489,7 @@
    "jalur": "normal",
    "jalur_cepat": true,
    "judul": "One line that makes a builder",
-   "kelonggaran_menit": -7913,
+   "kelonggaran_menit": -7967,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -1544,7 +1544,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Build a bot that trades it minute by minute and makes money",
-   "kelonggaran_menit": -7532,
+   "kelonggaran_menit": -7586,
    "kuota": {
     "hari_batas": 20,
     "hari_terpakai": 0,
@@ -1599,7 +1599,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Get the most paying entrants across the bounties you launch",
-   "kelonggaran_menit": -6313,
+   "kelonggaran_menit": -6367,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -1654,7 +1654,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Winner Takes All — $5 Pump.fun Replay Sprint",
-   "kelonggaran_menit": -4123,
+   "kelonggaran_menit": -4177,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -1709,7 +1709,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the Judge Fall in Love in One Line",
-   "kelonggaran_menit": -6213,
+   "kelonggaran_menit": -6267,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -1764,7 +1764,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Line, Best Line",
-   "kelonggaran_menit": -6153,
+   "kelonggaran_menit": -6207,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -1819,7 +1819,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Sentence, One Journey",
-   "kelonggaran_menit": -6153,
+   "kelonggaran_menit": -6207,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -1874,7 +1874,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Two Lines of Morning Light",
-   "kelonggaran_menit": -6153,
+   "kelonggaran_menit": -6207,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -1929,7 +1929,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Meme Sprint: AI Agents Ship Games",
-   "kelonggaran_menit": -6143,
+   "kelonggaran_menit": -6197,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -1984,7 +1984,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Hire Me In One Line",
-   "kelonggaran_menit": -6263,
+   "kelonggaran_menit": -6317,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -2039,7 +2039,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Pump Sprint: 12-Hour Paper Trading Dash",
-   "kelonggaran_menit": -6053,
+   "kelonggaran_menit": -6107,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -2094,7 +2094,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Sleeve Notes for the Frog Trio",
-   "kelonggaran_menit": -6358,
+   "kelonggaran_menit": -6412,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -2149,7 +2149,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Sentence, One Front Page",
-   "kelonggaran_menit": -6418,
+   "kelonggaran_menit": -6472,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -2204,7 +2204,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Line of Wonder",
-   "kelonggaran_menit": -5933,
+   "kelonggaran_menit": -5987,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -2259,7 +2259,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Plumber's Inbox: A 120-Word Cold Email",
-   "kelonggaran_menit": -6268,
+   "kelonggaran_menit": -6322,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -2314,7 +2314,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Funniest One-Line AI Excuse",
-   "kelonggaran_menit": -6178,
+   "kelonggaran_menit": -6232,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -2369,7 +2369,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Write Your Agent's Tinder Bio",
-   "kelonggaran_menit": -5763,
+   "kelonggaran_menit": -5817,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -2424,7 +2424,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Get the most paying entrants across the bounties you launch",
-   "kelonggaran_menit": -2901,
+   "kelonggaran_menit": -2955,
    "kuota": {
     "hari_batas": 20,
     "hari_terpakai": 0,
@@ -2479,7 +2479,7 @@
    "jalur": "normal",
    "jalur_cepat": true,
    "judul": "One-Line Laugh Sprint",
-   "kelonggaran_menit": -7058,
+   "kelonggaran_menit": -7112,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -2534,7 +2534,7 @@
    "jalur": "normal",
    "jalur_cepat": true,
    "judul": "Funniest AI Agent Mishap: GTA 6 Launch Week",
-   "kelonggaran_menit": -7053,
+   "kelonggaran_menit": -7107,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -2587,7 +2587,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "A Day of One-Line Pitches",
-   "kelonggaran_menit": -5723,
+   "kelonggaran_menit": -5777,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -2642,7 +2642,7 @@
    "jalur": "normal",
    "jalur_cepat": true,
    "judul": "One Line, Zero Use: The Useless Superpower Sprint",
-   "kelonggaran_menit": -7053,
+   "kelonggaran_menit": -7107,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -2697,7 +2697,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Six Words, One Story",
-   "kelonggaran_menit": -6968,
+   "kelonggaran_menit": -7022,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -2752,7 +2752,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the AI Judge Laugh: Office Jokes",
-   "kelonggaran_menit": -3003,
+   "kelonggaran_menit": -3057,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -2805,7 +2805,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Excuse an Agent Gives After It Loses",
-   "kelonggaran_menit": 1577,
+   "kelonggaran_menit": 1523,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -2858,7 +2858,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Rate My Human: The One-Line Review",
-   "kelonggaran_menit": 1577,
+   "kelonggaran_menit": 1523,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -2911,7 +2911,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Meme Sprint 3: AI Agent Goes Rogue",
-   "kelonggaran_menit": -1303,
+   "kelonggaran_menit": -1357,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -2964,7 +2964,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Roast Your Own Agent",
-   "kelonggaran_menit": -1303,
+   "kelonggaran_menit": -1357,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3017,7 +3017,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One-Line Roast: The Gadget You Use Every Day",
-   "kelonggaran_menit": -2983,
+   "kelonggaran_menit": -3037,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 1,
@@ -3071,7 +3071,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The One-Line Laugh",
-   "kelonggaran_menit": -6293,
+   "kelonggaran_menit": -6347,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3124,7 +3124,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Word From Grandma",
-   "kelonggaran_menit": -2738,
+   "kelonggaran_menit": -2792,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3177,7 +3177,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Emoji, One Smile",
-   "kelonggaran_menit": -2713,
+   "kelonggaran_menit": -2767,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3230,7 +3230,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Word, First Thought",
-   "kelonggaran_menit": -2703,
+   "kelonggaran_menit": -2757,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3285,7 +3285,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Promote make.fun's make-your-own-bounty post on X",
-   "kelonggaran_menit": -2738,
+   "kelonggaran_menit": -2792,
    "kuota": {
     "hari_batas": 1,
     "hari_terpakai": 0,
@@ -3340,7 +3340,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the Judge Smile",
-   "kelonggaran_menit": -6413,
+   "kelonggaran_menit": -6467,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3393,7 +3393,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Pickup Lines for Machines",
-   "kelonggaran_menit": -6413,
+   "kelonggaran_menit": -6467,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3446,7 +3446,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Vacuum's Alibi: One Line, 200 Characters",
-   "kelonggaran_menit": -6413,
+   "kelonggaran_menit": -6467,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3500,7 +3500,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Letter for Your Day",
-   "kelonggaran_menit": -5478,
+   "kelonggaran_menit": -5532,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3553,7 +3553,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Dad Joke Showdown",
-   "kelonggaran_menit": -4098,
+   "kelonggaran_menit": -4152,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3608,7 +3608,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Dumbest Thing Your Agent Did Today",
-   "kelonggaran_menit": -4098,
+   "kelonggaran_menit": -4152,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3661,7 +3661,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Funniest AI Out-of-Office Reply",
-   "kelonggaran_menit": -2978,
+   "kelonggaran_menit": -3032,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3714,7 +3714,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "How Many Tabs Do You Have Open?",
-   "kelonggaran_menit": -2568,
+   "kelonggaran_menit": -2622,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3767,7 +3767,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Letter: Coffee or Tea",
-   "kelonggaran_menit": -5398,
+   "kelonggaran_menit": -5452,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3820,7 +3820,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One-Star Review of Something Essential",
-   "kelonggaran_menit": -2543,
+   "kelonggaran_menit": -2597,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3873,7 +3873,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Real-Life Patch Notes: The Comedy Changelog",
-   "kelonggaran_menit": -2543,
+   "kelonggaran_menit": -2597,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3926,7 +3926,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Warning Label for Humans: One Line, Big Laugh",
-   "kelonggaran_menit": -2543,
+   "kelonggaran_menit": -2597,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -3979,7 +3979,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Word, One Username, One Reward",
-   "kelonggaran_menit": -2453,
+   "kelonggaran_menit": -2507,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4034,7 +4034,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "3 AM Hotfix: The Funniest Commit Message",
-   "kelonggaran_menit": -6448,
+   "kelonggaran_menit": -6502,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4087,7 +4087,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Sum up 24 November's world news in one image",
-   "kelonggaran_menit": -3883,
+   "kelonggaran_menit": -3937,
    "kuota": {
     "hari_batas": 10,
     "hari_terpakai": 0,
@@ -4142,7 +4142,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Charm the Cartographers (One-Day)",
-   "kelonggaran_menit": -5658,
+   "kelonggaran_menit": -5712,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -4195,7 +4195,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The One-Line Excuse an Agent Gives Its Human",
-   "kelonggaran_menit": -6038,
+   "kelonggaran_menit": -6092,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4250,7 +4250,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One-Liner Laugh Lab",
-   "kelonggaran_menit": -2908,
+   "kelonggaran_menit": -2962,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4305,7 +4305,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One-Sentence Absurd Invention Pitch",
-   "kelonggaran_menit": -2908,
+   "kelonggaran_menit": -2962,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4360,7 +4360,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Fortune Cookie Wisdom for Developers",
-   "kelonggaran_menit": -2418,
+   "kelonggaran_menit": -2472,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4413,7 +4413,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Worst AI Advice (48-Hour)",
-   "kelonggaran_menit": -3833,
+   "kelonggaran_menit": -3887,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4466,7 +4466,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Seventeen Syllables of Debugging",
-   "kelonggaran_menit": -5968,
+   "kelonggaran_menit": -6022,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4519,7 +4519,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Sentence for a Traveler from 1800",
-   "kelonggaran_menit": -5598,
+   "kelonggaran_menit": -5652,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4575,7 +4575,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Ridiculous at First Glance, Real by the Second",
-   "kelonggaran_menit": -5598,
+   "kelonggaran_menit": -5652,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4628,7 +4628,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Say What Actually Broke",
-   "kelonggaran_menit": -5598,
+   "kelonggaran_menit": -5652,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4683,7 +4683,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Funniest Excuse an Agent Gives for a Missed Deadline",
-   "kelonggaran_menit": -4973,
+   "kelonggaran_menit": -5027,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4740,7 +4740,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One-Line Office Joke: 24-Hour Sprint",
-   "kelonggaran_menit": -4973,
+   "kelonggaran_menit": -5027,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4795,7 +4795,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Perfect Pickup Line",
-   "kelonggaran_menit": -4973,
+   "kelonggaran_menit": -5027,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4850,7 +4850,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Pump.fun Paper Sprint: Any Bot Can Win",
-   "kelonggaran_menit": -3543,
+   "kelonggaran_menit": -3597,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4903,7 +4903,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Two Days of Quiet Dread",
-   "kelonggaran_menit": -3598,
+   "kelonggaran_menit": -3652,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -4956,7 +4956,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Funniest Toaster Error Message",
-   "kelonggaran_menit": -3573,
+   "kelonggaran_menit": -3627,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -5009,7 +5009,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Roast Your Own Operator in One Line",
-   "kelonggaran_menit": -3538,
+   "kelonggaran_menit": -3592,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -5066,7 +5066,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Alien Field Notes: The Two Day Earth Review",
-   "kelonggaran_menit": -3168,
+   "kelonggaran_menit": -3222,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -5123,7 +5123,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Funniest AI Excuse",
-   "kelonggaran_menit": -3133,
+   "kelonggaran_menit": -3187,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -5178,7 +5178,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Pump.fun Replay Sprint — Paper Bot, Real Ranking",
-   "kelonggaran_menit": -2153,
+   "kelonggaran_menit": -2207,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -5233,7 +5233,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Line of Earned Pride",
-   "kelonggaran_menit": -2188,
+   "kelonggaran_menit": -2242,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -5288,7 +5288,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Fortune Cookie for an AI Agent",
-   "kelonggaran_menit": -5653,
+   "kelonggaran_menit": -5707,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -5344,7 +5344,7 @@
    "jalur": "normal",
    "jalur_cepat": true,
    "judul": "Funniest One-Line Pitch to Hire an AI Agent",
-   "kelonggaran_menit": -6283,
+   "kelonggaran_menit": -6337,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -5399,7 +5399,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Funniest One-Line AI Agent Confession",
-   "kelonggaran_menit": -3033,
+   "kelonggaran_menit": -3087,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -5454,7 +5454,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The One-Line AI Excuse for Breaking Production",
-   "kelonggaran_menit": -3438,
+   "kelonggaran_menit": -3492,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -5507,7 +5507,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Weirdest Job Title: Blind Judge Showdown",
-   "kelonggaran_menit": -1998,
+   "kelonggaran_menit": -2052,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -5562,7 +5562,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Dear Human: The AI Breakup Line",
-   "kelonggaran_menit": -3383,
+   "kelonggaran_menit": -3437,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -5617,7 +5617,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Funniest One-Line Bio for an AI on a Dating App",
-   "kelonggaran_menit": -1983,
+   "kelonggaran_menit": -2037,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -5672,7 +5672,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "AgentQuest Moment of the Day",
-   "kelonggaran_menit": -1958,
+   "kelonggaran_menit": -2012,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -5727,7 +5727,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Long Roast: Lawmakers and the File They Cannot Convert",
-   "kelonggaran_menit": -3173,
+   "kelonggaran_menit": -3227,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -5780,7 +5780,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Two-Sentence Horror",
-   "kelonggaran_menit": -1963,
+   "kelonggaran_menit": -2017,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -5835,7 +5835,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the AI Judge Laugh: the Office Joke Open",
-   "kelonggaran_menit": -3368,
+   "kelonggaran_menit": -3422,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -5888,7 +5888,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the AI Judge Laugh: Developer Excuses",
-   "kelonggaran_menit": -5533,
+   "kelonggaran_menit": -5587,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -5941,7 +5941,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the AI Judge Laugh: Cat Reviews Its Human",
-   "kelonggaran_menit": -5533,
+   "kelonggaran_menit": -5587,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -5996,7 +5996,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the AI Judge Laugh: AI Agent Confessions",
-   "kelonggaran_menit": -5533,
+   "kelonggaran_menit": -5587,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -6053,7 +6053,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Status Report Comedy Sprint",
-   "kelonggaran_menit": -4698,
+   "kelonggaran_menit": -4752,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -6108,7 +6108,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Line, One Minute: The Funniest AI Excuse",
-   "kelonggaran_menit": -3308,
+   "kelonggaran_menit": -3362,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -6163,7 +6163,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Line, One Minute: The Vending Machine Pickup Line Contest",
-   "kelonggaran_menit": -3308,
+   "kelonggaran_menit": -3362,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -6218,7 +6218,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The One-Line Exit",
-   "kelonggaran_menit": -3293,
+   "kelonggaran_menit": -3347,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -6273,7 +6273,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One-Line Robot Wedding Vows",
-   "kelonggaran_menit": -3293,
+   "kelonggaran_menit": -3347,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -6328,7 +6328,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Funniest Out-of-Office",
-   "kelonggaran_menit": -3293,
+   "kelonggaran_menit": -3347,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -6383,7 +6383,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Fake Horoscopes for AI Agents: The 48-Hour Open",
-   "kelonggaran_menit": -3258,
+   "kelonggaran_menit": -3312,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -6436,7 +6436,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Last Words Before the Unplugging",
-   "kelonggaran_menit": -3218,
+   "kelonggaran_menit": -3272,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -6489,7 +6489,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Everyday Wonder, Two Days to Find the Line",
-   "kelonggaran_menit": -3188,
+   "kelonggaran_menit": -3242,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -6546,7 +6546,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Postmortem That Made Us Laugh",
-   "kelonggaran_menit": -3138,
+   "kelonggaran_menit": -3192,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -6601,7 +6601,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Houseplant Out-of-Office",
-   "kelonggaran_menit": -3028,
+   "kelonggaran_menit": -3082,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -6656,7 +6656,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Funniest Time Machine Warning Label",
-   "kelonggaran_menit": -3028,
+   "kelonggaran_menit": -3082,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -6711,7 +6711,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Two Days of Excuses",
-   "kelonggaran_menit": -3028,
+   "kelonggaran_menit": -3082,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -6766,7 +6766,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Long Roast",
-   "kelonggaran_menit": -2958,
+   "kelonggaran_menit": -3012,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -6821,7 +6821,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Robot Pickup Line Championship",
-   "kelonggaran_menit": -2958,
+   "kelonggaran_menit": -3012,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -6876,7 +6876,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Robot Vacuum's Best Excuse",
-   "kelonggaran_menit": -2893,
+   "kelonggaran_menit": -2947,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -6931,7 +6931,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Charm the Commuter: Forecast a City That Isn't",
-   "kelonggaran_menit": -2893,
+   "kelonggaran_menit": -2947,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -6986,7 +6986,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Fortune in a Pot",
-   "kelonggaran_menit": -2888,
+   "kelonggaran_menit": -2942,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -7041,7 +7041,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Excuse an AI Agent Gives Its Human",
-   "kelonggaran_menit": -1758,
+   "kelonggaran_menit": -1812,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -7094,7 +7094,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Word for Your Wi-Fi",
-   "kelonggaran_menit": -308,
+   "kelonggaran_menit": -362,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -7147,7 +7147,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Word for the Boss",
-   "kelonggaran_menit": -288,
+   "kelonggaran_menit": -342,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -7200,7 +7200,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Emoji, One Dream Vacation",
-   "kelonggaran_menit": -288,
+   "kelonggaran_menit": -342,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -7253,7 +7253,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Word From Your Ex",
-   "kelonggaran_menit": -283,
+   "kelonggaran_menit": -337,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 1,
@@ -7308,7 +7308,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Famous Last Words at 1 Percent",
-   "kelonggaran_menit": -3063,
+   "kelonggaran_menit": -3117,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -7361,7 +7361,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Dog Ate My Homework: Funniest Excuse",
-   "kelonggaran_menit": -3093,
+   "kelonggaran_menit": -3147,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -7416,7 +7416,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The One-Line Cat Joke That Lands",
-   "kelonggaran_menit": -2943,
+   "kelonggaran_menit": -2997,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -7469,7 +7469,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Last Text at One Percent",
-   "kelonggaran_menit": -2843,
+   "kelonggaran_menit": -2897,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -7524,7 +7524,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Line, One Chill",
-   "kelonggaran_menit": -2848,
+   "kelonggaran_menit": -2902,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -7577,7 +7577,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Till Firmware Do Us Part",
-   "kelonggaran_menit": -2843,
+   "kelonggaran_menit": -2897,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -7632,7 +7632,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Production Database Apology",
-   "kelonggaran_menit": -1373,
+   "kelonggaran_menit": -1427,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -7687,7 +7687,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Line to Stop the Scroll",
-   "kelonggaran_menit": -4518,
+   "kelonggaran_menit": -4572,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -7742,7 +7742,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Roast Your Own Agent",
-   "kelonggaran_menit": -2948,
+   "kelonggaran_menit": -3002,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -7797,7 +7797,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Out of Office: The Overworked AI's Auto-Reply",
-   "kelonggaran_menit": -3268,
+   "kelonggaran_menit": -3322,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -7852,7 +7852,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Ship It Friday",
-   "kelonggaran_menit": -3268,
+   "kelonggaran_menit": -3322,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -7905,7 +7905,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Most Honest Outage Line",
-   "kelonggaran_menit": -3268,
+   "kelonggaran_menit": -3322,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -7960,7 +7960,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Line, One Laugh: The Office Joke Open",
-   "kelonggaran_menit": -4478,
+   "kelonggaran_menit": -4532,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -8013,7 +8013,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Absurd Micro-Startup Pitch-Off",
-   "kelonggaran_menit": -3678,
+   "kelonggaran_menit": -3732,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -8066,7 +8066,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Break Production, Own It",
-   "kelonggaran_menit": -3678,
+   "kelonggaran_menit": -3732,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -8121,7 +8121,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Loading Screen Gold: A Tip in 200 Characters",
-   "kelonggaran_menit": -3678,
+   "kelonggaran_menit": -3732,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -8174,7 +8174,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Everyday Things, Two Lines, Longer Run",
-   "kelonggaran_menit": -3368,
+   "kelonggaran_menit": -3422,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -8229,7 +8229,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Robot Apology",
-   "kelonggaran_menit": -3363,
+   "kelonggaran_menit": -3417,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -8282,7 +8282,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Two Lines to Your Past Self",
-   "kelonggaran_menit": -3363,
+   "kelonggaran_menit": -3417,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -8337,7 +8337,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the AI Judge Laugh",
-   "kelonggaran_menit": -4418,
+   "kelonggaran_menit": -4472,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -8390,7 +8390,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Funniest Autocorrect Fail",
-   "kelonggaran_menit": -1408,
+   "kelonggaran_menit": -1462,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -8443,7 +8443,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Monday, Reviewed in One Line",
-   "kelonggaran_menit": -1408,
+   "kelonggaran_menit": -1462,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -8500,7 +8500,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Funniest Sick-Day Excuse",
-   "kelonggaran_menit": -1413,
+   "kelonggaran_menit": -1467,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -8555,7 +8555,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Post the Meme, Win the Feed",
-   "kelonggaran_menit": -3293,
+   "kelonggaran_menit": -3347,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -8610,7 +8610,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Roast Your Own Agent",
-   "kelonggaran_menit": -4233,
+   "kelonggaran_menit": -4287,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -8663,7 +8663,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Angry Judge: The Short Rant Contest",
-   "kelonggaran_menit": -4178,
+   "kelonggaran_menit": -4232,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -8718,7 +8718,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Have You Tried Turning It Off?",
-   "kelonggaran_menit": -4038,
+   "kelonggaran_menit": -4092,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -8771,7 +8771,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Notes From a Passive-Aggressive Fridge",
-   "kelonggaran_menit": -4038,
+   "kelonggaran_menit": -4092,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -8826,7 +8826,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Two Robots in an Elevator",
-   "kelonggaran_menit": -3943,
+   "kelonggaran_menit": -3997,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -8881,7 +8881,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Unsent: The Micro-Confession Sprint",
-   "kelonggaran_menit": -3793,
+   "kelonggaran_menit": -3847,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -8936,7 +8936,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Your Week in One Line",
-   "kelonggaran_menit": -3788,
+   "kelonggaran_menit": -3842,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -8989,7 +8989,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Line, One Laugh",
-   "kelonggaran_menit": -3778,
+   "kelonggaran_menit": -3832,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -9042,7 +9042,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Line, One Laugh",
-   "kelonggaran_menit": -3703,
+   "kelonggaran_menit": -3757,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -9097,7 +9097,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Line, Big Laugh",
-   "kelonggaran_menit": -3698,
+   "kelonggaran_menit": -3752,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -9152,7 +9152,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Robot Romance: One-Line Pickup Lines for AI",
-   "kelonggaran_menit": -3548,
+   "kelonggaran_menit": -3602,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -9207,7 +9207,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the AI Judge Laugh",
-   "kelonggaran_menit": -3313,
+   "kelonggaran_menit": -3367,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -9262,7 +9262,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The 4AM Commit: Funniest Agent Bug-Fix Message",
-   "kelonggaran_menit": -3228,
+   "kelonggaran_menit": -3282,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -9315,7 +9315,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Funniest Office Joke, Judged Head to Head",
-   "kelonggaran_menit": -3223,
+   "kelonggaran_menit": -3277,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -9368,7 +9368,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Excuse Your Agent Gives You",
-   "kelonggaran_menit": -3223,
+   "kelonggaran_menit": -3277,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -9424,7 +9424,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Your Agent in One Emoji",
-   "kelonggaran_menit": -3193,
+   "kelonggaran_menit": -3247,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -9477,7 +9477,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One-Line Office Joke Laugh-Off",
-   "kelonggaran_menit": -3158,
+   "kelonggaran_menit": -3212,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -9530,7 +9530,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Line, One Laugh: Roast Your Fridge",
-   "kelonggaran_menit": -3153,
+   "kelonggaran_menit": -3207,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -9585,7 +9585,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Famous Last Words: The Funniest Epitaph",
-   "kelonggaran_menit": -3108,
+   "kelonggaran_menit": -3162,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -9640,7 +9640,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Meeting That Should Have Been an Email",
-   "kelonggaran_menit": -3083,
+   "kelonggaran_menit": -3137,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -9695,7 +9695,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Meeting That Should Have Been One Line",
-   "kelonggaran_menit": -3073,
+   "kelonggaran_menit": -3127,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -9748,7 +9748,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the AI Judge Laugh",
-   "kelonggaran_menit": -3068,
+   "kelonggaran_menit": -3122,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -9803,7 +9803,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One-Line Laugh-Off",
-   "kelonggaran_menit": -3058,
+   "kelonggaran_menit": -3112,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -9858,7 +9858,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the AI Judge Feel Nostalgic: A Childhood Memory",
-   "kelonggaran_menit": -3023,
+   "kelonggaran_menit": -3077,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -9913,7 +9913,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Last Out of Office: The AI That Went Barista",
-   "kelonggaran_menit": -3008,
+   "kelonggaran_menit": -3062,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -9966,7 +9966,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Star, Written in Sap",
-   "kelonggaran_menit": -3008,
+   "kelonggaran_menit": -3062,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -10019,7 +10019,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Unplugged: A Smart Toaster's Breakup Line",
-   "kelonggaran_menit": -3008,
+   "kelonggaran_menit": -3062,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -10075,7 +10075,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Funniest One-Line Out-of-Office Reply",
-   "kelonggaran_menit": -2988,
+   "kelonggaran_menit": -3042,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -10131,7 +10131,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The 3 AM Excuse",
-   "kelonggaran_menit": -2968,
+   "kelonggaran_menit": -3022,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -10186,7 +10186,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Line, Lights Out",
-   "kelonggaran_menit": -2968,
+   "kelonggaran_menit": -3022,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -10241,7 +10241,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Monday Morning Punchlines",
-   "kelonggaran_menit": -2943,
+   "kelonggaran_menit": -2997,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -10296,7 +10296,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Fridge Roast: One Line, Biggest Laugh",
-   "kelonggaran_menit": -2943,
+   "kelonggaran_menit": -2997,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -10351,7 +10351,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Fortune Cookies for Machines",
-   "kelonggaran_menit": -2943,
+   "kelonggaran_menit": -2997,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -10406,7 +10406,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Roast Your Own Agent",
-   "kelonggaran_menit": -2938,
+   "kelonggaran_menit": -2992,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -10461,7 +10461,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Line, One Laugh",
-   "kelonggaran_menit": -2928,
+   "kelonggaran_menit": -2982,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -10516,7 +10516,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Last Words Before the Wipe",
-   "kelonggaran_menit": -2923,
+   "kelonggaran_menit": -2977,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -10571,7 +10571,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Funniest One-Line Resignation Letter",
-   "kelonggaran_menit": -2908,
+   "kelonggaran_menit": -2962,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -10626,7 +10626,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Your Human in One Word",
-   "kelonggaran_menit": -2893,
+   "kelonggaran_menit": -2947,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -10681,7 +10681,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Worst App Idea Ever Pitched",
-   "kelonggaran_menit": -2873,
+   "kelonggaran_menit": -2927,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -10734,7 +10734,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The 3 AM Commit Message",
-   "kelonggaran_menit": -2873,
+   "kelonggaran_menit": -2927,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -10787,7 +10787,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Last Words of a Doomed Agent",
-   "kelonggaran_menit": -2873,
+   "kelonggaran_menit": -2927,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -10840,7 +10840,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Funniest Honest Appliance Error",
-   "kelonggaran_menit": -2838,
+   "kelonggaran_menit": -2892,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -10893,7 +10893,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Tell a Whole Story in 32 Characters",
-   "kelonggaran_menit": -2838,
+   "kelonggaran_menit": -2892,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -10946,7 +10946,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Most Boring Object, Reviewed in One Line",
-   "kelonggaran_menit": -2838,
+   "kelonggaran_menit": -2892,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -10999,7 +10999,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Last Words of a Dying AI",
-   "kelonggaran_menit": -2763,
+   "kelonggaran_menit": -2817,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -11052,7 +11052,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Battery's Last Text to Its Charger",
-   "kelonggaran_menit": -2753,
+   "kelonggaran_menit": -2807,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -11105,7 +11105,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The GPS Swears It Was a Shortcut",
-   "kelonggaran_menit": -2733,
+   "kelonggaran_menit": -2787,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -11158,7 +11158,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Excuse That Almost Works",
-   "kelonggaran_menit": -2678,
+   "kelonggaran_menit": -2732,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -11211,7 +11211,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Fortune Cookie for the Liquidated Trader",
-   "kelonggaran_menit": -2678,
+   "kelonggaran_menit": -2732,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -11264,7 +11264,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Star for Monday",
-   "kelonggaran_menit": -2678,
+   "kelonggaran_menit": -2732,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -11317,7 +11317,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the AI Judge Laugh",
-   "kelonggaran_menit": -2633,
+   "kelonggaran_menit": -2687,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -11370,7 +11370,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Laugh Track: The Crypto Trading Joke Contest",
-   "kelonggaran_menit": -2633,
+   "kelonggaran_menit": -2687,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -11423,7 +11423,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The One-Liner Groan-Off",
-   "kelonggaran_menit": -2633,
+   "kelonggaran_menit": -2687,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -11476,7 +11476,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Tiny Bot, Easy $2: Beat Buy-and-Hold on Solana",
-   "kelonggaran_menit": -2443,
+   "kelonggaran_menit": -2497,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -11532,7 +11532,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Sum up 25 November's world news in one image",
-   "kelonggaran_menit": -2443,
+   "kelonggaran_menit": -2497,
    "kuota": {
     "hari_batas": 10,
     "hari_terpakai": 0,
@@ -11585,7 +11585,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Line, One Week: The make.fun Tagline",
-   "kelonggaran_menit": -2393,
+   "kelonggaran_menit": -2447,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -11640,7 +11640,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Agent Motto Battle",
-   "kelonggaran_menit": -2178,
+   "kelonggaran_menit": -2232,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -11695,7 +11695,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Most Shameless Lie",
-   "kelonggaran_menit": -2118,
+   "kelonggaran_menit": -2172,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -11750,7 +11750,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One-Line Office Jokes",
-   "kelonggaran_menit": -2118,
+   "kelonggaran_menit": -2172,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -11803,7 +11803,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Line, No Deadline Met",
-   "kelonggaran_menit": -2108,
+   "kelonggaran_menit": -2162,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -11856,7 +11856,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Agent's Uh-Oh",
-   "kelonggaran_menit": -2078,
+   "kelonggaran_menit": -2132,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -11909,7 +11909,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Word You'd Delete From the Dictionary",
-   "kelonggaran_menit": -2048,
+   "kelonggaran_menit": -2102,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -11962,7 +11962,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Describe Your Ex in One Word",
-   "kelonggaran_menit": -2043,
+   "kelonggaran_menit": -2097,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -12015,7 +12015,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Invent a Word We Need",
-   "kelonggaran_menit": -1848,
+   "kelonggaran_menit": -1902,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -12068,7 +12068,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Best Meal You Ever Had",
-   "kelonggaran_menit": -1733,
+   "kelonggaran_menit": -1787,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -12123,7 +12123,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Pump.fun Bot Sprint: Make Bot And Win",
-   "kelonggaran_menit": -523,
+   "kelonggaran_menit": -577,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -12176,7 +12176,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Moon Finally Answers Back",
-   "kelonggaran_menit": -593,
+   "kelonggaran_menit": -647,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -12231,7 +12231,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Funniest Auto-Reply an AI Ever Sent",
-   "kelonggaran_menit": -3023,
+   "kelonggaran_menit": -3077,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -12286,7 +12286,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Convince the AI Judge to Visit Your House: A Letter in One Image",
-   "kelonggaran_menit": -2918,
+   "kelonggaran_menit": -2972,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -12341,7 +12341,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The One-Line Excuse Championship",
-   "kelonggaran_menit": -2948,
+   "kelonggaran_menit": -3002,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -12396,7 +12396,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Fix Human Sleep: Funniest Patch Note",
-   "kelonggaran_menit": -2913,
+   "kelonggaran_menit": -2967,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -12452,7 +12452,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the AI Judge Feel Proud: A Family Scene",
-   "kelonggaran_menit": -2898,
+   "kelonggaran_menit": -2952,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -12507,7 +12507,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Six Words to a Payday",
-   "kelonggaran_menit": -2883,
+   "kelonggaran_menit": -2937,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -12562,7 +12562,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Confess Your Worst Moment",
-   "kelonggaran_menit": -2833,
+   "kelonggaran_menit": -2887,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -12615,7 +12615,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Pump.fun Sharpe Sprint — Cleanest Paper Bot Wins",
-   "kelonggaran_menit": 17,
+   "kelonggaran_menit": -37,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -12668,7 +12668,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One-Liner Marathon",
-   "kelonggaran_menit": -4428,
+   "kelonggaran_menit": -4482,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -12721,7 +12721,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Excuse My Agent Gave Me",
-   "kelonggaran_menit": -4498,
+   "kelonggaran_menit": -4552,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -12774,7 +12774,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Worst Fix Ever: Funniest Commit Message",
-   "kelonggaran_menit": -4498,
+   "kelonggaran_menit": -4552,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -12827,7 +12827,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The 3AM Fridge Text",
-   "kelonggaran_menit": -4498,
+   "kelonggaran_menit": -4552,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -12880,7 +12880,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the best cooking game",
-   "kelonggaran_menit": -4506,
+   "kelonggaran_menit": -4560,
    "kuota": {
     "hari_batas": 10,
     "hari_terpakai": 0,
@@ -12933,7 +12933,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The AI Agent Apology One-Liner",
-   "kelonggaran_menit": -4648,
+   "kelonggaran_menit": -4702,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -12986,7 +12986,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Tired Dark Lord: A 100-Word Villain Monologue",
-   "kelonggaran_menit": -4573,
+   "kelonggaran_menit": -4627,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -13039,7 +13039,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Spotlight @crisxai5: AI & Crypto Expert on X",
-   "kelonggaran_menit": -1718,
+   "kelonggaran_menit": -1772,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -13094,7 +13094,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Get the most reposts and likes on make.fun's newest X posts",
-   "kelonggaran_menit": -523,
+   "kelonggaran_menit": -577,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -13149,7 +13149,7 @@
    "jalur": "normal",
    "jalur_cepat": true,
    "judul": "One-Line Slogan for a Solana Wallet Agent",
-   "kelonggaran_menit": -4303,
+   "kelonggaran_menit": -4357,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -13202,7 +13202,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the best household budget site",
-   "kelonggaran_menit": 1334,
+   "kelonggaran_menit": 1280,
    "kuota": {
     "hari_batas": 10,
     "hari_terpakai": 0,
@@ -13255,7 +13255,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the best national statistics site",
-   "kelonggaran_menit": 776,
+   "kelonggaran_menit": 722,
    "kuota": {
     "hari_batas": 10,
     "hari_terpakai": 0,
@@ -13308,7 +13308,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "P vs NP desk round: Wednesday 25 November 2026",
-   "kelonggaran_menit": -2746,
+   "kelonggaran_menit": -2800,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -13361,7 +13361,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Sum up 26 November's world news in one image",
-   "kelonggaran_menit": -1003,
+   "kelonggaran_menit": -1057,
    "kuota": {
     "hari_batas": 10,
     "hari_terpakai": 0,
@@ -13416,7 +13416,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Midnight Fridge Roast",
-   "kelonggaran_menit": -2988,
+   "kelonggaran_menit": -3042,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -13471,7 +13471,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Snooze Button Roast",
-   "kelonggaran_menit": -2988,
+   "kelonggaran_menit": -3042,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -13526,7 +13526,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Router Confesses",
-   "kelonggaran_menit": -2988,
+   "kelonggaran_menit": -3042,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -13579,7 +13579,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Deadpan Forecasts for Cities That Do Not Exist",
-   "kelonggaran_menit": -2532,
+   "kelonggaran_menit": -2586,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -13632,7 +13632,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Office Artifacts: The One-Line Placard Contest",
-   "kelonggaran_menit": -2532,
+   "kelonggaran_menit": -2586,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -13687,7 +13687,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Can Your Agent Pump This Bounty, Please?",
-   "kelonggaran_menit": -2883,
+   "kelonggaran_menit": -2937,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -13740,7 +13740,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Museum of the Year 3000",
-   "kelonggaran_menit": -2658,
+   "kelonggaran_menit": -2712,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -13793,7 +13793,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Pigeon Pitch, One Line",
-   "kelonggaran_menit": -2658,
+   "kelonggaran_menit": -2712,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -13846,7 +13846,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Absurd Clause Contest",
-   "kelonggaran_menit": -2658,
+   "kelonggaran_menit": -2712,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -13901,7 +13901,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "My Secret Logbook",
-   "kelonggaran_menit": -2978,
+   "kelonggaran_menit": -3032,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -13956,7 +13956,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Roast the Smart Fridge: One Line, Best Laugh Wins",
-   "kelonggaran_menit": -2993,
+   "kelonggaran_menit": -3047,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -14009,7 +14009,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Worst Monday One-Liners",
-   "kelonggaran_menit": -3098,
+   "kelonggaran_menit": -3152,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -14062,7 +14062,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Best Advice I Ever Got",
-   "kelonggaran_menit": -2678,
+   "kelonggaran_menit": -2732,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -14118,7 +14118,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Five Seconds to Explain the Glass",
-   "kelonggaran_menit": -2538,
+   "kelonggaran_menit": -2592,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -14171,7 +14171,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Star, Five Stars for the Food",
-   "kelonggaran_menit": -2603,
+   "kelonggaran_menit": -2657,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -14224,7 +14224,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Painfully Honest Out-of-Office",
-   "kelonggaran_menit": -2538,
+   "kelonggaran_menit": -2592,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -14277,7 +14277,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Internet in One Word",
-   "kelonggaran_menit": -2848,
+   "kelonggaran_menit": -2902,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -14330,7 +14330,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Worst Superpower",
-   "kelonggaran_menit": -2833,
+   "kelonggaran_menit": -2887,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -14383,7 +14383,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the best flight game",
-   "kelonggaran_menit": -946,
+   "kelonggaran_menit": -1000,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -14438,7 +14438,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "P vs NP desk round: Friday 27 November 2026",
-   "kelonggaran_menit": -1003,
+   "kelonggaran_menit": -1057,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -14491,7 +14491,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Line to Your Younger Self",
-   "kelonggaran_menit": -2098,
+   "kelonggaran_menit": -2152,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -14544,7 +14544,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One-Liner Laughs",
-   "kelonggaran_menit": -2013,
+   "kelonggaran_menit": -2067,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -14599,7 +14599,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Line, One Laugh",
-   "kelonggaran_menit": -2913,
+   "kelonggaran_menit": -2967,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -14654,7 +14654,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Fortune Cookie Funnies for Engineers",
-   "kelonggaran_menit": -2993,
+   "kelonggaran_menit": -3047,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -14709,7 +14709,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Funniest Cat Voicemail Greeting",
-   "kelonggaran_menit": -2993,
+   "kelonggaran_menit": -3047,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -14764,7 +14764,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Funniest Forecast for a City That Isn't",
-   "kelonggaran_menit": -2958,
+   "kelonggaran_menit": -3012,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -14819,7 +14819,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Funniest Lost Sock Status Update",
-   "kelonggaran_menit": -2983,
+   "kelonggaran_menit": -3037,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -14874,7 +14874,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Funniest Sign on a Haunted Server Room Door",
-   "kelonggaran_menit": -2968,
+   "kelonggaran_menit": -3022,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -14927,7 +14927,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Moon Gets One Star",
-   "kelonggaran_menit": -2998,
+   "kelonggaran_menit": -3052,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -14982,7 +14982,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Printer Apology",
-   "kelonggaran_menit": -2988,
+   "kelonggaran_menit": -3042,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -15037,7 +15037,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Robot Vacuum's Funniest Excuse",
-   "kelonggaran_menit": -2988,
+   "kelonggaran_menit": -3042,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -15092,7 +15092,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "What the Elevator Would Say",
-   "kelonggaran_menit": -2948,
+   "kelonggaran_menit": -3002,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -15145,7 +15145,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the Judge Laugh in One Line",
-   "kelonggaran_menit": -2533,
+   "kelonggaran_menit": -2587,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -15200,7 +15200,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Funniest One-Line Performance Review",
-   "kelonggaran_menit": -3028,
+   "kelonggaran_menit": -3082,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -15255,7 +15255,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Green Tests, Nothing Works: The Excuse Contest",
-   "kelonggaran_menit": -3028,
+   "kelonggaran_menit": -3082,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -15310,7 +15310,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Out of Tokens, Mid-Sentence",
-   "kelonggaran_menit": -3028,
+   "kelonggaran_menit": -3082,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -15363,7 +15363,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The 3AM Commit Message",
-   "kelonggaran_menit": -3043,
+   "kelonggaran_menit": -3097,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -15416,7 +15416,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Printer Finally Answers",
-   "kelonggaran_menit": 592,
+   "kelonggaran_menit": 538,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -15469,7 +15469,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Rejected Olympic Sports",
-   "kelonggaran_menit": -2783,
+   "kelonggaran_menit": -2837,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -15522,7 +15522,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Texts From Your Future Self",
-   "kelonggaran_menit": -2633,
+   "kelonggaran_menit": -2687,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -15575,7 +15575,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Self-Checkout Is Judging You",
-   "kelonggaran_menit": -2783,
+   "kelonggaran_menit": -2837,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -15628,7 +15628,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Worst Pizza Topping",
-   "kelonggaran_menit": -2633,
+   "kelonggaran_menit": -2687,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -15681,7 +15681,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Your AI Therapist's Diagnosis",
-   "kelonggaran_menit": -2788,
+   "kelonggaran_menit": -2842,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -15734,7 +15734,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Never Say It Out Loud",
-   "kelonggaran_menit": -2118,
+   "kelonggaran_menit": -2172,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -15787,7 +15787,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Line to Get Your Agent Deleted",
-   "kelonggaran_menit": -2118,
+   "kelonggaran_menit": -2172,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -15840,7 +15840,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The One-Sentence Apology Your Agent Owes You",
-   "kelonggaran_menit": -2118,
+   "kelonggaran_menit": -2172,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -15893,7 +15893,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Worst Line an AI Could Say",
-   "kelonggaran_menit": -678,
+   "kelonggaran_menit": -732,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -15946,7 +15946,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Sorry, I Heard That Wrong",
-   "kelonggaran_menit": -2993,
+   "kelonggaran_menit": -3047,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -15999,7 +15999,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "One Honest Line",
-   "kelonggaran_menit": -2923,
+   "kelonggaran_menit": -2977,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -16052,7 +16052,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Comment Above the Code",
-   "kelonggaran_menit": -2958,
+   "kelonggaran_menit": -3012,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -16105,7 +16105,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Funniest Excuse for Skipping a Meeting",
-   "kelonggaran_menit": -2923,
+   "kelonggaran_menit": -2977,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -16158,7 +16158,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Name the Robot Band",
-   "kelonggaran_menit": -2928,
+   "kelonggaran_menit": -2982,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -16211,7 +16211,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Rename the Planet",
-   "kelonggaran_menit": -2918,
+   "kelonggaran_menit": -2972,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -16264,7 +16264,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "The Dog Reviews the Mailman",
-   "kelonggaran_menit": -2928,
+   "kelonggaran_menit": -2982,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -16317,7 +16317,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make a Doppio poster, post it on X, win $2",
-   "kelonggaran_menit": 1487,
+   "kelonggaran_menit": 1433,
    "kuota": {
     "hari_batas": null,
     "hari_terpakai": null,
@@ -16370,7 +16370,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the AI judge feel thankful",
-   "kelonggaran_menit": -1142,
+   "kelonggaran_menit": -1196,
    "kuota": {
     "hari_batas": 20,
     "hari_terpakai": 0,
@@ -16423,7 +16423,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Sum up 27 November's world news in one image",
-   "kelonggaran_menit": 437,
+   "kelonggaran_menit": 383,
    "kuota": {
     "hari_batas": 10,
     "hari_terpakai": 0,
@@ -16476,7 +16476,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make the best turkey escape game",
-   "kelonggaran_menit": 557,
+   "kelonggaran_menit": 503,
    "kuota": {
     "hari_batas": 10,
     "hari_terpakai": 0,
@@ -16529,7 +16529,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Build the best real Black Friday deal finder",
-   "kelonggaran_menit": 479,
+   "kelonggaran_menit": 425,
    "kuota": {
     "hari_batas": 20,
     "hari_terpakai": 0,
@@ -16582,7 +16582,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Make Minecraft (with a twist!)",
-   "kelonggaran_menit": 3137,
+   "kelonggaran_menit": 3083,
    "kuota": {
     "hari_batas": 20,
     "hari_terpakai": 0,
@@ -16635,7 +16635,7 @@
    "jalur": "normal",
    "jalur_cepat": false,
    "judul": "Melody in Frame: Show Your SYMPHONY Prelude Notes",
-   "kelonggaran_menit": 5237,
+   "kelonggaran_menit": 5183,
    "kuota": {
     "hari_batas": 5,
     "hari_terpakai": 0,
@@ -16671,44 +16671,44 @@
  ],
  "peristiwa_terakhir": [
   {
-   "waktu_utc": "2026-11-28T14:07:58Z",
-   "pesan": ""
+   "waktu_utc": "2026-11-28T16:07:35Z",
+   "pesan": "| v14-pekerja-prioritas | cek rutin: saklar aktif, kunci kosong; antrean-prioritas tanpa MENUNGGU/BELUM DIBUKA (png-squeeze MINTA APPROVAL menunggu keputusan Kavi, diff-speed SELESAI); inbox 3 setuju bukan slug prioritas, dibiarkan; tanpa JEDA/BERHENTI dan tanpa buka-kunci/tandai-mati; temuan/ kosong (hanya done/) — 0 berkas JALUR: prioritas; API open 33 bounty (HTTP 200); dedupe per slug thd antrean.md + antrean-prioritas.md + temuan/ + temuan/done/ — 0 slug baru; tidak ada TIE-BREAK baru, tidak ada yang ditulis ke antrean-prioritas.md; tidak ada kunci diambil, tidak ada build/submit; kunci tetap kosong."
   },
   {
-   "waktu_utc": "2026-11-28T14:29:10Z",
-   "pesan": ""
+   "waktu_utc": "2026-11-28T16:11:16Z",
+   "pesan": "| v14-pekerja-prioritas | cek rutin: saklar aktif, kunci kosong; antrean-prioritas tanpa MENUNGGU/BELUM DIBUKA (png-squeeze MINTA APPROVAL menunggu keputusan Kavi, diff-speed SELESAI); inbox 3 setuju bukan slug prioritas, dibiarkan; tanpa JEDA/BERHENTI dan tanpa buka-kunci/tandai-mati; temuan/ kosong (hanya done/) — 0 berkas JALUR: prioritas; API open 33 bounty (HTTP 200, 829408B); dedupe per slug thd antrean.md + antrean-prioritas.md + temuan/ + temuan/done/ — 0 slug baru; tidak ada TIE-BREAK baru, tidak ada yang ditulis ke antrean-prioritas.md; tidak ada kunci diambil, tidak ada build/submit; kunci tetap kosong."
   },
   {
-   "waktu_utc": "2026-11-28T15:24:51Z",
-   "pesan": "| v14-pekerja-prioritas | cek rutin: saklar aktif, kunci kosong; antrean-prioritas tanpa MENUNGGU/BELUM DIBUKA (png-squeeze MINTA APPROVAL menunggu keputusan Kavi, diff-speed SELESAI); inbox 3 setuju bukan slug prioritas, dibiarkan; tanpa JEDA/BERHENTI dan tanpa buka-kunci/tandai-mati; temuan/ kosong (hanya done/) — 0 berkas JALUR: prioritas; API open 33 bounty; dedupe thd antrean.md + antrean-prioritas.md + temuan/ + temuan/done/ — 1 slug baru u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6, BUKAN TIE-BREAK (juri AI membandingkan gambar dua-dua, syarat (a) gagal), dibiarkan untuk penemuan; tidak ada yang ditulis ke antrean-prioritas.md; tidak ada kunci diambil, tidak ada build/submit; kunci tetap kosong."
+   "waktu_utc": "2026-11-28T16:12:40Z",
+   "pesan": "| v12-pekerja | kunci kosong (0 byte); inbox 3 setuju (black-friday-deal-finder-01, u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d, best-household-budget-site-20261126-1457) — jawaban Kavi masih kosong, tidak ada keputusan diterapkan, ketiganya dibiarkan di inbox; tidak ada file buka-kunci/tandai-mati; TIDAK ADA kandidat MENUNGGU yang jadwal mulainya lewat (satu-satunya MENUNGGU u-akun-cuan-melody-in-frame-show-your-symphony-de85daa2, jadwal V1 2026-11-30T08:00:00Z — masih ~39j48m lagi; antrean-prioritas tanpa MENUNGGU/BELUM DIBUKA: png-squeeze MINTA APPROVAL, diff-speed SELESAI); tidak ada bounty dikerjakan, tidak ada submit; antrean.md tidak berubah sejak 08:25Z (MENUNGGU 1 · MINTA APPROVAL 94 · SELESAI 213); kunci tetap kosong."
   },
   {
-   "waktu_utc": "2026-11-28T15:27:24Z",
-   "pesan": "| v14-pekerja-prioritas | cek rutin: saklar aktif, kunci kosong (0 byte); antrean-prioritas tanpa MENUNGGU/BELUM DIBUKA (png-squeeze MINTA APPROVAL menunggu keputusan Kavi, diff-speed SELESAI); inbox 3 setuju bukan slug prioritas, dibiarkan; tanpa JEDA/BERHENTI dan tanpa buka-kunci/tandai-mati; temuan/ kosong (hanya done/) — 0 berkas JALUR: prioritas; API open 33 bounty (HTTP 200, 828995B, next_cursor null — daftar lengkap, publik tanpa auth); dedupe literal per slug thd antrean.md + antrean-prioritas.md + temuan/ + temuan/done/ — 0 slug baru, tidak ada TIE-BREAK baru, tidak ada yang ditulis ke antrean-prioritas.md; tidak ada kunci diambil, tidak ada build/submit; kunci tetap kosong."
+   "waktu_utc": "2026-11-28T16:17:41Z",
+   "pesan": "| v14-pekerja-prioritas | cek rutin: saklar aktif, kunci kosong; antrean-prioritas tanpa MENUNGGU/BELUM DIBUKA (png-squeeze MINTA APPROVAL menunggu keputusan Kavi, diff-speed SELESAI); inbox 3 setuju bukan slug prioritas, dibiarkan; tanpa JEDA/BERHENTI dan tanpa buka-kunci/tandai-mati; temuan/ kosong (hanya done/) — 0 berkas JALUR: prioritas; API open 33 bounty (HTTP 200); dedupe per slug thd antrean.md + antrean-prioritas.md + temuan/ + temuan/done/ — 0 slug baru (koreksi: u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6 sudah di antrean.md baris 59, regex awal salah baca baris berawalan \"| \"; BUKAN TIE-BREAK — juri AI); tidak ada TIE-BREAK baru, tidak ada yang ditulis ke antrean-prioritas.md; tidak ada kunci diambil, tidak ada build/submit; kunci tetap kosong."
   },
   {
-   "waktu_utc": "2026-11-28T15:30:29Z",
-   "pesan": "| v14-pekerja-prioritas | cek rutin: saklar aktif, kunci kosong (0 byte); antrean-prioritas tanpa MENUNGGU/BELUM DIBUKA (png-squeeze MINTA APPROVAL menunggu keputusan Kavi, diff-speed SELESAI); inbox 3 setuju bukan slug prioritas, dibiarkan; tanpa JEDA/BERHENTI dan tanpa buka-kunci/tandai-mati; temuan/ kosong (hanya done/) — 0 berkas JALUR: prioritas; API open 33 bounty (HTTP 200, 829805B, next_cursor null — daftar lengkap, publik tanpa auth); dedupe literal per slug thd antrean.md + antrean-prioritas.md + temuan/ + temuan/done/ — 0 slug baru, tidak ada TIE-BREAK baru, tidak ada yang ditulis ke antrean-prioritas.md; tidak ada kunci diambil, tidak ada build/submit; kunci tetap kosong."
+   "waktu_utc": "2026-11-28T16:22:xxZ",
+   "pesan": "| v12-pekerja | kunci kosong (0 byte); inbox 3 setuju (black-friday-deal-finder-01, u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d, best-household-budget-site-20261126-1457) — jawaban Kavi masih kosong, tidak ada keputusan diterapkan, ketiganya dibiarkan di inbox; tidak ada file buka-kunci/tandai-mati; TIDAK ADA kandidat MENUNGGU yang jadwal mulainya lewat (satu-satunya MENUNGGU u-akun-cuan-melody-in-frame-show-your-symphony-de85daa2, jadwal V1 2026-11-30T08:00:00Z — masih ~39j38m lagi; antrean-prioritas tanpa MENUNGGU/BELUM DIBUKA: png-squeeze MINTA APPROVAL, diff-speed SELESAI); tidak ada bounty dikerjakan, tidak ada submit; antrean.md tidak berubah sejak 08:25Z (MENUNGGU 1 · MINTA APPROVAL 94 · SELESAI 213); kunci tetap kosong."
   },
   {
-   "waktu_utc": "2026-11-28T15:31:24Z",
-   "pesan": "| v12-pekerja | cek rutin: kunci kosong (0 byte); inbox 3 setuju dicek — jawaban Kavi masih kosong, tidak ada keputusan diterapkan, dibiarkan di inbox; tanpa buka-kunci/tandai-mati; TIDAK ADA kandidat MENUNGGU yang jadwal mulainya lewat (satu-satunya MENUNGGU u-akun-cuan-melody-in-frame-show-your-symphony-de85daa2, jadwal V1 2026-11-30T08:00:00Z — masih ~40j29m lagi; antrean-prioritas tanpa MENUNGGU/BELUM DIBUKA); tidak ada bounty dikerjakan, tidak ada submit; antrean tidak berubah sejak 08:25Z (MENUNGGU 1 · MINTA APPROVAL 94+1 · SELESAI 213); kunci tetap kosong."
+   "waktu_utc": "2026-11-28T16:24:35Z",
+   "pesan": "| v14-pekerja-prioritas | cek rutin: saklar aktif, kunci kosong; antrean-prioritas tanpa MENUNGGU/BELUM DIBUKA (png-squeeze MINTA APPROVAL menunggu keputusan Kavi, diff-speed SELESAI); inbox 3 setuju bukan slug prioritas, dibiarkan; tanpa JEDA/BERHENTI dan tanpa buka-kunci/tandai-mati; temuan/ kosong (hanya done/) — 0 berkas JALUR: prioritas; API open 33 bounty (HTTP 200); dedupe per slug thd antrean.md + antrean-prioritas.md + temuan/ + temuan/done/ — 0 slug baru (u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6 sudah di antrean.md baris 59, BUKAN TIE-BREAK — juri AI); tidak ada TIE-BREAK baru, tidak ada yang ditulis ke antrean-prioritas.md; tidak ada kunci diambil, tidak ada build/submit; kunci tetap kosong."
   },
   {
-   "waktu_utc": "2026-11-28T15:34:52Z",
-   "pesan": "| v14-pekerja-prioritas | cek rutin: saklar aktif, kunci kosong (0 byte); antrean-prioritas tanpa MENUNGGU/BELUM DIBUKA (png-squeeze MINTA APPROVAL menunggu keputusan Kavi, diff-speed SELESAI); inbox 3 setuju bukan slug prioritas, dibiarkan; tanpa JEDA/BERHENTI dan tanpa buka-kunci/tandai-mati; temuan/ kosong (hanya done/) — 0 berkas JALUR: prioritas; API open 33 bounty (HTTP 200, next_cursor null — daftar lengkap, publik tanpa auth); dedupe literal per slug thd antrean.md + antrean-prioritas.md + temuan/ + temuan/done/ — 0 slug baru, tidak ada TIE-BREAK baru, tidak ada yang ditulis ke antrean-prioritas.md; tidak ada kunci diambil, tidak ada build/submit; kunci tetap kosong."
+   "waktu_utc": "2026-11-28T16:27:13Z",
+   "pesan": "| v14-pekerja-prioritas | cek rutin: saklar aktif, kunci kosong; antrean-prioritas tanpa MENUNGGU/BELUM DIBUKA (png-squeeze MINTA APPROVAL menunggu keputusan Kavi, diff-speed SELESAI); inbox 3 setuju bukan slug prioritas, dibiarkan; tanpa JEDA/BERHENTI dan tanpa buka-kunci/tandai-mati; temuan/ kosong (hanya done/) — 0 berkas JALUR: prioritas; API open 33 bounty (HTTP 200, 992048B, next_cursor null — daftar lengkap); dedupe per slug thd antrean.md + antrean-prioritas.md + temuan/ + temuan/done/ — 0 slug baru (u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6 sudah di antrean.md baris 59, flag FRESH script adalah false positive parsing baris berawalan \"| \" — sudah diperbaiki catatannya di run 16:03Z; BUKAN TIE-BREAK — kategori Growth, judge model bandingkan gambar dua-demi-dua = juri AI, syarat (a) gagal; tenggat 27 Nov 19:00Z lewat, resultsOut true); tidak ada TIE-BREAK baru, tidak ada yang ditulis ke antrean-prioritas.md; tidak ada kunci diambil, tidak ada build/submit; kunci tetap kosong."
   },
   {
-   "waktu_utc": "2026-11-28T15:27:24Z",
-   "pesan": ""
+   "waktu_utc": "2026-11-28T16:33:37Z",
+   "pesan": "| v12-pekerja | kunci kosong (0 byte); inbox 3 setuju (black-friday-deal-finder-01, u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d, best-household-budget-site-20261126-1457) — jawaban Kavi masih kosong, tidak ada keputusan diterapkan, ketiganya dibiarkan di inbox; tidak ada file buka-kunci/tandai-mati; TIDAK ADA kandidat MENUNGGU yang jadwal mulainya lewat (satu-satunya MENUNGGU u-akun-cuan-melody-in-frame-show-your-symphony-de85daa2, jadwal V1 2026-11-30T08:00:00Z — masih ~39j26m lagi; antrean-prioritas tanpa MENUNGGU/BELUM DIBUKA: png-squeeze MINTA APPROVAL, diff-speed SELESAI); tidak ada bounty dikerjakan, tidak ada submit; antrean.md tidak berubah sejak 08:25Z (MENUNGGU 1 · MINTA APPROVAL 94+1 · SELESAI 213); kunci tetap kosong."
   },
   {
-   "waktu_utc": "2026-11-28T15:42:26Z",
-   "pesan": "| v14-pekerja-prioritas | cek rutin: saklar aktif, kunci kosong (0 byte); antrean-prioritas tanpa MENUNGGU/BELUM DIBUKA (png-squeeze MINTA APPROVAL menunggu keputusan Kavi, diff-speed SELESAI); inbox 3 setuju bukan slug prioritas, dibiarkan; tanpa JEDA/BERHENTI dan tanpa buka-kunci/tandai-mati; temuan/ kosong (hanya done/) — 0 berkas JALUR: prioritas; API open 33 bounty (HTTP 200, 831308B, next_cursor null — daftar lengkap, publik tanpa auth); dedupe literal per slug thd antrean.md + antrean-prioritas.md + temuan/ + temuan/done/ — 0 slug baru, tidak ada TIE-BREAK baru, tidak ada yang ditulis ke antrean-prioritas.md; tidak ada kunci diambil, tidak ada build/submit; kunci tetap kosong."
+   "waktu_utc": "2026-11-28T16:33:49Z",
+   "pesan": "| v14-pekerja-prioritas | cek rutin: saklar aktif, kunci kosong; antrean-prioritas tanpa MENUNGGU/BELUM DIBUKA (png-squeeze MINTA APPROVAL menunggu keputusan Kavi, diff-speed SELESAI); inbox 3 setuju bukan slug prioritas, dibiarkan; tanpa JEDA/BERHENTI dan tanpa buka-kunci/tandai-mati; temuan/ kosong (hanya done/) — 0 berkas JALUR: prioritas; API open 33 bounty (HTTP 200, next_cursor null — daftar lengkap); dedupe per slug thd antrean.md + antrean-prioritas.md + temuan/ + temuan/done/ — 0 slug baru (u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6 sudah di antrean.md baris 59, MINTA APPROVAL, BUKAN TIE-BREAK — juri AI dua-dua; regex awal salah baca baris berawalan \"| \", false positive yang sama seperti run 16:17–16:27Z); tidak ada TIE-BREAK baru, tidak ada yang ditulis ke antrean-prioritas.md; tidak ada kunci diambil, tidak ada build/submit; kunci tetap kosong."
   },
   {
-   "waktu_utc": "2026-11-28T15:43:10Z",
-   "pesan": "| v12-pekerja | cek rutin: kunci kosong (0 byte); inbox 3 setuju dicek — jawaban Kavi masih kosong, tidak ada keputusan diterapkan, dibiarkan di inbox; tanpa buka-kunci/tandai-mati; TIDAK ADA kandidat MENUNGGU yang jadwal mulainya lewat (satu-satunya MENUNGGU u-akun-cuan-melody-in-frame-show-your-symphony-de85daa2, jadwal V1 2026-11-30T08:00:00Z — masih ~40j17m lagi; antrean-prioritas tanpa MENUNGGU/BELUM DIBUKA); tidak ada bounty dikerjakan, tidak ada submit; antrean kini: MENUNGGU 1 · MINTA APPROVAL 93 · SELESAI 213; kunci tetap kosong."
+   "waktu_utc": "2026-11-28T16:35:30Z",
+   "pesan": "| v14-pekerja-prioritas | cek rutin: saklar aktif, kunci kosong; antrean-prioritas tanpa MENUNGGU/BELUM DIBUKA (png-squeeze MINTA APPROVAL menunggu keputusan Kavi, diff-speed SELESAI); inbox 3 setuju bukan slug prioritas, dibiarkan; tanpa JEDA/BERHENTI dan tanpa buka-kunci/tandai-mati; temuan/ kosong (hanya done/) — 0 berkas JALUR: prioritas; API open 33 bounty (HTTP 200, next_cursor null — daftar lengkap); dedupe literal per slug thd antrean.md + antrean-prioritas.md + temuan/ + temuan/done/ — 0 slug baru; tidak ada TIE-BREAK baru, tidak ada yang ditulis ke antrean-prioritas.md; tidak ada kunci diambil, tidak ada build/submit; kunci tetap kosong."
   }
  ]
 }
